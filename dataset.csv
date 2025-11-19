@@ -14284,3 +14284,72 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2025-0352,Paris Masters,20251027,M,Hard,298,200000,9,Felix Auger Aliassime,R,193.0,25,122330,13,Alexander Bublik,R,196.0,28,7-6(3) 6-4,3,SF
 2025-0352,Paris Masters,20251027,M,Hard,299,206173,2,Jannik Sinner,R,191.0,24,100644,3,Alexander Zverev,R,198.0,28,6-0 6-1,3,SF
 2025-0352,Paris Masters,20251027,M,Hard,300,206173,2,Jannik Sinner,R,191.0,24,200000,9,Felix Auger Aliassime,R,193.0,25,6-4 7-6(4),3,F
+2025-5100,Athens,20251102,A,Hard,274,126214,,Alejandro Tabilo,L,188.0,28,200443,,Adam Walton,R,183.0,26,7-6(7) 6(6)-7 7-5,3,R32
+2025-5100,Athens,20251102,A,Hard,275,200624,,Sebastian Korda,R,196.0,25,200615,7,Alexei Popyrin,R,196.0,26,4-6 6-3 6-4,3,R32
+2025-5100,Athens,20251102,A,Hard,276,132686,6,Nuno Borges,R,185.0,28,208852,,Stefanos Sakellaridis,R,196.0,21,7-6(4) 6-3,3,R32
+2025-5100,Athens,20251102,A,Hard,277,104527,,Stan Wawrinka,R,183.0,40,122298,,Botic Van De Zandschulp,R,191.0,30,2-6 7-6(5) 7-5,3,R32
+2025-5100,Athens,20251102,A,Hard,278,208118,,Eliot Spizzirri,R,183.0,24,111513,,Laslo Djere,R,188.0,30,1-6 7-6(6) 6-2,3,R32
+2025-5100,Athens,20251102,A,Hard,279,200240,,Vit Kopriva,R,178.0,28,124187,,Reilly Opelka,R,211.0,28,6-4 6-3,3,R32
+2025-5100,Athens,20251102,A,Hard,280,200175,,Miomir Kecmanovic,R,183.0,26,111794,,Kamil Majchrzak,R,180.0,29,7-6(4) 7-6(4),3,R32
+2025-5100,Athens,20251102,A,Hard,281,106000,,Damir Dzumhur,R,175.0,33,207985,,Jacob Fearnley,R,183.0,24,6-4 6-2,3,R32
+2025-5100,Athens,20251102,A,Hard,282,124186,5,Alexandre Muller,R,183.0,28,105526,,Jan Lennard Struff,R,193.0,35,6-3 2-6 7-6(6),3,R32
+2025-5100,Athens,20251102,A,Hard,283,105870,,Yannick Hanfmann,R,193.0,34,129814,,Ivan Ivanov,R,,17,6-4 6-2,3,R32
+2025-5100,Athens,20251102,A,Hard,284,106218,,Marcos Giron,R,180.0,32,117531,,Pedro Villena Martinez,U,,43,6-4 6-1,3,R32
+2025-5100,Athens,20251102,A,Hard,285,144869,,Tomas Martin Etcheverry,R,196.0,26,111456,,Mackenzie Mcdonald,R,178.0,30,6(5)-7 7-6(3) 6-3,3,R32
+2025-5100,Athens,20251102,A,Hard,286,200624,,Sebastian Korda,R,196.0,25,106000,,Damir Dzumhur,R,175.0,33,4-6 6-3 6-3,3,R16
+2025-5100,Athens,20251102,A,Hard,287,132686,6,Nuno Borges,R,185.0,28,208118,,Eliot Spizzirri,R,183.0,24,5-7 6-3 6-4,3,R16
+2025-5100,Athens,20251102,A,Hard,288,104925,1,Novak Djokovic,R,188.0,38,126214,,Alejandro Tabilo,L,188.0,28,7-6(3) 6-1,3,R16
+2025-5100,Athens,20251102,A,Hard,289,105870,,Yannick Hanfmann,R,193.0,34,200240,,Vit Kopriva,R,178.0,28,6-2 5-7 7-5,3,R16
+2025-5100,Athens,20251102,A,Hard,290,124186,5,Alexandre Muller,R,183.0,28,144869,,Tomas Martin Etcheverry,R,196.0,26,6(2)-7 7-6(4) 7-6(3),3,R16
+2025-5100,Athens,20251102,A,Hard,291,106218,,Marcos Giron,R,180.0,32,206909,4,Brandon Nakashima,R,188.0,24,7-6(7) 6-1,3,R16
+2025-5100,Athens,20251102,A,Hard,292,200175,,Miomir Kecmanovic,R,183.0,26,209260,3,Luciano Darderi,R,183.0,23,4-6 6-2 6-3,3,R16
+2025-5100,Athens,20251102,A,Hard,293,207518,2,Lorenzo Musetti,R,185.0,23,104527,,Stan Wawrinka,R,183.0,40,4-6 7-6(5) 6-4,3,R16
+2025-5100,Athens,20251102,A,Hard,294,200624,,Sebastian Korda,R,196.0,25,200175,,Miomir Kecmanovic,R,183.0,26,6-3 6-2,3,QF
+2025-5100,Athens,20251102,A,Hard,295,105870,,Yannick Hanfmann,R,193.0,34,106218,,Marcos Giron,R,180.0,32,7-6(3) 6-4,3,QF
+2025-5100,Athens,20251102,A,Hard,296,207518,2,Lorenzo Musetti,R,185.0,23,124186,5,Alexandre Muller,R,183.0,28,6-2 6-4,3,QF
+2025-5100,Athens,20251102,A,Hard,297,104925,1,Novak Djokovic,R,188.0,38,132686,6,Nuno Borges,R,185.0,28,7-6(1) 6-4,3,QF
+2025-5100,Athens,20251102,A,Hard,298,207518,2,Lorenzo Musetti,R,185.0,23,200624,,Sebastian Korda,R,196.0,25,6-0 5-7 7-5,3,SF
+2025-5100,Athens,20251102,A,Hard,299,104925,1,Novak Djokovic,R,188.0,38,105870,,Yannick Hanfmann,R,193.0,34,6-3 6-4,3,SF
+2025-5100,Athens,20251102,A,Hard,300,104925,1,Novak Djokovic,R,188.0,38,207518,2,Lorenzo Musetti,R,185.0,23,4-6 6-3 7-5,3,F
+2025-0341,Metz,20251102,A,Hard,274,200384,,Hugo Gaston,L,173.0,25,209279,,Terence Atmane,L,193.0,23,6-4 6-1,3,R32
+2025-0341,Metz,20251102,A,Hard,275,209070,,Arthur Cazaux,R,183.0,23,105173,,Adrian Mannarino,L,180.0,37,6-3 7-6(4),3,R32
+2025-0341,Metz,20251102,A,Hard,276,210530,,Learner Tien,L,180.0,20,200259,,Ugo Blanchet,R,175.0,26,6-3 6-3,3,R32
+2025-0341,Metz,20251102,A,Hard,277,202127,,Clement Tabur,R,173.0,25,206499,,Aleksandar Kovacevic,R,183.0,27,6-3 6-2,3,R32
+2025-0341,Metz,20251102,A,Hard,278,132283,,Lorenzo Sonego,R,191.0,30,123828,,Jan Choinski,R,196.0,29,4-6 6-4 6-4,3,R32
+2025-0341,Metz,20251102,A,Hard,279,126964,,Vitaliy Sachko,R,188.0,28,208659,,Giovanni Mpetshi Perricard,R,203.0,22,7-6(10) 6-3,3,R32
+2025-0341,Metz,20251102,A,Hard,280,126610,,Matteo Berrettini,R,196.0,29,111460,,Quentin Halys,R,191.0,29,6-2 6-4,3,R32
+2025-0341,Metz,20251102,A,Hard,281,111815,7,Cameron Norrie,L,188.0,30,208316,,Valentin Royer,R,188.0,24,6-3 6(2)-7 6-3,3,R32
+2025-0341,Metz,20251102,A,Hard,282,208021,,Kyrian Jacquet,R,178.0,24,209414,,Luca Van Assche,R,178.0,21,4-6 6-3 6-4,3,R32
+2025-0341,Metz,20251102,A,Hard,283,210696,,Alexander Blockx,R,191.0,20,208859,,Francesco Passaro,R,180.0,24,3-6 6-3 6-4,3,R32
+2025-0341,Metz,20251102,A,Hard,284,126846,,Aleksandar Vukic,R,188.0,29,144895,8,Corentin Moutet,L,180.0,26,3-6 7-6(6) 7-6(8),3,R32
+2025-0341,Metz,20251102,A,Hard,285,127157,,Daniel Altmaier,R,188.0,27,126239,6,Arthur Rinderknech,R,196.0,30,6-4 6-4,3,R32
+2025-0341,Metz,20251102,A,Hard,286,111815,7,Cameron Norrie,L,188.0,30,209070,,Arthur Cazaux,R,183.0,23,6(1)-7 7-6(7) 6-2,3,R16
+2025-0341,Metz,20251102,A,Hard,287,132283,,Lorenzo Sonego,R,191.0,30,207925,4,Flavio Cobolli,R,183.0,23,2-6 6-3 7-5,3,R16
+2025-0341,Metz,20251102,A,Hard,288,210530,,Learner Tien,L,180.0,20,121411,,Moez Echargui,R,178.0,32,7-6(3) 6-3,3,R16
+2025-0341,Metz,20251102,A,Hard,289,202127,,Clement Tabur,R,173.0,25,210696,,Alexander Blockx,R,191.0,20,6(4)-7 7-6(6) 7-6(6),3,R16
+2025-0341,Metz,20251102,A,Hard,290,208021,,Kyrian Jacquet,R,178.0,24,200385,,Dan Added,R,183.0,26,6-0 6-2,3,R16
+2025-0341,Metz,20251102,A,Hard,291,126610,,Matteo Berrettini,R,196.0,29,126846,,Aleksandar Vukic,R,188.0,29,7-6(5) 6-3,3,R16
+2025-0341,Metz,20251102,A,Hard,292,127157,,Daniel Altmaier,R,188.0,27,200384,,Hugo Gaston,L,173.0,25,4-6 6-0,3,R16
+2025-0341,Metz,20251102,A,Hard,293,126964,,Vitaliy Sachko,R,188.0,28,122330,3,Alexander Bublik,R,196.0,28,7-5 3-6 7-5,3,R16
+2025-0341,Metz,20251102,A,Hard,294,210530,,Learner Tien,L,180.0,20,126610,,Matteo Berrettini,R,196.0,29,5-7 6-2 6-3,3,QF
+2025-0341,Metz,20251102,A,Hard,295,132283,,Lorenzo Sonego,R,191.0,30,127157,,Daniel Altmaier,R,188.0,27,6-4 7-6(6),3,QF
+2025-0341,Metz,20251102,A,Hard,296,126964,,Vitaliy Sachko,R,188.0,28,202127,,Clement Tabur,R,173.0,25,6-4 3-6 6-4,3,QF
+2025-0341,Metz,20251102,A,Hard,297,111815,7,Cameron Norrie,L,188.0,30,208021,,Kyrian Jacquet,R,178.0,24,4-6 7-6(2) 6-4,3,QF
+2025-0341,Metz,20251102,A,Hard,298,210530,,Learner Tien,L,180.0,20,126964,,Vitaliy Sachko,R,188.0,28,6-1 6-4,3,SF
+2025-0341,Metz,20251102,A,Hard,299,111815,7,Cameron Norrie,L,188.0,30,132283,,Lorenzo Sonego,R,191.0,30,4-6 6-2 6-4,3,SF
+2025-0341,Metz,20251102,A,Hard,300,210530,,Learner Tien,L,180.0,20,111815,7,Cameron Norrie,L,188.0,30,6-3 3-6 7-6(6),3,F
+2025-0605,Tour Finals,20251109,F,Hard,286,100644,3,Alexander Zverev,R,198.0,28,210097,5,Ben Shelton,L,193.0,23,6-3 7-6(6),3,Round Robin - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,287,207989,1,Carlos Alcaraz,R,183.0,22,200282,7,Alex De Minaur,R,183.0,26,7-6(5) 6-2,3,Round Robin - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,288,126203,6,Taylor Fritz,R,196.0,28,207518,9,Lorenzo Musetti,R,185.0,23,6-3 6-4,3,Round Robin Day 2 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,289,206173,2,Jannik Sinner,R,191.0,24,200000,8,Felix Auger Aliassime,R,193.0,25,7-5 6-1,3,Round Robin Day 2 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,290,207518,9,Lorenzo Musetti,R,185.0,23,200282,7,Alex De Minaur,R,183.0,26,7-5 3-6 7-5,3,Round Robin Day 3 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,291,207989,1,Carlos Alcaraz,R,183.0,22,126203,6,Taylor Fritz,R,196.0,28,6(2)-7 7-5 6-3,3,Round Robin Day 3 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,292,200000,8,Felix Auger Aliassime,R,193.0,25,210097,5,Ben Shelton,L,193.0,23,4-6 7-6(7) 7-5,3,Round Robin Day 4 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,293,206173,2,Jannik Sinner,R,191.0,24,100644,3,Alexander Zverev,R,198.0,28,6-4 6-3,3,Round Robin Day 4 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,294,200282,7,Alex De Minaur,R,183.0,26,126203,6,Taylor Fritz,R,196.0,28,7-6(3) 6-3,3,Round Robin Day 5 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,295,207989,1,Carlos Alcaraz,R,183.0,22,207518,9,Lorenzo Musetti,R,185.0,23,6-4 6-1,3,Round Robin Day 5 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,296,200000,8,Felix Auger Aliassime,R,193.0,25,100644,3,Alexander Zverev,R,198.0,28,6-4 7-6(4),3,Round Robin Day 6 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,297,206173,2,Jannik Sinner,R,191.0,24,210097,5,Ben Shelton,L,193.0,23,6-3 7-6(3),3,Round Robin Day 6 - Inalpi Arena
+2025-0605,Tour Finals,20251109,F,Hard,298,206173,2,Jannik Sinner,R,191.0,24,200282,7,Alex De Minaur,R,183.0,26,7-5 6-2,3,SF
+2025-0605,Tour Finals,20251109,F,Hard,299,207989,1,Carlos Alcaraz,R,183.0,22,200000,8,Felix Auger Aliassime,R,193.0,25,6-2 6-4,3,SF
+2025-0605,Tour Finals,20251109,F,Hard,300,206173,2,Jannik Sinner,R,191.0,24,207989,1,Carlos Alcaraz,R,183.0,22,7-6(4) 7-5,3,F
