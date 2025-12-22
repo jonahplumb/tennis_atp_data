@@ -14353,3 +14353,18 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2025-0605,Tour Finals,20251109,F,Hard,298,206173,2,Jannik Sinner,R,191.0,24,200282,7,Alex De Minaur,R,183.0,26,7-5 6-2,3,SF
 2025-0605,Tour Finals,20251109,F,Hard,299,207989,1,Carlos Alcaraz,R,183.0,22,200000,8,Felix Auger Aliassime,R,193.0,25,6-2 6-4,3,SF
 2025-0605,Tour Finals,20251109,F,Hard,300,206173,2,Jannik Sinner,R,191.0,24,207989,1,Carlos Alcaraz,R,183.0,22,7-6(4) 7-5,3,F
+7696,NextGen Finals,20251217,A,Hard,286,149282,5,Nicolai Budkov Kjaer,R,188.0,19,211776,4,Martin Landaluce,R,191.0,19,4-1 3(7)-4 4-2 4-3(4),3,Round Robin - Centre Court
+7696,NextGen Finals,20251217,A,Hard,287,210460,6,Nishesh Basavareddy,R,180.0,20,209976,3,Dino Prizmic,R,188.0,20,4-2 4-3(7) 3(3)-4 4-2,3,Round Robin - Centre Court
+7696,NextGen Finals,20251217,A,Hard,288,210696,2,Alexander Blockx,R,191.0,20,211514,8,Justin Engel,U,,18,3(7)-4 4-2 4-2 4-2,3,Round Robin - Centre Court
+7696,NextGen Finals,20251217,A,Hard,289,212588,7,Rafael Jodar,U,,19,210530,1,Learner Tien,L,180.0,20,1-4 4-3(3) 1-4 4-2 4-3(4),3,Round Robin - Centre Court
+7696,NextGen Finals,20251217,A,Hard,290,149282,5,Nicolai Budkov Kjaer,R,188.0,19,212588,7,Rafael Jodar,U,,19,4-1 4-2 1-4 4-2,3,Round Robin Day 2 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,291,209976,3,Dino Prizmic,R,188.0,20,211514,8,Justin Engel,U,,18,4-1 2-4 4-3(3) 4-1,3,Round Robin Day 2 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,292,210696,2,Alexander Blockx,R,191.0,20,210460,6,Nishesh Basavareddy,R,180.0,20,4-3(2) 4-3(8) 4-1,3,Round Robin Day 2 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,293,210530,1,Learner Tien,L,180.0,20,211776,4,Martin Landaluce,R,191.0,19,1-4 4-1 4-3(4) 4-3(2),3,Round Robin Day 2 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,294,210460,6,Nishesh Basavareddy,R,180.0,20,211514,8,Justin Engel,U,,18,4-3(3) 4-2 4-3(5),3,Round Robin Day 3 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,295,212588,7,Rafael Jodar,U,,19,211776,4,Martin Landaluce,R,191.0,19,4-3(7) 4-1 4-3(2),3,Round Robin Day 3 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,296,210696,2,Alexander Blockx,R,191.0,20,209976,3,Dino Prizmic,R,188.0,20,4-3(4) 2-4 4-2 4-0,3,Round Robin Day 3 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,297,210530,1,Learner Tien,L,180.0,20,149282,5,Nicolai Budkov Kjaer,R,188.0,19,3(2)-4 4-1 4-2 4-2,3,Round Robin Day 3 - Centre Court
+7696,NextGen Finals,20251217,A,Hard,298,210696,2,Alexander Blockx,R,191.0,20,149282,5,Nicolai Budkov Kjaer,R,188.0,19,4-3(4) 4-3(8) 4-2,3,SF
+7696,NextGen Finals,20251217,A,Hard,299,210530,1,Learner Tien,L,180.0,20,210460,6,Nishesh Basavareddy,R,180.0,20,4-2 4-1 4-3(3),3,SF
+7696,NextGen Finals,20251217,A,Hard,300,210530,1,Learner Tien,L,180.0,20,210696,2,Alexander Blockx,R,191.0,20,4-3(4) 4-2 4-1,3,F
