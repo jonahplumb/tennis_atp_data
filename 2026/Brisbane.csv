@@ -1,32 +1,32 @@
 tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
-2026-0339,Brisbane,20241229,A,Hard,270,126207,,Frances Tiafoe,R,188.0,27,126846,,Aleksandar Vukic,R,188.0,29,6-2 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,271,210530,8,Learner Tien,L,180.0,20,200116,,Camilo Ugo Carabelli,R,185.0,26,7-6(4) 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,272,124187,,Reilly Opelka,R,211.0,28,208013,,Dane Sweeny,R,170.0,24,6-3 7-5,3,R32
-2026-0339,Brisbane,20241229,A,Hard,273,210506,,Alex Michelsen,R,193.0,21,105902,,James Duckworth,R,183.0,33,6(4)-7 7-6(2) 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,274,111794,,Kamil Majchrzak,R,180.0,29,127157,,Daniel Altmaier,R,188.0,27,7-6(4) 6-0,3,R32
-2026-0339,Brisbane,20241229,A,Hard,275,200624,,Sebastian Korda,R,196.0,25,200473,,Valentin Vacherot,R,193.0,27,7-6(1) 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,276,111460,,Quentin Halys,R,191.0,29,200615,,Alexei Popyrin,R,196.0,26,5-7 6-3 6-4,3,R32
-2026-0339,Brisbane,20241229,A,Hard,277,208103,3,Jiri Lehecka,R,185.0,24,207830,,Tomas Machac,R,183.0,25,6-4 6(5)-7 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,278,106421,1,Daniil Medvedev,R,198.0,29,105916,,Marton Fucsovics,R,188.0,33,6-2 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,279,206499,,Aleksandar Kovacevic,R,183.0,27,106401,,Nick Kyrgios,R,193.0,30,6-3 6-4,3,R32
-2026-0339,Brisbane,20241229,A,Hard,280,208014,,Rinky Hijikata,R,178.0,24,200443,,Adam Walton,R,183.0,26,6-3 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,281,105777,,Grigor Dimitrov,R,191.0,34,105807,,Pablo Carreno Busta,R,188.0,34,6-3 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,282,111815,7,Cameron Norrie,L,188.0,30,200005,,Ugo Humbert,L,188.0,27,1-6 7-6(6) 7-5,3,R32
-2026-0339,Brisbane,20241229,A,Hard,283,209920,,Raphael Collignon,R,191.0,23,133430,5,Denis Shapovalov,L,185.0,26,6-4 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,284,208659,,Giovanni Mpetshi Perricard,R,203.0,22,126205,4,Tommy Paul,R,185.0,28,7-6(2) 3-6 7-6(6),3,R32
-2026-0339,Brisbane,20241229,A,Hard,285,206909,,Brandon Nakashima,R,188.0,24,200221,2,Alejandro Davidovich Fokina,R,183.0,26,7-6(4) 6-4,3,R32
-2026-0339,Brisbane,20241229,A,Hard,286,111794,,Kamil Majchrzak,R,180.0,29,124187,,Reilly Opelka,R,211.0,28,6(2)-7 7-6(7) 7-6(8),3,R16
-2026-0339,Brisbane,20241229,A,Hard,287,210506,,Alex Michelsen,R,193.0,21,210530,8,Learner Tien,L,180.0,20,6-4 6-2,3,R16
-2026-0339,Brisbane,20241229,A,Hard,288,200624,,Sebastian Korda,R,196.0,25,208103,3,Jiri Lehecka,R,185.0,24,6-3 1-2,3,R16
-2026-0339,Brisbane,20241229,A,Hard,289,106421,1,Daniil Medvedev,R,198.0,29,126207,,Frances Tiafoe,R,188.0,27,6-3 6-2,3,R16
-2026-0339,Brisbane,20241229,A,Hard,290,206909,,Brandon Nakashima,R,188.0,24,111460,,Quentin Halys,R,191.0,29,6-2 6-4,3,R16
-2026-0339,Brisbane,20241229,A,Hard,291,208659,,Giovanni Mpetshi Perricard,R,203.0,22,208014,,Rinky Hijikata,R,178.0,24,4-6 7-6(5) 7-6(4),3,R16
-2026-0339,Brisbane,20241229,A,Hard,292,209920,,Raphael Collignon,R,191.0,23,105777,,Grigor Dimitrov,R,191.0,34,7-6(1) 6-3,3,R16
-2026-0339,Brisbane,20241229,A,Hard,293,206499,,Aleksandar Kovacevic,R,183.0,27,111815,7,Cameron Norrie,L,188.0,30,7-6(4) 4-6 6-4,3,R16
-2026-0339,Brisbane,20241229,A,Hard,294,206909,,Brandon Nakashima,R,188.0,24,209920,,Raphael Collignon,R,191.0,23,6-3 6-3,3,QF
-2026-0339,Brisbane,20241229,A,Hard,295,210506,,Alex Michelsen,R,193.0,21,200624,,Sebastian Korda,R,196.0,25,6-3 7-6(7),3,QF
-2026-0339,Brisbane,20241229,A,Hard,296,206499,,Aleksandar Kovacevic,R,183.0,27,208659,,Giovanni Mpetshi Perricard,R,203.0,22,7-6(3) 4-6 6-3,3,QF
-2026-0339,Brisbane,20241229,A,Hard,297,106421,1,Daniil Medvedev,R,198.0,29,111794,,Kamil Majchrzak,R,180.0,29,6(4)-7 6-3 6-2,3,QF
-2026-0339,Brisbane,20241229,A,Hard,298,206909,,Brandon Nakashima,R,188.0,24,206499,,Aleksandar Kovacevic,R,183.0,27,7-6(4) 6-4,3,SF
-2026-0339,Brisbane,20241229,A,Hard,299,106421,1,Daniil Medvedev,R,198.0,29,210506,,Alex Michelsen,R,193.0,21,6-4 6-2,3,SF
-2026-0339,Brisbane,20241229,A,Hard,300,106421,1,Daniil Medvedev,R,198.0,29,206909,,Brandon Nakashima,R,188.0,24,6-2 7-6(1),3,F
+2026-0339,Brisbane,20260104,A,Hard,270,126207,,Frances Tiafoe,R,188.0,27,126846,,Aleksandar Vukic,R,188.0,29,6-2 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,271,210530,8,Learner Tien,L,180.0,20,200116,,Camilo Ugo Carabelli,R,185.0,26,7-6(4) 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,272,124187,,Reilly Opelka,R,211.0,28,208013,,Dane Sweeny,R,170.0,24,6-3 7-5,3,R32
+2026-0339,Brisbane,20260104,A,Hard,273,210506,,Alex Michelsen,R,193.0,21,105902,,James Duckworth,R,183.0,33,6(4)-7 7-6(2) 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,274,111794,,Kamil Majchrzak,R,180.0,29,127157,,Daniel Altmaier,R,188.0,27,7-6(4) 6-0,3,R32
+2026-0339,Brisbane,20260104,A,Hard,275,200624,,Sebastian Korda,R,196.0,25,200473,,Valentin Vacherot,R,193.0,27,7-6(1) 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,276,111460,,Quentin Halys,R,191.0,29,200615,,Alexei Popyrin,R,196.0,26,5-7 6-3 6-4,3,R32
+2026-0339,Brisbane,20260104,A,Hard,277,208103,3,Jiri Lehecka,R,185.0,24,207830,,Tomas Machac,R,183.0,25,6-4 6(5)-7 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,278,106421,1,Daniil Medvedev,R,198.0,29,105916,,Marton Fucsovics,R,188.0,33,6-2 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,279,206499,,Aleksandar Kovacevic,R,183.0,27,106401,,Nick Kyrgios,R,193.0,30,6-3 6-4,3,R32
+2026-0339,Brisbane,20260104,A,Hard,280,208014,,Rinky Hijikata,R,178.0,24,200443,,Adam Walton,R,183.0,26,6-3 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,281,105777,,Grigor Dimitrov,R,191.0,34,105807,,Pablo Carreno Busta,R,188.0,34,6-3 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,282,111815,7,Cameron Norrie,L,188.0,30,200005,,Ugo Humbert,L,188.0,27,1-6 7-6(6) 7-5,3,R32
+2026-0339,Brisbane,20260104,A,Hard,283,209920,,Raphael Collignon,R,191.0,23,133430,5,Denis Shapovalov,L,185.0,26,6-4 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,284,208659,,Giovanni Mpetshi Perricard,R,203.0,22,126205,4,Tommy Paul,R,185.0,28,7-6(2) 3-6 7-6(6),3,R32
+2026-0339,Brisbane,20260104,A,Hard,285,206909,,Brandon Nakashima,R,188.0,24,200221,2,Alejandro Davidovich Fokina,R,183.0,26,7-6(4) 6-4,3,R32
+2026-0339,Brisbane,20260104,A,Hard,286,111794,,Kamil Majchrzak,R,180.0,29,124187,,Reilly Opelka,R,211.0,28,6(2)-7 7-6(7) 7-6(8),3,R16
+2026-0339,Brisbane,20260104,A,Hard,287,210506,,Alex Michelsen,R,193.0,21,210530,8,Learner Tien,L,180.0,20,6-4 6-2,3,R16
+2026-0339,Brisbane,20260104,A,Hard,288,200624,,Sebastian Korda,R,196.0,25,208103,3,Jiri Lehecka,R,185.0,24,6-3 1-2,3,R16
+2026-0339,Brisbane,20260104,A,Hard,289,106421,1,Daniil Medvedev,R,198.0,29,126207,,Frances Tiafoe,R,188.0,27,6-3 6-2,3,R16
+2026-0339,Brisbane,20260104,A,Hard,290,206909,,Brandon Nakashima,R,188.0,24,111460,,Quentin Halys,R,191.0,29,6-2 6-4,3,R16
+2026-0339,Brisbane,20260104,A,Hard,291,208659,,Giovanni Mpetshi Perricard,R,203.0,22,208014,,Rinky Hijikata,R,178.0,24,4-6 7-6(5) 7-6(4),3,R16
+2026-0339,Brisbane,20260104,A,Hard,292,209920,,Raphael Collignon,R,191.0,23,105777,,Grigor Dimitrov,R,191.0,34,7-6(1) 6-3,3,R16
+2026-0339,Brisbane,20260104,A,Hard,293,206499,,Aleksandar Kovacevic,R,183.0,27,111815,7,Cameron Norrie,L,188.0,30,7-6(4) 4-6 6-4,3,R16
+2026-0339,Brisbane,20260104,A,Hard,294,206909,,Brandon Nakashima,R,188.0,24,209920,,Raphael Collignon,R,191.0,23,6-3 6-3,3,QF
+2026-0339,Brisbane,20260104,A,Hard,295,210506,,Alex Michelsen,R,193.0,21,200624,,Sebastian Korda,R,196.0,25,6-3 7-6(7),3,QF
+2026-0339,Brisbane,20260104,A,Hard,296,206499,,Aleksandar Kovacevic,R,183.0,27,208659,,Giovanni Mpetshi Perricard,R,203.0,22,7-6(3) 4-6 6-3,3,QF
+2026-0339,Brisbane,20260104,A,Hard,297,106421,1,Daniil Medvedev,R,198.0,29,111794,,Kamil Majchrzak,R,180.0,29,6(4)-7 6-3 6-2,3,QF
+2026-0339,Brisbane,20260104,A,Hard,298,206909,,Brandon Nakashima,R,188.0,24,206499,,Aleksandar Kovacevic,R,183.0,27,7-6(4) 6-4,3,SF
+2026-0339,Brisbane,20260104,A,Hard,299,106421,1,Daniil Medvedev,R,198.0,29,210506,,Alex Michelsen,R,193.0,21,6-4 6-2,3,SF
+2026-0339,Brisbane,20260104,A,Hard,300,106421,1,Daniil Medvedev,R,198.0,29,206909,,Brandon Nakashima,R,188.0,24,6-2 7-6(1),3,F

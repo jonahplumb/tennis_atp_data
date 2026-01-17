@@ -1,0 +1,28 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-0301,Auckland,20260112,A,Hard,274,208118,,Eliot Spizzirri,R,183.0,24,105173,,Adrian Mannarino,L,180.0,37,6-4 6-3,3,R32
+2026-0301,Auckland,20260112,A,Hard,275,207681,,Francisco Comesana,R,178.0,25,208316,,Valentin Royer,R,188.0,24,6-4 6-4,3,R32
+2026-0301,Auckland,20260112,A,Hard,276,202385,,Jenson Brooksby,R,188.0,25,211767,,James Watt,R,206.0,25,6-4 6-3,3,R32
+2026-0301,Auckland,20260112,A,Hard,277,202104,7,Sebastian Baez,R,170.0,25,207182,,Emilio Nava,R,185.0,24,4-6 7-5 6-3,3,R32
+2026-0301,Auckland,20260112,A,Hard,278,111815,5,Cameron Norrie,L,188.0,30,200384,,Hugo Gaston,L,173.0,25,6-3 6-4,3,R32
+2026-0301,Auckland,20260112,A,Hard,279,126214,,Alejandro Tabilo,L,188.0,28,200116,,Camilo Ugo Carabelli,R,185.0,26,6-4 6-2,3,R32
+2026-0301,Auckland,20260112,A,Hard,280,208659,,Giovanni Mpetshi Perricard,R,203.0,22,105138,,Roberto Bautista Agut,R,183.0,37,6-3 7-6(2),3,R32
+2026-0301,Auckland,20260112,A,Hard,281,209098,,Hamad Medjedovic,R,188.0,22,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 3-6 7-6(2),3,R32
+2026-0301,Auckland,20260112,A,Hard,282,206681,,Fabian Marozsan,R,193.0,26,104792,,Gael Monfils,R,193.0,39,5-7 6-3 6-4,3,R32
+2026-0301,Auckland,20260112,A,Hard,283,106218,,Marcos Giron,R,180.0,32,124186,,Alexandre Muller,R,183.0,28,6-2 6-2,3,R32
+2026-0301,Auckland,20260112,A,Hard,284,132686,8,Nuno Borges,R,185.0,28,144869,,Tomas Martin Etcheverry,R,196.0,26,7-5 3-6 7-6(2),3,R32
+2026-0301,Auckland,20260112,A,Hard,285,210506,6,Alex Michelsen,R,193.0,21,208363,,Mariano Navone,R,178.0,24,2-6 6-2 7-5,3,R32
+2026-0301,Auckland,20260112,A,Hard,286,208118,,Eliot Spizzirri,R,183.0,24,132686,8,Nuno Borges,R,185.0,28,7-6(6) 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,287,202104,7,Sebastian Baez,R,170.0,25,202385,,Jenson Brooksby,R,188.0,25,7-5 6-0,3,R16
+2026-0301,Auckland,20260112,A,Hard,288,106218,,Marcos Giron,R,180.0,32,210506,6,Alex Michelsen,R,193.0,21,6-4 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,289,208659,,Giovanni Mpetshi Perricard,R,203.0,22,111815,5,Cameron Norrie,L,188.0,30,4-6 6-3 7-6(4),3,R16
+2026-0301,Auckland,20260112,A,Hard,290,209260,4,Luciano Darderi,R,183.0,23,126214,,Alejandro Tabilo,L,188.0,28,1-6 7-5 6-3,3,R16
+2026-0301,Auckland,20260112,A,Hard,291,210084,3,Jakub Mensik,U,,20,209098,,Hamad Medjedovic,R,188.0,22,6-1 3-6 6-3,3,R16
+2026-0301,Auckland,20260112,A,Hard,292,206681,,Fabian Marozsan,R,193.0,26,134770,2,Casper Ruud,R,183.0,27,6-4 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,293,210097,1,Ben Shelton,L,193.0,23,207681,,Francisco Comesana,R,178.0,25,7-5 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,294,206681,,Fabian Marozsan,R,193.0,26,208118,,Eliot Spizzirri,R,183.0,24,6-4 2-6 6-2,3,QF
+2026-0301,Auckland,20260112,A,Hard,295,106218,,Marcos Giron,R,180.0,32,209260,4,Luciano Darderi,R,183.0,23,1-6 7-5 6-4,3,QF
+2026-0301,Auckland,20260112,A,Hard,296,210084,3,Jakub Mensik,U,,20,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-4 6-2,3,QF
+2026-0301,Auckland,20260112,A,Hard,297,202104,7,Sebastian Baez,R,170.0,25,210097,1,Ben Shelton,L,193.0,23,7-5 6-3,3,QF
+2026-0301,Auckland,20260112,A,Hard,298,202104,7,Sebastian Baez,R,170.0,25,106218,,Marcos Giron,R,180.0,32,6-1 6-4,3,SF
+2026-0301,Auckland,20260112,A,Hard,299,210084,3,Jakub Mensik,U,,20,206681,,Fabian Marozsan,R,193.0,26,7-6(9) 4-6 6-1,3,SF
+2026-0301,Auckland,20260112,A,Hard,300,210084,3,Jakub Mensik,U,,20,202104,7,Sebastian Baez,R,170.0,25,6-3 7-6(7),3,F

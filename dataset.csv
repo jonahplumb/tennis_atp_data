@@ -14368,61 +14368,115 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2025-7696,NextGen Finals,20251217,A,Hard,298,210696,2,Alexander Blockx,R,191.0,20,149282,5,Nicolai Budkov Kjaer,R,188.0,19,4-3(4) 4-3(8) 4-2,3,SF
 2025-7696,NextGen Finals,20251217,A,Hard,299,210530,1,Learner Tien,L,180.0,20,210460,6,Nishesh Basavareddy,R,180.0,20,4-2 4-1 4-3(3),3,SF
 2025-7696,NextGen Finals,20251217,A,Hard,300,210530,1,Learner Tien,L,180.0,20,210696,2,Alexander Blockx,R,191.0,20,4-3(4) 4-2 4-1,3,F
-2026-0339,Brisbane,20241229,A,Hard,270,126207,,Frances Tiafoe,R,188.0,27,126846,,Aleksandar Vukic,R,188.0,29,6-2 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,271,210530,8,Learner Tien,L,180.0,20,200116,,Camilo Ugo Carabelli,R,185.0,26,7-6(4) 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,272,124187,,Reilly Opelka,R,211.0,28,208013,,Dane Sweeny,R,170.0,24,6-3 7-5,3,R32
-2026-0339,Brisbane,20241229,A,Hard,273,210506,,Alex Michelsen,R,193.0,21,105902,,James Duckworth,R,183.0,33,6(4)-7 7-6(2) 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,274,111794,,Kamil Majchrzak,R,180.0,29,127157,,Daniel Altmaier,R,188.0,27,7-6(4) 6-0,3,R32
-2026-0339,Brisbane,20241229,A,Hard,275,200624,,Sebastian Korda,R,196.0,25,200473,,Valentin Vacherot,R,193.0,27,7-6(1) 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,276,111460,,Quentin Halys,R,191.0,29,200615,,Alexei Popyrin,R,196.0,26,5-7 6-3 6-4,3,R32
-2026-0339,Brisbane,20241229,A,Hard,277,208103,3,Jiri Lehecka,R,185.0,24,207830,,Tomas Machac,R,183.0,25,6-4 6(5)-7 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,278,106421,1,Daniil Medvedev,R,198.0,29,105916,,Marton Fucsovics,R,188.0,33,6-2 6-3,3,R32
-2026-0339,Brisbane,20241229,A,Hard,279,206499,,Aleksandar Kovacevic,R,183.0,27,106401,,Nick Kyrgios,R,193.0,30,6-3 6-4,3,R32
-2026-0339,Brisbane,20241229,A,Hard,280,208014,,Rinky Hijikata,R,178.0,24,200443,,Adam Walton,R,183.0,26,6-3 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,281,105777,,Grigor Dimitrov,R,191.0,34,105807,,Pablo Carreno Busta,R,188.0,34,6-3 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,282,111815,7,Cameron Norrie,L,188.0,30,200005,,Ugo Humbert,L,188.0,27,1-6 7-6(6) 7-5,3,R32
-2026-0339,Brisbane,20241229,A,Hard,283,209920,,Raphael Collignon,R,191.0,23,133430,5,Denis Shapovalov,L,185.0,26,6-4 6-2,3,R32
-2026-0339,Brisbane,20241229,A,Hard,284,208659,,Giovanni Mpetshi Perricard,R,203.0,22,126205,4,Tommy Paul,R,185.0,28,7-6(2) 3-6 7-6(6),3,R32
-2026-0339,Brisbane,20241229,A,Hard,285,206909,,Brandon Nakashima,R,188.0,24,200221,2,Alejandro Davidovich Fokina,R,183.0,26,7-6(4) 6-4,3,R32
-2026-0339,Brisbane,20241229,A,Hard,286,111794,,Kamil Majchrzak,R,180.0,29,124187,,Reilly Opelka,R,211.0,28,6(2)-7 7-6(7) 7-6(8),3,R16
-2026-0339,Brisbane,20241229,A,Hard,287,210506,,Alex Michelsen,R,193.0,21,210530,8,Learner Tien,L,180.0,20,6-4 6-2,3,R16
-2026-0339,Brisbane,20241229,A,Hard,288,200624,,Sebastian Korda,R,196.0,25,208103,3,Jiri Lehecka,R,185.0,24,6-3 1-2,3,R16
-2026-0339,Brisbane,20241229,A,Hard,289,106421,1,Daniil Medvedev,R,198.0,29,126207,,Frances Tiafoe,R,188.0,27,6-3 6-2,3,R16
-2026-0339,Brisbane,20241229,A,Hard,290,206909,,Brandon Nakashima,R,188.0,24,111460,,Quentin Halys,R,191.0,29,6-2 6-4,3,R16
-2026-0339,Brisbane,20241229,A,Hard,291,208659,,Giovanni Mpetshi Perricard,R,203.0,22,208014,,Rinky Hijikata,R,178.0,24,4-6 7-6(5) 7-6(4),3,R16
-2026-0339,Brisbane,20241229,A,Hard,292,209920,,Raphael Collignon,R,191.0,23,105777,,Grigor Dimitrov,R,191.0,34,7-6(1) 6-3,3,R16
-2026-0339,Brisbane,20241229,A,Hard,293,206499,,Aleksandar Kovacevic,R,183.0,27,111815,7,Cameron Norrie,L,188.0,30,7-6(4) 4-6 6-4,3,R16
-2026-0339,Brisbane,20241229,A,Hard,294,206909,,Brandon Nakashima,R,188.0,24,209920,,Raphael Collignon,R,191.0,23,6-3 6-3,3,QF
-2026-0339,Brisbane,20241229,A,Hard,295,210506,,Alex Michelsen,R,193.0,21,200624,,Sebastian Korda,R,196.0,25,6-3 7-6(7),3,QF
-2026-0339,Brisbane,20241229,A,Hard,296,206499,,Aleksandar Kovacevic,R,183.0,27,208659,,Giovanni Mpetshi Perricard,R,203.0,22,7-6(3) 4-6 6-3,3,QF
-2026-0339,Brisbane,20241229,A,Hard,297,106421,1,Daniil Medvedev,R,198.0,29,111794,,Kamil Majchrzak,R,180.0,29,6(4)-7 6-3 6-2,3,QF
-2026-0339,Brisbane,20241229,A,Hard,298,206909,,Brandon Nakashima,R,188.0,24,206499,,Aleksandar Kovacevic,R,183.0,27,7-6(4) 6-4,3,SF
-2026-0339,Brisbane,20241229,A,Hard,299,106421,1,Daniil Medvedev,R,198.0,29,210506,,Alex Michelsen,R,193.0,21,6-4 6-2,3,SF
-2026-0339,Brisbane,20241229,A,Hard,300,106421,1,Daniil Medvedev,R,198.0,29,206909,,Brandon Nakashima,R,188.0,24,6-2 7-6(1),3,F
-2026-0336,Hong Kong,20241230,A,Hard,274,200059,,Yibing Wu,R,183.0,26,206681,,Fabian Marozsan,R,193.0,26,6-4 6-2,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,275,105227,,Marin Cilic,R,198.0,37,105173,,Adrian Mannarino,L,180.0,37,6-3 6-2,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,276,132686,8,Nuno Borges,R,185.0,28,106000,,Damir Dzumhur,R,175.0,33,6-4 6-3,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,277,209409,,Coleman Wong,R,191.0,21,208363,,Mariano Navone,R,178.0,24,6-3 7-5,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,278,122298,,Botic Van De Zandschulp,R,191.0,30,105526,,Jan Lennard Struff,R,193.0,35,6-3 1-6 6-1,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,279,209992,,Juncheng Shang,L,180.0,20,207681,,Francisco Comesana,R,178.0,25,6-4 6-4,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,280,111581,,Michael Mmoh,R,188.0,27,126214,,Alejandro Tabilo,L,188.0,28,7-5 6-4,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,281,106218,,Marcos Giron,R,180.0,32,111513,,Laslo Djere,R,188.0,30,6-2 6-0,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,282,144869,,Tomas Martin Etcheverry,R,196.0,26,208316,,Valentin Royer,R,188.0,24,6-4 7-5,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,283,124186,7,Alexandre Muller,R,183.0,28,200175,,Miomir Kecmanovic,R,183.0,26,7-5 6-4,3,R32
-2026-0336,Hong Kong,20241230,A,Hard,284,209113,6,Gabriel Diallo,R,203.0,24,207411,,Jesper De Jong,R,180.0,25,6-4 7-6(7),3,R32
-2026-0336,Hong Kong,20241230,A,Hard,285,132283,5,Lorenzo Sonego,R,191.0,30,210536,,Rei Sakamoto,R,193.0,19,6-2 7-6(4),3,R32
-2026-0336,Hong Kong,20241230,A,Hard,286,132686,8,Nuno Borges,R,185.0,28,105227,,Marin Cilic,R,198.0,37,7-5 6-3,3,R16
-2026-0336,Hong Kong,20241230,A,Hard,287,209409,,Coleman Wong,R,191.0,21,209113,6,Gabriel Diallo,R,203.0,24,1-6 7-5 7-5,3,R16
-2026-0336,Hong Kong,20241230,A,Hard,288,126094,3,Andrey Rublev,R,188.0,28,200059,,Yibing Wu,R,183.0,26,3-6 6-2 6-1,3,R16
-2026-0336,Hong Kong,20241230,A,Hard,289,207518,1,Lorenzo Musetti,R,185.0,23,144869,,Tomas Martin Etcheverry,R,196.0,26,6(3)-7 6-2 6-4,3,R16
-2026-0336,Hong Kong,20241230,A,Hard,290,106218,,Marcos Giron,R,180.0,32,124186,7,Alexandre Muller,R,183.0,28,6-4 7-6(4),3,R16
-2026-0336,Hong Kong,20241230,A,Hard,291,209992,,Juncheng Shang,L,180.0,20,132283,5,Lorenzo Sonego,R,191.0,30,6-3 6-4,3,R16
-2026-0336,Hong Kong,20241230,A,Hard,292,111581,,Michael Mmoh,R,188.0,27,111575,4,Karen Khachanov,R,198.0,29,7-6(2) 7-6(4),3,R16
-2026-0336,Hong Kong,20241230,A,Hard,293,122330,2,Alexander Bublik,R,196.0,28,122298,,Botic Van De Zandschulp,R,191.0,30,6-3 6-3,3,R16
-2026-0336,Hong Kong,20241230,A,Hard,294,106218,,Marcos Giron,R,180.0,32,111581,,Michael Mmoh,R,188.0,27,6-3 1-0,3,QF
-2026-0336,Hong Kong,20241230,A,Hard,295,126094,3,Andrey Rublev,R,188.0,28,132686,8,Nuno Borges,R,185.0,28,6-3 6-4,3,QF
-2026-0336,Hong Kong,20241230,A,Hard,296,122330,2,Alexander Bublik,R,196.0,28,209992,,Juncheng Shang,L,180.0,20,6-1 7-6(2),3,QF
-2026-0336,Hong Kong,20241230,A,Hard,297,207518,1,Lorenzo Musetti,R,185.0,23,209409,,Coleman Wong,R,191.0,21,6-4 6-4,3,QF
-2026-0336,Hong Kong,20241230,A,Hard,298,122330,2,Alexander Bublik,R,196.0,28,106218,,Marcos Giron,R,180.0,32,3-6 6-4 6-2,3,SF
-2026-0336,Hong Kong,20241230,A,Hard,299,207518,1,Lorenzo Musetti,R,185.0,23,126094,3,Andrey Rublev,R,188.0,28,6(3)-7 7-5 6-4,3,SF
-2026-0336,Hong Kong,20241230,A,Hard,300,122330,2,Alexander Bublik,R,196.0,28,207518,1,Lorenzo Musetti,R,185.0,23,7-6(2) 6-3,3,F
+2026-0339,Brisbane,20260104,A,Hard,270,126207,,Frances Tiafoe,R,188.0,27,126846,,Aleksandar Vukic,R,188.0,29,6-2 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,271,210530,8,Learner Tien,L,180.0,20,200116,,Camilo Ugo Carabelli,R,185.0,26,7-6(4) 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,272,124187,,Reilly Opelka,R,211.0,28,208013,,Dane Sweeny,R,170.0,24,6-3 7-5,3,R32
+2026-0339,Brisbane,20260104,A,Hard,273,210506,,Alex Michelsen,R,193.0,21,105902,,James Duckworth,R,183.0,33,6(4)-7 7-6(2) 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,274,111794,,Kamil Majchrzak,R,180.0,29,127157,,Daniel Altmaier,R,188.0,27,7-6(4) 6-0,3,R32
+2026-0339,Brisbane,20260104,A,Hard,275,200624,,Sebastian Korda,R,196.0,25,200473,,Valentin Vacherot,R,193.0,27,7-6(1) 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,276,111460,,Quentin Halys,R,191.0,29,200615,,Alexei Popyrin,R,196.0,26,5-7 6-3 6-4,3,R32
+2026-0339,Brisbane,20260104,A,Hard,277,208103,3,Jiri Lehecka,R,185.0,24,207830,,Tomas Machac,R,183.0,25,6-4 6(5)-7 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,278,106421,1,Daniil Medvedev,R,198.0,29,105916,,Marton Fucsovics,R,188.0,33,6-2 6-3,3,R32
+2026-0339,Brisbane,20260104,A,Hard,279,206499,,Aleksandar Kovacevic,R,183.0,27,106401,,Nick Kyrgios,R,193.0,30,6-3 6-4,3,R32
+2026-0339,Brisbane,20260104,A,Hard,280,208014,,Rinky Hijikata,R,178.0,24,200443,,Adam Walton,R,183.0,26,6-3 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,281,105777,,Grigor Dimitrov,R,191.0,34,105807,,Pablo Carreno Busta,R,188.0,34,6-3 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,282,111815,7,Cameron Norrie,L,188.0,30,200005,,Ugo Humbert,L,188.0,27,1-6 7-6(6) 7-5,3,R32
+2026-0339,Brisbane,20260104,A,Hard,283,209920,,Raphael Collignon,R,191.0,23,133430,5,Denis Shapovalov,L,185.0,26,6-4 6-2,3,R32
+2026-0339,Brisbane,20260104,A,Hard,284,208659,,Giovanni Mpetshi Perricard,R,203.0,22,126205,4,Tommy Paul,R,185.0,28,7-6(2) 3-6 7-6(6),3,R32
+2026-0339,Brisbane,20260104,A,Hard,285,206909,,Brandon Nakashima,R,188.0,24,200221,2,Alejandro Davidovich Fokina,R,183.0,26,7-6(4) 6-4,3,R32
+2026-0339,Brisbane,20260104,A,Hard,286,111794,,Kamil Majchrzak,R,180.0,29,124187,,Reilly Opelka,R,211.0,28,6(2)-7 7-6(7) 7-6(8),3,R16
+2026-0339,Brisbane,20260104,A,Hard,287,210506,,Alex Michelsen,R,193.0,21,210530,8,Learner Tien,L,180.0,20,6-4 6-2,3,R16
+2026-0339,Brisbane,20260104,A,Hard,288,200624,,Sebastian Korda,R,196.0,25,208103,3,Jiri Lehecka,R,185.0,24,6-3 1-2,3,R16
+2026-0339,Brisbane,20260104,A,Hard,289,106421,1,Daniil Medvedev,R,198.0,29,126207,,Frances Tiafoe,R,188.0,27,6-3 6-2,3,R16
+2026-0339,Brisbane,20260104,A,Hard,290,206909,,Brandon Nakashima,R,188.0,24,111460,,Quentin Halys,R,191.0,29,6-2 6-4,3,R16
+2026-0339,Brisbane,20260104,A,Hard,291,208659,,Giovanni Mpetshi Perricard,R,203.0,22,208014,,Rinky Hijikata,R,178.0,24,4-6 7-6(5) 7-6(4),3,R16
+2026-0339,Brisbane,20260104,A,Hard,292,209920,,Raphael Collignon,R,191.0,23,105777,,Grigor Dimitrov,R,191.0,34,7-6(1) 6-3,3,R16
+2026-0339,Brisbane,20260104,A,Hard,293,206499,,Aleksandar Kovacevic,R,183.0,27,111815,7,Cameron Norrie,L,188.0,30,7-6(4) 4-6 6-4,3,R16
+2026-0339,Brisbane,20260104,A,Hard,294,206909,,Brandon Nakashima,R,188.0,24,209920,,Raphael Collignon,R,191.0,23,6-3 6-3,3,QF
+2026-0339,Brisbane,20260104,A,Hard,295,210506,,Alex Michelsen,R,193.0,21,200624,,Sebastian Korda,R,196.0,25,6-3 7-6(7),3,QF
+2026-0339,Brisbane,20260104,A,Hard,296,206499,,Aleksandar Kovacevic,R,183.0,27,208659,,Giovanni Mpetshi Perricard,R,203.0,22,7-6(3) 4-6 6-3,3,QF
+2026-0339,Brisbane,20260104,A,Hard,297,106421,1,Daniil Medvedev,R,198.0,29,111794,,Kamil Majchrzak,R,180.0,29,6(4)-7 6-3 6-2,3,QF
+2026-0339,Brisbane,20260104,A,Hard,298,206909,,Brandon Nakashima,R,188.0,24,206499,,Aleksandar Kovacevic,R,183.0,27,7-6(4) 6-4,3,SF
+2026-0339,Brisbane,20260104,A,Hard,299,106421,1,Daniil Medvedev,R,198.0,29,210506,,Alex Michelsen,R,193.0,21,6-4 6-2,3,SF
+2026-0339,Brisbane,20260104,A,Hard,300,106421,1,Daniil Medvedev,R,198.0,29,206909,,Brandon Nakashima,R,188.0,24,6-2 7-6(1),3,F
+2026-0336,Hong Kong,20260105,A,Hard,274,200059,,Yibing Wu,R,183.0,26,206681,,Fabian Marozsan,R,193.0,26,6-4 6-2,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,275,105227,,Marin Cilic,R,198.0,37,105173,,Adrian Mannarino,L,180.0,37,6-3 6-2,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,276,132686,8,Nuno Borges,R,185.0,28,106000,,Damir Dzumhur,R,175.0,33,6-4 6-3,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,277,209409,,Coleman Wong,R,191.0,21,208363,,Mariano Navone,R,178.0,24,6-3 7-5,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,278,122298,,Botic Van De Zandschulp,R,191.0,30,105526,,Jan Lennard Struff,R,193.0,35,6-3 1-6 6-1,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,279,209992,,Juncheng Shang,L,180.0,20,207681,,Francisco Comesana,R,178.0,25,6-4 6-4,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,280,111581,,Michael Mmoh,R,188.0,27,126214,,Alejandro Tabilo,L,188.0,28,7-5 6-4,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,281,106218,,Marcos Giron,R,180.0,32,111513,,Laslo Djere,R,188.0,30,6-2 6-0,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,282,144869,,Tomas Martin Etcheverry,R,196.0,26,208316,,Valentin Royer,R,188.0,24,6-4 7-5,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,283,124186,7,Alexandre Muller,R,183.0,28,200175,,Miomir Kecmanovic,R,183.0,26,7-5 6-4,3,R32
+2026-0336,Hong Kong,20260105,A,Hard,284,209113,6,Gabriel Diallo,R,203.0,24,207411,,Jesper De Jong,R,180.0,25,6-4 7-6(7),3,R32
+2026-0336,Hong Kong,20260105,A,Hard,285,132283,5,Lorenzo Sonego,R,191.0,30,210536,,Rei Sakamoto,R,193.0,19,6-2 7-6(4),3,R32
+2026-0336,Hong Kong,20260105,A,Hard,286,132686,8,Nuno Borges,R,185.0,28,105227,,Marin Cilic,R,198.0,37,7-5 6-3,3,R16
+2026-0336,Hong Kong,20260105,A,Hard,287,209409,,Coleman Wong,R,191.0,21,209113,6,Gabriel Diallo,R,203.0,24,1-6 7-5 7-5,3,R16
+2026-0336,Hong Kong,20260105,A,Hard,288,126094,3,Andrey Rublev,R,188.0,28,200059,,Yibing Wu,R,183.0,26,3-6 6-2 6-1,3,R16
+2026-0336,Hong Kong,20260105,A,Hard,289,207518,1,Lorenzo Musetti,R,185.0,23,144869,,Tomas Martin Etcheverry,R,196.0,26,6(3)-7 6-2 6-4,3,R16
+2026-0336,Hong Kong,20260105,A,Hard,290,106218,,Marcos Giron,R,180.0,32,124186,7,Alexandre Muller,R,183.0,28,6-4 7-6(4),3,R16
+2026-0336,Hong Kong,20260105,A,Hard,291,209992,,Juncheng Shang,L,180.0,20,132283,5,Lorenzo Sonego,R,191.0,30,6-3 6-4,3,R16
+2026-0336,Hong Kong,20260105,A,Hard,292,111581,,Michael Mmoh,R,188.0,27,111575,4,Karen Khachanov,R,198.0,29,7-6(2) 7-6(4),3,R16
+2026-0336,Hong Kong,20260105,A,Hard,293,122330,2,Alexander Bublik,R,196.0,28,122298,,Botic Van De Zandschulp,R,191.0,30,6-3 6-3,3,R16
+2026-0336,Hong Kong,20260105,A,Hard,294,106218,,Marcos Giron,R,180.0,32,111581,,Michael Mmoh,R,188.0,27,6-3 1-0,3,QF
+2026-0336,Hong Kong,20260105,A,Hard,295,126094,3,Andrey Rublev,R,188.0,28,132686,8,Nuno Borges,R,185.0,28,6-3 6-4,3,QF
+2026-0336,Hong Kong,20260105,A,Hard,296,122330,2,Alexander Bublik,R,196.0,28,209992,,Juncheng Shang,L,180.0,20,6-1 7-6(2),3,QF
+2026-0336,Hong Kong,20260105,A,Hard,297,207518,1,Lorenzo Musetti,R,185.0,23,209409,,Coleman Wong,R,191.0,21,6-4 6-4,3,QF
+2026-0336,Hong Kong,20260105,A,Hard,298,122330,2,Alexander Bublik,R,196.0,28,106218,,Marcos Giron,R,180.0,32,3-6 6-4 6-2,3,SF
+2026-0336,Hong Kong,20260105,A,Hard,299,207518,1,Lorenzo Musetti,R,185.0,23,126094,3,Andrey Rublev,R,188.0,28,6(3)-7 7-5 6-4,3,SF
+2026-0336,Hong Kong,20260105,A,Hard,300,122330,2,Alexander Bublik,R,196.0,28,207518,1,Lorenzo Musetti,R,185.0,23,7-6(2) 6-3,3,F
+2026-8998,Adelaide,20260112,A,Hard,274,124187,,Reilly Opelka,R,211.0,28,200615,,Alexei Popyrin,R,196.0,26,6-3 7-6(6),3,R32
+2026-8998,Adelaide,20260112,A,Hard,275,144719,,Jaume Munar,R,183.0,28,127157,,Daniel Altmaier,R,188.0,27,6-3 6-0,3,R32
+2026-8998,Adelaide,20260112,A,Hard,276,106423,,Thanasi Kokkinakis,R,193.0,29,200624,,Sebastian Korda,R,196.0,25,3-6 6-3 7-6(3),3,R32
+2026-8998,Adelaide,20260112,A,Hard,277,200005,,Ugo Humbert,L,188.0,27,209279,,Terence Atmane,L,193.0,23,6-3 7-6(3),3,R32
+2026-8998,Adelaide,20260112,A,Hard,278,200473,5,Valentin Vacherot,R,193.0,27,200175,,Miomir Kecmanovic,R,183.0,26,7-6(5) 6-4,3,R32
+2026-8998,Adelaide,20260112,A,Hard,279,131934,,Andrea Vavassori,R,193.0,30,209113,,Gabriel Diallo,R,203.0,24,6-3 7-6(4),3,R32
+2026-8998,Adelaide,20260112,A,Hard,280,207686,,Alexander Shevchenko,R,185.0,25,106000,,Damir Dzumhur,R,175.0,33,4-6 6-4 7-5,3,R32
+2026-8998,Adelaide,20260112,A,Hard,281,208014,,Rinky Hijikata,R,178.0,24,209262,,Tristan Schoolkate,R,183.0,24,6-4 6-4,3,R32
+2026-8998,Adelaide,20260112,A,Hard,282,111460,,Quentin Halys,R,191.0,29,207985,,Jacob Fearnley,R,183.0,24,6-3 6-4,3,R32
+2026-8998,Adelaide,20260112,A,Hard,283,105916,,Marton Fucsovics,R,188.0,33,210319,,Ethan Quinn,R,191.0,21,6-4 6-4,3,R32
+2026-8998,Adelaide,20260112,A,Hard,284,207830,8,Tomas Machac,R,183.0,25,105902,,James Duckworth,R,183.0,33,6-3 6-3,3,R32
+2026-8998,Adelaide,20260112,A,Hard,285,126846,,Aleksandar Vukic,R,188.0,29,126774,7,Stefanos Tsitsipas,R,193.0,27,7-6(3) 7-6(5),3,R32
+2026-8998,Adelaide,20260112,A,Hard,286,126846,,Aleksandar Vukic,R,188.0,29,131934,,Andrea Vavassori,R,193.0,30,6-2 7-6(5),3,R16
+2026-8998,Adelaide,20260112,A,Hard,287,207686,,Alexander Shevchenko,R,185.0,25,105916,,Marton Fucsovics,R,188.0,33,6-3 7-6(6),3,R16
+2026-8998,Adelaide,20260112,A,Hard,288,207830,8,Tomas Machac,R,183.0,25,111460,,Quentin Halys,R,191.0,29,6-4 6-2,3,R16
+2026-8998,Adelaide,20260112,A,Hard,289,200473,5,Valentin Vacherot,R,193.0,27,106423,,Thanasi Kokkinakis,R,193.0,29,,3,R16
+2026-8998,Adelaide,20260112,A,Hard,290,200005,,Ugo Humbert,L,188.0,27,134868,4,Tallon Griekspoor,R,188.0,29,6-4 6-1,3,R16
+2026-8998,Adelaide,20260112,A,Hard,291,144719,,Jaume Munar,R,183.0,28,202103,3,Francisco Cerundolo,R,185.0,27,3-6 7-5 6-4,3,R16
+2026-8998,Adelaide,20260112,A,Hard,292,126205,2,Tommy Paul,R,185.0,28,124187,,Reilly Opelka,R,211.0,28,6-4 6-4,3,R16
+2026-8998,Adelaide,20260112,A,Hard,293,200221,1,Alejandro Davidovich Fokina,R,183.0,26,208014,,Rinky Hijikata,R,178.0,24,6-3 6-2,3,R16
+2026-8998,Adelaide,20260112,A,Hard,294,200005,,Ugo Humbert,L,188.0,27,207686,,Alexander Shevchenko,R,185.0,25,6-0 6-3,3,QF
+2026-8998,Adelaide,20260112,A,Hard,295,207830,8,Tomas Machac,R,183.0,25,144719,,Jaume Munar,R,183.0,28,6-4 6-4,3,QF
+2026-8998,Adelaide,20260112,A,Hard,296,126205,2,Tommy Paul,R,185.0,28,126846,,Aleksandar Vukic,R,188.0,29,6-3 6-2,3,QF
+2026-8998,Adelaide,20260112,A,Hard,297,200221,1,Alejandro Davidovich Fokina,R,183.0,26,200473,5,Valentin Vacherot,R,193.0,27,7-6(4) 6-2,3,QF
+2026-8998,Adelaide,20260112,A,Hard,298,207830,8,Tomas Machac,R,183.0,25,126205,2,Tommy Paul,R,185.0,28,2-6 6-3 6-3,3,SF
+2026-8998,Adelaide,20260112,A,Hard,299,200005,,Ugo Humbert,L,188.0,27,200221,1,Alejandro Davidovich Fokina,R,183.0,26,6-3 5-7 7-6(4),3,SF
+2026-8998,Adelaide,20260112,A,Hard,300,207830,8,Tomas Machac,R,183.0,25,200005,,Ugo Humbert,L,188.0,27,6-4 6(2)-7 6-2,3,F
+2026-0301,Auckland,20260112,A,Hard,274,208118,,Eliot Spizzirri,R,183.0,24,105173,,Adrian Mannarino,L,180.0,37,6-4 6-3,3,R32
+2026-0301,Auckland,20260112,A,Hard,275,207681,,Francisco Comesana,R,178.0,25,208316,,Valentin Royer,R,188.0,24,6-4 6-4,3,R32
+2026-0301,Auckland,20260112,A,Hard,276,202385,,Jenson Brooksby,R,188.0,25,211767,,James Watt,R,206.0,25,6-4 6-3,3,R32
+2026-0301,Auckland,20260112,A,Hard,277,202104,7,Sebastian Baez,R,170.0,25,207182,,Emilio Nava,R,185.0,24,4-6 7-5 6-3,3,R32
+2026-0301,Auckland,20260112,A,Hard,278,111815,5,Cameron Norrie,L,188.0,30,200384,,Hugo Gaston,L,173.0,25,6-3 6-4,3,R32
+2026-0301,Auckland,20260112,A,Hard,279,126214,,Alejandro Tabilo,L,188.0,28,200116,,Camilo Ugo Carabelli,R,185.0,26,6-4 6-2,3,R32
+2026-0301,Auckland,20260112,A,Hard,280,208659,,Giovanni Mpetshi Perricard,R,203.0,22,105138,,Roberto Bautista Agut,R,183.0,37,6-3 7-6(2),3,R32
+2026-0301,Auckland,20260112,A,Hard,281,209098,,Hamad Medjedovic,R,188.0,22,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 3-6 7-6(2),3,R32
+2026-0301,Auckland,20260112,A,Hard,282,206681,,Fabian Marozsan,R,193.0,26,104792,,Gael Monfils,R,193.0,39,5-7 6-3 6-4,3,R32
+2026-0301,Auckland,20260112,A,Hard,283,106218,,Marcos Giron,R,180.0,32,124186,,Alexandre Muller,R,183.0,28,6-2 6-2,3,R32
+2026-0301,Auckland,20260112,A,Hard,284,132686,8,Nuno Borges,R,185.0,28,144869,,Tomas Martin Etcheverry,R,196.0,26,7-5 3-6 7-6(2),3,R32
+2026-0301,Auckland,20260112,A,Hard,285,210506,6,Alex Michelsen,R,193.0,21,208363,,Mariano Navone,R,178.0,24,2-6 6-2 7-5,3,R32
+2026-0301,Auckland,20260112,A,Hard,286,208118,,Eliot Spizzirri,R,183.0,24,132686,8,Nuno Borges,R,185.0,28,7-6(6) 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,287,202104,7,Sebastian Baez,R,170.0,25,202385,,Jenson Brooksby,R,188.0,25,7-5 6-0,3,R16
+2026-0301,Auckland,20260112,A,Hard,288,106218,,Marcos Giron,R,180.0,32,210506,6,Alex Michelsen,R,193.0,21,6-4 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,289,208659,,Giovanni Mpetshi Perricard,R,203.0,22,111815,5,Cameron Norrie,L,188.0,30,4-6 6-3 7-6(4),3,R16
+2026-0301,Auckland,20260112,A,Hard,290,209260,4,Luciano Darderi,R,183.0,23,126214,,Alejandro Tabilo,L,188.0,28,1-6 7-5 6-3,3,R16
+2026-0301,Auckland,20260112,A,Hard,291,210084,3,Jakub Mensik,U,,20,209098,,Hamad Medjedovic,R,188.0,22,6-1 3-6 6-3,3,R16
+2026-0301,Auckland,20260112,A,Hard,292,206681,,Fabian Marozsan,R,193.0,26,134770,2,Casper Ruud,R,183.0,27,6-4 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,293,210097,1,Ben Shelton,L,193.0,23,207681,,Francisco Comesana,R,178.0,25,7-5 6-4,3,R16
+2026-0301,Auckland,20260112,A,Hard,294,206681,,Fabian Marozsan,R,193.0,26,208118,,Eliot Spizzirri,R,183.0,24,6-4 2-6 6-2,3,QF
+2026-0301,Auckland,20260112,A,Hard,295,106218,,Marcos Giron,R,180.0,32,209260,4,Luciano Darderi,R,183.0,23,1-6 7-5 6-4,3,QF
+2026-0301,Auckland,20260112,A,Hard,296,210084,3,Jakub Mensik,U,,20,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-4 6-2,3,QF
+2026-0301,Auckland,20260112,A,Hard,297,202104,7,Sebastian Baez,R,170.0,25,210097,1,Ben Shelton,L,193.0,23,7-5 6-3,3,QF
+2026-0301,Auckland,20260112,A,Hard,298,202104,7,Sebastian Baez,R,170.0,25,106218,,Marcos Giron,R,180.0,32,6-1 6-4,3,SF
+2026-0301,Auckland,20260112,A,Hard,299,210084,3,Jakub Mensik,U,,20,206681,,Fabian Marozsan,R,193.0,26,7-6(9) 4-6 6-1,3,SF
+2026-0301,Auckland,20260112,A,Hard,300,210084,3,Jakub Mensik,U,,20,202104,7,Sebastian Baez,R,170.0,25,6-3 7-6(7),3,F
