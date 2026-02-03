@@ -14480,3 +14480,130 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2026-0301,Auckland,20260112,A,Hard,298,202104,7,Sebastian Baez,R,170.0,25,106218,,Marcos Giron,R,180.0,32,6-1 6-4,3,SF
 2026-0301,Auckland,20260112,A,Hard,299,210084,3,Jakub Mensik,U,,20,206681,,Fabian Marozsan,R,193.0,26,7-6(9) 4-6 6-1,3,SF
 2026-0301,Auckland,20260112,A,Hard,300,210084,3,Jakub Mensik,U,,20,202104,7,Sebastian Baez,R,170.0,25,6-3 7-6(7),3,F
+2026-580,Australian Open,20260118,G,Hard,174,210116,,Michael Zheng,R,188.0,21,200624,,Sebastian Korda,R,196.0,25,6-4 6-4 3-6 6(0)-7 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,175,207182,,Emilio Nava,R,185.0,24,208021,,Kyrian Jacquet,R,178.0,24,6-2 7-5 6(5)-7 4-6 7-6(6),5,R128
+2026-580,Australian Open,20260118,G,Hard,176,105870,,Yannick Hanfmann,R,193.0,34,208260,,Zachary Svajda,R,175.0,23,7-5 4-6 6-4 7-6(3),5,R128
+2026-580,Australian Open,20260118,G,Hard,177,105916,,Marton Fucsovics,R,188.0,33,200116,,Camilo Ugo Carabelli,R,185.0,26,7-6(5) 6-1 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,178,210262,,Jaime Faria,R,188.0,22,210696,,Alexander Blockx,R,191.0,20,6-3 3-6 6-3 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,179,144869,,Tomas Martin Etcheverry,R,196.0,26,200175,,Miomir Kecmanovic,R,183.0,26,6-2 3-6 4-6 6-3 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,180,106000,,Damir Dzumhur,R,175.0,33,208119,,Liam Draxl,R,185.0,24,7-5 6-0 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,181,207681,,Francisco Comesana,R,178.0,25,200516,,Patrick Kypson,R,188.0,26,6-2 6-3 3-6 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,182,144895,32,Corentin Moutet,L,180.0,26,209262,,Tristan Schoolkate,R,183.0,24,6-4 7-6(1) 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,183,126207,29,Frances Tiafoe,R,188.0,27,106186,,Jason Kubler,R,178.0,32,7-6(4) 6-3 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,184,111815,26,Cameron Norrie,L,188.0,30,126127,,Benjamin Bonzi,R,183.0,29,6-0 6(2)-7 4-6 6-3 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,185,209259,,Arthur Fery,R,175.0,23,207925,20,Flavio Cobolli,R,183.0,23,7-6(1) 6-4 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,186,202103,18,Francisco Cerundolo,R,185.0,27,111190,,Zhizhen Zhang,R,193.0,29,6-3 7-6(0) 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,187,122330,10,Alexander Bublik,R,196.0,28,202385,,Jenson Brooksby,R,188.0,25,6-4 6-4 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,188,100644,3,Alexander Zverev,R,198.0,28,209113,,Gabriel Diallo,R,203.0,24,6(1)-7 6-1 6-4 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,189,207989,1,Carlos Alcaraz,R,183.0,22,200443,,Adam Walton,R,183.0,26,6-3 7-6(2) 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,190,104527,,Stan Wawrinka,R,183.0,40,111513,,Laslo Djere,R,188.0,30,5-7 6-3 6-4 7-6(4),5,R128
+2026-580,Australian Open,20260118,G,Hard,191,202058,,Thiago Agustin Tirante,R,185.0,24,126846,,Aleksandar Vukic,R,188.0,29,7-5 6-2 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,192,111442,,Jordan Thompson,R,183.0,31,207678,,Juan Manuel Cerundolo,L,183.0,24,6(3)-7 7-5 6-1 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,193,207686,,Alexander Shevchenko,R,185.0,25,111200,,Elias Ymer,R,185.0,29,3-6 7-5 6-4 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,194,209992,,Juncheng Shang,L,180.0,20,105138,,Roberto Bautista Agut,R,183.0,37,6-4 6(2)-7 6-4 6-0,5,R128
+2026-580,Australian Open,20260118,G,Hard,195,124187,,Reilly Opelka,R,211.0,28,149282,,Nicolai Budkov Kjaer,R,188.0,19,6-4 6-3 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,196,144719,,Jaume Munar,R,183.0,28,207494,,Dalibor Svrcina,R,178.0,23,3-6 6-2 6(5)-7 7-5 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,197,124186,,Alexandre Muller,R,183.0,28,200615,,Alexei Popyrin,R,196.0,26,2-6 6-3 3-6 7-6(5) 7-6(4),5,R128
+2026-580,Australian Open,20260118,G,Hard,198,209098,,Hamad Medjedovic,R,188.0,22,208363,,Mariano Navone,R,178.0,24,6-2 6(3)-7 6-4 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,199,111794,,Kamil Majchrzak,R,180.0,29,207985,,Jacob Fearnley,R,183.0,24,7-6(2) 7-5 3-6 7-6(3),5,R128
+2026-580,Australian Open,20260118,G,Hard,200,208353,,Francesco Maestrelli,R,196.0,23,209279,,Terence Atmane,L,193.0,23,6-4 3-6 6(4)-7 6-1 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,201,208014,,Rinky Hijikata,R,178.0,24,105173,,Adrian Mannarino,L,180.0,37,6-3 6-3 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,202,111460,,Quentin Halys,R,191.0,29,126214,,Alejandro Tabilo,L,188.0,28,6-2 6-2 7-6(2),5,R128
+2026-580,Australian Open,20260118,G,Hard,203,105227,,Marin Cilic,R,198.0,37,127157,,Daniel Altmaier,R,188.0,27,6-0 6-0 7-6(3),5,R128
+2026-580,Australian Open,20260118,G,Hard,204,200473,30,Valentin Vacherot,R,193.0,27,102093,,Martin Damm,L,203.0,22,6-4 6-4 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,205,122298,,Botic Van De Zandschulp,R,191.0,30,206909,27,Brandon Nakashima,R,188.0,24,6-3 4-6 7-6(1) 7-6(3),5,R128
+2026-580,Australian Open,20260118,G,Hard,206,210530,25,Learner Tien,L,180.0,20,106218,,Marcos Giron,R,180.0,32,7-6(2) 4-6 3-6 7-6(3) 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,207,206681,,Fabian Marozsan,R,193.0,26,126239,24,Arthur Rinderknech,R,196.0,30,6-3 6-4 6(2)-7 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,208,133430,21,Denis Shapovalov,L,185.0,26,207352,,Bu Yunchaokete,R,185.0,23,6-3 7-6(3) 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,209,126205,19,Tommy Paul,R,185.0,28,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 6-3 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,210,210338,,Arthur Gea,R,180.0,20,208103,17,Jiri Lehecka,R,185.0,24,7-5 7-6(1) 7-5,5,R128
+2026-580,Australian Open,20260118,G,Hard,211,200221,14,Alejandro Davidovich Fokina,R,183.0,26,209209,,Filip Misolic,R,180.0,24,6-2 6-3 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,212,126094,13,Andrey Rublev,R,188.0,28,208286,,Matteo Arnaldi,R,185.0,24,6-4 6-2 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,213,134770,12,Casper Ruud,R,183.0,27,208233,,Mattia Bellucci,L,175.0,24,6-1 6-2 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,214,106421,11,Daniil Medvedev,R,198.0,29,207411,,Jesper De Jong,R,180.0,25,7-5 6-2 7-6(2),5,R128
+2026-580,Australian Open,20260118,G,Hard,215,132686,,Nuno Borges,R,185.0,28,200000,7,Felix Auger Aliassime,R,193.0,25,3-6 6-4 6-4,5,R128
+2026-580,Australian Open,20260118,G,Hard,216,200282,6,Alex De Minaur,R,183.0,26,111456,,Mackenzie Mcdonald,R,178.0,30,6-2 6-2 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,217,104925,4,Novak Djokovic,R,188.0,38,117531,,Pedro Villena Martinez,U,,43,6-3 6-2 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,218,200059,,Yibing Wu,R,183.0,26,208134,,Luca Nardi,R,185.0,22,7-5 4-6 6-4 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,219,208013,,Dane Sweeny,R,170.0,24,104792,,Gael Monfils,R,193.0,39,6(3)-7 7-5 6-4 7-5,5,R128
+2026-580,Australian Open,20260118,G,Hard,220,132283,,Lorenzo Sonego,R,191.0,30,126535,,Carlos Taberner,R,183.0,28,6-4 6-0 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,221,207830,,Tomas Machac,R,183.0,25,105777,,Grigor Dimitrov,R,191.0,34,6-4 6-4 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,222,200240,,Vit Kopriva,R,178.0,28,105526,,Jan Lennard Struff,R,193.0,35,4-6 6-2 2-6 6-3 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,223,212588,,Rafael Jodar,U,,19,210536,,Rei Sakamoto,R,193.0,19,7-6(6) 6-1 5-7 4-6 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,224,128034,,Hubert Hurkacz,R,196.0,28,200267,,Zizou Bergs,R,185.0,26,6(6)-7 7-6(6) 6-3 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,225,105902,,James Duckworth,R,183.0,33,209976,,Dino Prizmic,R,188.0,20,7-6(4) 3-6 1-6 7-5 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,226,210460,,Nishesh Basavareddy,R,180.0,20,106331,,Christopher Oconnell,R,183.0,31,4-6 7-6(7) 6(3)-7 6-2 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,227,202104,,Sebastian Baez,R,170.0,25,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-4 6-4 3-6 5-7 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,228,126774,31,Stefanos Tsitsipas,R,193.0,27,208278,,Shintaro Mochizuki,R,175.0,22,4-6 6-3 6-2 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,229,208118,,Eliot Spizzirri,R,183.0,24,211663,28,Joao Fonseca,R,185.0,19,6-4 2-6 6-1 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,230,210319,,Ethan Quinn,R,191.0,21,134868,23,Tallon Griekspoor,R,188.0,29,6-2 6-3 6-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,231,209260,22,Luciano Darderi,R,183.0,23,106426,,Cristian Garin,R,185.0,29,7-6(5) 7-5 7-6(3),5,R128
+2026-580,Australian Open,20260118,G,Hard,232,210084,16,Jakub Mensik,U,,20,105807,,Pablo Carreno Busta,R,188.0,34,7-5 4-6 2-6 7-6(1) 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,233,111575,15,Karen Khachanov,R,198.0,29,210506,,Alex Michelsen,R,193.0,21,4-6 6-4 6-3 5-7 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,234,126203,9,Taylor Fritz,R,196.0,28,208316,,Valentin Royer,R,188.0,24,7-6(5) 5-7 6-1 6-3,5,R128
+2026-580,Australian Open,20260118,G,Hard,235,210097,8,Ben Shelton,L,193.0,23,200005,,Ugo Humbert,L,188.0,27,6-3 7-6(2) 7-6(5),5,R128
+2026-580,Australian Open,20260118,G,Hard,236,207518,5,Lorenzo Musetti,R,185.0,23,209920,,Raphael Collignon,R,191.0,23,4-6 7-6(3) 7-5 3-2,5,R128
+2026-580,Australian Open,20260118,G,Hard,237,206173,2,Jannik Sinner,R,191.0,24,200384,,Hugo Gaston,L,173.0,25,6-2 6-1,5,R128
+2026-580,Australian Open,20260118,G,Hard,238,206681,,Fabian Marozsan,R,193.0,26,111794,,Kamil Majchrzak,R,180.0,29,6-3 6-4 7-6(5),5,R64
+2026-580,Australian Open,20260118,G,Hard,239,144869,,Tomas Martin Etcheverry,R,196.0,26,209259,,Arthur Fery,R,175.0,23,7-6(4) 6-1 6-3,5,R64
+2026-580,Australian Open,20260118,G,Hard,240,132686,,Nuno Borges,R,185.0,28,111442,,Jordan Thompson,R,183.0,31,6(9)-7 6-3 6-2 6-4,5,R64
+2026-580,Australian Open,20260118,G,Hard,241,144895,32,Corentin Moutet,L,180.0,26,210116,,Michael Zheng,R,188.0,21,3-6 6-1 6-3 2-0,5,R64
+2026-580,Australian Open,20260118,G,Hard,242,126207,29,Frances Tiafoe,R,188.0,27,207681,,Francisco Comesana,R,178.0,25,6-4 6-3 4-6 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,243,111815,26,Cameron Norrie,L,188.0,30,207182,,Emilio Nava,R,185.0,24,6-1 7-6(3) 4-6 7-6(5),5,R64
+2026-580,Australian Open,20260118,G,Hard,244,210530,25,Learner Tien,L,180.0,20,207686,,Alexander Shevchenko,R,185.0,25,6-2 5-7 6-1 6-0,5,R64
+2026-580,Australian Open,20260118,G,Hard,245,126205,19,Tommy Paul,R,185.0,28,202058,,Thiago Agustin Tirante,R,185.0,24,6-3 6-4 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,246,202103,18,Francisco Cerundolo,R,185.0,27,106000,,Damir Dzumhur,R,175.0,33,6-3 6-2 6-1,5,R64
+2026-580,Australian Open,20260118,G,Hard,247,200221,14,Alejandro Davidovich Fokina,R,183.0,26,124187,,Reilly Opelka,R,211.0,28,6-3 7-6(3) 5-7 4-6 6-4,5,R64
+2026-580,Australian Open,20260118,G,Hard,248,126094,13,Andrey Rublev,R,188.0,28,210262,,Jaime Faria,R,188.0,22,6-4 6-3 4-6 7-5,5,R64
+2026-580,Australian Open,20260118,G,Hard,249,106421,11,Daniil Medvedev,R,198.0,29,111460,,Quentin Halys,R,191.0,29,6(9)-7 6-3 6-4 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,250,122330,10,Alexander Bublik,R,196.0,28,105916,,Marton Fucsovics,R,188.0,33,7-5 6-4 7-5,5,R64
+2026-580,Australian Open,20260118,G,Hard,251,200282,6,Alex De Minaur,R,183.0,26,209098,,Hamad Medjedovic,R,188.0,22,6(5)-7 6-2 6-2 6-1,5,R64
+2026-580,Australian Open,20260118,G,Hard,252,100644,3,Alexander Zverev,R,198.0,28,124186,,Alexandre Muller,R,183.0,28,6-3 4-6 6-3 6-4,5,R64
+2026-580,Australian Open,20260118,G,Hard,253,207989,1,Carlos Alcaraz,R,183.0,22,105870,,Yannick Hanfmann,R,193.0,34,7-6(4) 6-3 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,254,104527,,Stan Wawrinka,R,183.0,40,210338,,Arthur Gea,R,180.0,20,4-6 6-3 3-6 7-5 7-6(3),5,R64
+2026-580,Australian Open,20260118,G,Hard,255,122298,,Botic Van De Zandschulp,R,191.0,30,209992,,Juncheng Shang,L,180.0,20,7-6(6) 6-2 6-3,5,R64
+2026-580,Australian Open,20260118,G,Hard,256,208118,,Eliot Spizzirri,R,183.0,24,200059,,Yibing Wu,R,183.0,26,6-2 6-4 6(4)-7 4-6 6-3,5,R64
+2026-580,Australian Open,20260118,G,Hard,257,210319,,Ethan Quinn,R,191.0,21,128034,,Hubert Hurkacz,R,196.0,28,6-4 7-6(5) 6-1,5,R64
+2026-580,Australian Open,20260118,G,Hard,258,207830,,Tomas Machac,R,183.0,25,126774,31,Stefanos Tsitsipas,R,193.0,27,6-4 3-6 7-6(5) 7-6(5),5,R64
+2026-580,Australian Open,20260118,G,Hard,259,200473,30,Valentin Vacherot,R,193.0,27,208014,,Rinky Hijikata,R,178.0,24,6-1 6-3 4-6 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,260,209260,22,Luciano Darderi,R,183.0,23,202104,,Sebastian Baez,R,170.0,25,6-3 1-6 6-4 6-3,5,R64
+2026-580,Australian Open,20260118,G,Hard,261,105227,,Marin Cilic,R,198.0,37,133430,21,Denis Shapovalov,L,185.0,26,6-4 6-3 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,262,210084,16,Jakub Mensik,U,,20,212588,,Rafael Jodar,U,,19,6-2 6-4 6-4,5,R64
+2026-580,Australian Open,20260118,G,Hard,263,111575,15,Karen Khachanov,R,198.0,29,210460,,Nishesh Basavareddy,R,180.0,20,6-1 6-4 6-3,5,R64
+2026-580,Australian Open,20260118,G,Hard,264,134770,12,Casper Ruud,R,183.0,27,144719,,Jaume Munar,R,183.0,28,6-3 7-5 6-4,5,R64
+2026-580,Australian Open,20260118,G,Hard,265,126203,9,Taylor Fritz,R,196.0,28,200240,,Vit Kopriva,R,178.0,28,6-1 6-4 7-6(4),5,R64
+2026-580,Australian Open,20260118,G,Hard,266,210097,8,Ben Shelton,L,193.0,23,208013,,Dane Sweeny,R,170.0,24,6-3 6-2 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,267,207518,5,Lorenzo Musetti,R,185.0,23,132283,,Lorenzo Sonego,R,191.0,30,6-3 6-3 6-4,5,R64
+2026-580,Australian Open,20260118,G,Hard,268,104925,4,Novak Djokovic,R,188.0,38,208353,,Francesco Maestrelli,R,196.0,23,6-3 6-2 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,269,206173,2,Jannik Sinner,R,191.0,24,105902,,James Duckworth,R,183.0,33,6-1 6-4 6-2,5,R64
+2026-580,Australian Open,20260118,G,Hard,270,210530,25,Learner Tien,L,180.0,20,132686,,Nuno Borges,R,185.0,28,7-6(9) 6-4 6-2,5,R32
+2026-580,Australian Open,20260118,G,Hard,271,209260,22,Luciano Darderi,R,183.0,23,111575,15,Karen Khachanov,R,198.0,29,7-6(5) 3-6 6-3 6-4,5,R32
+2026-580,Australian Open,20260118,G,Hard,272,126205,19,Tommy Paul,R,185.0,28,200221,14,Alejandro Davidovich Fokina,R,183.0,26,6-1 6-1,5,R32
+2026-580,Australian Open,20260118,G,Hard,273,202103,18,Francisco Cerundolo,R,185.0,27,126094,13,Andrey Rublev,R,188.0,28,6-3 7-6(4) 6-3,5,R32
+2026-580,Australian Open,20260118,G,Hard,274,106421,11,Daniil Medvedev,R,198.0,29,206681,,Fabian Marozsan,R,193.0,26,6(5)-7 4-6 7-5 6-0 6-3,5,R32
+2026-580,Australian Open,20260118,G,Hard,275,122330,10,Alexander Bublik,R,196.0,28,144869,,Tomas Martin Etcheverry,R,196.0,26,7-6(4) 7-6(5) 6-4,5,R32
+2026-580,Australian Open,20260118,G,Hard,276,200282,6,Alex De Minaur,R,183.0,26,126207,29,Frances Tiafoe,R,188.0,27,6-3 6-4 7-5,5,R32
+2026-580,Australian Open,20260118,G,Hard,277,207518,5,Lorenzo Musetti,R,185.0,23,207830,,Tomas Machac,R,183.0,25,5-7 6-4 6-2 5-7 6-2,5,R32
+2026-580,Australian Open,20260118,G,Hard,278,100644,3,Alexander Zverev,R,198.0,28,111815,26,Cameron Norrie,L,188.0,30,7-5 4-6 6-3 6-1,5,R32
+2026-580,Australian Open,20260118,G,Hard,279,207989,1,Carlos Alcaraz,R,183.0,22,144895,32,Corentin Moutet,L,180.0,26,6-2 6-4 6-1,5,R32
+2026-580,Australian Open,20260118,G,Hard,280,210084,16,Jakub Mensik,U,,20,210319,,Ethan Quinn,R,191.0,21,6-2 7-6(5) 7-6(5),5,R32
+2026-580,Australian Open,20260118,G,Hard,281,134770,12,Casper Ruud,R,183.0,27,105227,,Marin Cilic,R,198.0,37,6-4 6-4 3-6 7-5,5,R32
+2026-580,Australian Open,20260118,G,Hard,282,126203,9,Taylor Fritz,R,196.0,28,104527,,Stan Wawrinka,R,183.0,40,7-6(5) 2-6 6-4 6-4,5,R32
+2026-580,Australian Open,20260118,G,Hard,283,210097,8,Ben Shelton,L,193.0,23,200473,30,Valentin Vacherot,R,193.0,27,6-4 6-4 7-6(5),5,R32
+2026-580,Australian Open,20260118,G,Hard,284,104925,4,Novak Djokovic,R,188.0,38,122298,,Botic Van De Zandschulp,R,191.0,30,6-3 6-4 7-6(4),5,R32
+2026-580,Australian Open,20260118,G,Hard,285,206173,2,Jannik Sinner,R,191.0,24,208118,,Eliot Spizzirri,R,183.0,24,4-6 6-3 6-4 6-4,5,R32
+2026-580,Australian Open,20260118,G,Hard,286,210530,25,Learner Tien,L,180.0,20,106421,11,Daniil Medvedev,R,198.0,29,6-4 6-0 6-3,5,R16
+2026-580,Australian Open,20260118,G,Hard,287,200282,6,Alex De Minaur,R,183.0,26,122330,10,Alexander Bublik,R,196.0,28,6-4 6-1 6-1,5,R16
+2026-580,Australian Open,20260118,G,Hard,288,100644,3,Alexander Zverev,R,198.0,28,202103,18,Francisco Cerundolo,R,185.0,27,6-2 6-4 6-4,5,R16
+2026-580,Australian Open,20260118,G,Hard,289,207989,1,Carlos Alcaraz,R,183.0,22,126205,19,Tommy Paul,R,185.0,28,7-6(6) 6-4 7-5,5,R16
+2026-580,Australian Open,20260118,G,Hard,290,210097,8,Ben Shelton,L,193.0,23,134770,12,Casper Ruud,R,183.0,27,3-6 6-4 6-3 6-4,5,R16
+2026-580,Australian Open,20260118,G,Hard,291,207518,5,Lorenzo Musetti,R,185.0,23,126203,9,Taylor Fritz,R,196.0,28,6-2 7-5 6-4,5,R16
+2026-580,Australian Open,20260118,G,Hard,292,104925,4,Novak Djokovic,R,188.0,38,210084,16,Jakub Mensik,U,,20,,5,R16
+2026-580,Australian Open,20260118,G,Hard,293,206173,2,Jannik Sinner,R,191.0,24,209260,22,Luciano Darderi,R,183.0,23,6-1 6-3 7-6(2),5,R16
+2026-580,Australian Open,20260118,G,Hard,294,100644,3,Alexander Zverev,R,198.0,28,210530,25,Learner Tien,L,180.0,20,6-3 6(5)-7 6-1 7-6(3),5,QF
+2026-580,Australian Open,20260118,G,Hard,295,207989,1,Carlos Alcaraz,R,183.0,22,200282,6,Alex De Minaur,R,183.0,26,7-5 6-2 6-1,5,QF
+2026-580,Australian Open,20260118,G,Hard,296,104925,4,Novak Djokovic,R,188.0,38,207518,5,Lorenzo Musetti,R,185.0,23,4-6 3-6 3-1,5,QF
+2026-580,Australian Open,20260118,G,Hard,297,206173,2,Jannik Sinner,R,191.0,24,210097,8,Ben Shelton,L,193.0,23,6-3 6-4 6-4,5,QF
+2026-580,Australian Open,20260118,G,Hard,298,104925,4,Novak Djokovic,R,188.0,38,206173,2,Jannik Sinner,R,191.0,24,3-6 6-3 4-6 6-4 6-4,5,SF
+2026-580,Australian Open,20260118,G,Hard,299,207989,1,Carlos Alcaraz,R,183.0,22,100644,3,Alexander Zverev,R,198.0,28,6-4 7-6(5) 6(3)-7 6(4)-7 7-5,5,SF
+2026-580,Australian Open,20260118,G,Hard,300,207989,1,Carlos Alcaraz,R,183.0,22,104925,4,Novak Djokovic,R,188.0,38,2-6 6-2 6-3 7-5,5,F
