@@ -14634,3 +14634,92 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2026-0375,Montpellier,20260202,A,Hard,298,105173,,Adrian Mannarino,L,180.0,37,102093,,Martin Damm,L,203.0,22,1-6 6-3 6-4,3,SF
 2026-0375,Montpellier,20260202,A,Hard,299,200000,,Felix Auger Aliassime,R,193.0,25,208169,,Titouan Droguet,R,191.0,24,6-4 6(5)-7 6-1,3,SF
 2026-0375,Montpellier,20260202,A,Hard,300,200000,,Felix Auger Aliassime,R,193.0,25,105173,,Adrian Mannarino,L,180.0,37,6-3 7-6(4),3,F
+2026-0407,Rotterdam,20260209,A,Hard,270,122298,,Botic Van De Zandschulp,R,191.0,30,202146,,Luka Pavlovic,R,196.0,25,7-6(5) 6-3,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,271,106331,,Christopher Oconnell,R,183.0,31,208316,,Valentin Royer,R,188.0,24,6-4 4-6 7-6(4),3,R32
+2026-0407,Rotterdam,20260209,A,Hard,272,144719,,Jaume Munar,R,183.0,28,149282,,Nicolai Budkov Kjaer,R,188.0,19,6-1 6-3,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,273,111815,6,Cameron Norrie,L,188.0,30,105138,,Roberto Bautista Agut,R,183.0,37,7-6(3) 6-1,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,274,200005,,Ugo Humbert,L,188.0,27,106421,4,Daniil Medvedev,R,198.0,29,7-6(4) 3-6 6-3,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,275,105526,,Jan Lennard Struff,R,193.0,35,126409,,Hugo Grenier,R,196.0,29,6-0 6-4,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,276,209098,,Hamad Medjedovic,R,188.0,22,200267,,Zizou Bergs,R,185.0,26,7-6(5) 7-6(5),3,R32
+2026-0407,Rotterdam,20260209,A,Hard,277,111460,,Quentin Halys,R,191.0,29,212219,,Mees Rottgering,L,180.0,18,3-6 6-1 6-1,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,278,134868,7,Tallon Griekspoor,R,188.0,29,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-4 6-4,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,279,200282,1,Alex De Minaur,R,183.0,26,209950,,Arthur Fils,R,185.0,21,7-6(3) 6-2,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,280,104527,,Stan Wawrinka,R,183.0,40,212275,,Thijs Boogaard,U,,,6-3 6-4,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,281,209911,,Guy Den Ouden,R,183.0,23,105916,,Marton Fucsovics,R,188.0,33,7-6(5) 6-1,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,282,126774,,Stefanos Tsitsipas,R,193.0,27,126239,8,Arthur Rinderknech,R,196.0,30,7-5 6-3,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,283,111575,5,Karen Khachanov,R,198.0,29,207411,,Jesper De Jong,R,180.0,25,3-6 6-4 7-5,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,284,122330,3,Alexander Bublik,R,196.0,28,128034,,Hubert Hurkacz,R,196.0,28,6(2)-7 7-6(1) 7-5,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,285,200000,2,Felix Auger Aliassime,R,193.0,25,200615,,Alexei Popyrin,R,196.0,26,7-5 6-3,3,R32
+2026-0407,Rotterdam,20260209,A,Hard,286,134868,7,Tallon Griekspoor,R,188.0,29,111460,,Quentin Halys,R,191.0,29,7-5 7-6(11),3,R16
+2026-0407,Rotterdam,20260209,A,Hard,287,106331,,Christopher Oconnell,R,183.0,31,111815,6,Cameron Norrie,L,188.0,30,7-6(9) 6-4,3,R16
+2026-0407,Rotterdam,20260209,A,Hard,288,122298,,Botic Van De Zandschulp,R,191.0,30,126774,,Stefanos Tsitsipas,R,193.0,27,6-4 7-6(4),3,R16
+2026-0407,Rotterdam,20260209,A,Hard,289,200005,,Ugo Humbert,L,188.0,27,209911,,Guy Den Ouden,R,183.0,23,6-4 6-3,3,R16
+2026-0407,Rotterdam,20260209,A,Hard,290,144719,,Jaume Munar,R,183.0,28,111575,5,Karen Khachanov,R,198.0,29,7-6(8) 3-6 6-3,3,R16
+2026-0407,Rotterdam,20260209,A,Hard,291,122330,3,Alexander Bublik,R,196.0,28,105526,,Jan Lennard Struff,R,193.0,35,7-6(2) 4-6 6-3,3,R16
+2026-0407,Rotterdam,20260209,A,Hard,292,200000,2,Felix Auger Aliassime,R,193.0,25,209098,,Hamad Medjedovic,R,188.0,22,6-4 6-4,3,R16
+2026-0407,Rotterdam,20260209,A,Hard,293,200282,1,Alex De Minaur,R,183.0,26,104527,,Stan Wawrinka,R,183.0,40,6-4 6-2,3,R16
+2026-0407,Rotterdam,20260209,A,Hard,294,200005,,Ugo Humbert,L,188.0,27,106331,,Christopher Oconnell,R,183.0,31,6-4 6-1,3,QF
+2026-0407,Rotterdam,20260209,A,Hard,295,122330,3,Alexander Bublik,R,196.0,28,144719,,Jaume Munar,R,183.0,28,6-4 6(4)-7 7-6(3),3,QF
+2026-0407,Rotterdam,20260209,A,Hard,296,200000,2,Felix Auger Aliassime,R,193.0,25,134868,7,Tallon Griekspoor,R,188.0,29,7-6(2) 6-2,3,QF
+2026-0407,Rotterdam,20260209,A,Hard,297,200282,1,Alex De Minaur,R,183.0,26,122298,,Botic Van De Zandschulp,R,191.0,30,3-6 7-6(4) 7-5,3,QF
+2026-0407,Rotterdam,20260209,A,Hard,298,200000,2,Felix Auger Aliassime,R,193.0,25,122330,3,Alexander Bublik,R,196.0,28,6-1 6-2,3,SF
+2026-0407,Rotterdam,20260209,A,Hard,299,200282,1,Alex De Minaur,R,183.0,26,200005,,Ugo Humbert,L,188.0,27,6-4 6-3,3,SF
+2026-0407,Rotterdam,20260209,A,Hard,300,200282,1,Alex De Minaur,R,183.0,26,200000,2,Felix Auger Aliassime,R,193.0,25,6-3 6-2,3,F
+2026-0424,Dallas,20260209,A,Hard,270,206909,,Brandon Nakashima,R,188.0,24,208233,,Mattia Bellucci,L,175.0,24,6-3 6-4,3,R32
+2026-0424,Dallas,20260209,A,Hard,271,200624,,Sebastian Korda,R,196.0,25,210116,,Michael Zheng,R,188.0,21,6-3 6-4,3,R32
+2026-0424,Dallas,20260209,A,Hard,272,126207,8,Frances Tiafoe,R,188.0,27,209279,,Terence Atmane,L,193.0,23,4-6 6-2 6-2,3,R32
+2026-0424,Dallas,20260209,A,Hard,273,200221,3,Alejandro Davidovich Fokina,R,183.0,26,208260,,Zachary Svajda,R,175.0,23,6-4 7-6(1),3,R32
+2026-0424,Dallas,20260209,A,Hard,274,210506,,Alex Michelsen,R,193.0,21,105777,,Grigor Dimitrov,R,191.0,34,5-7 6-4 6-4,3,R32
+2026-0424,Dallas,20260209,A,Hard,275,206499,,Aleksandar Kovacevic,R,183.0,27,200516,,Patrick Kypson,R,188.0,26,6-4 7-6(1),3,R32
+2026-0424,Dallas,20260209,A,Hard,276,200175,,Miomir Kecmanovic,R,183.0,26,200647,,Sho Shimabukuro,R,180.0,28,6(3)-7 6-3 7-6(3),3,R32
+2026-0424,Dallas,20260209,A,Hard,277,133430,7,Denis Shapovalov,L,185.0,26,212588,,Rafael Jodar,U,,19,6-1 6-2,3,R32
+2026-0424,Dallas,20260209,A,Hard,278,105227,,Marin Cilic,R,198.0,37,210530,6,Learner Tien,L,180.0,20,7-5 7-6(4),3,R32
+2026-0424,Dallas,20260209,A,Hard,279,209957,,Jack Pinnington Jones,R,180.0,22,207925,4,Flavio Cobolli,R,183.0,23,6-2 6-2,3,R32
+2026-0424,Dallas,20260209,A,Hard,280,210097,2,Ben Shelton,L,193.0,23,209113,,Gabriel Diallo,R,203.0,24,6-4 6-4,3,R32
+2026-0424,Dallas,20260209,A,Hard,281,126203,1,Taylor Fritz,R,196.0,28,106218,,Marcos Giron,R,180.0,32,6-4 5-7 7-6(1),3,R32
+2026-0424,Dallas,20260209,A,Hard,282,208118,,Eliot Spizzirri,R,183.0,24,105902,,James Duckworth,R,183.0,33,6-2 6-4,3,R32
+2026-0424,Dallas,20260209,A,Hard,283,210319,,Ethan Quinn,R,191.0,21,212216,,Trevor Svajda,R,175.0,19,7-6(3) 7-5,3,R32
+2026-0424,Dallas,20260209,A,Hard,284,105173,,Adrian Mannarino,L,180.0,37,200443,,Adam Walton,R,183.0,26,6-4 6-2,3,R32
+2026-0424,Dallas,20260209,A,Hard,285,126205,5,Tommy Paul,R,185.0,28,202385,,Jenson Brooksby,R,188.0,25,4-6 6-4 7-6(4),3,R32
+2026-0424,Dallas,20260209,A,Hard,286,200624,,Sebastian Korda,R,196.0,25,126207,8,Frances Tiafoe,R,188.0,27,7-5 6-1,3,R16
+2026-0424,Dallas,20260209,A,Hard,287,200221,3,Alejandro Davidovich Fokina,R,183.0,26,210506,,Alex Michelsen,R,193.0,21,6-4 6-4,3,R16
+2026-0424,Dallas,20260209,A,Hard,288,126203,1,Taylor Fritz,R,196.0,28,206909,,Brandon Nakashima,R,188.0,24,6-3 6-4,3,R16
+2026-0424,Dallas,20260209,A,Hard,289,209957,,Jack Pinnington Jones,R,180.0,22,208118,,Eliot Spizzirri,R,183.0,24,7-6(5) 4-6 7-6(4),3,R16
+2026-0424,Dallas,20260209,A,Hard,290,105227,,Marin Cilic,R,198.0,37,210319,,Ethan Quinn,R,191.0,21,7-6(4) 6-3,3,R16
+2026-0424,Dallas,20260209,A,Hard,291,133430,7,Denis Shapovalov,L,185.0,26,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 6-4,3,R16
+2026-0424,Dallas,20260209,A,Hard,292,200175,,Miomir Kecmanovic,R,183.0,26,126205,5,Tommy Paul,R,185.0,28,5-7 6-4 6-4,3,R16
+2026-0424,Dallas,20260209,A,Hard,293,210097,2,Ben Shelton,L,193.0,23,105173,,Adrian Mannarino,L,180.0,37,7-6(2) 6(4)-7 6-3,3,R16
+2026-0424,Dallas,20260209,A,Hard,294,105227,,Marin Cilic,R,198.0,37,209957,,Jack Pinnington Jones,R,180.0,22,6-1 6-4,3,QF
+2026-0424,Dallas,20260209,A,Hard,295,133430,7,Denis Shapovalov,L,185.0,26,200221,3,Alejandro Davidovich Fokina,R,183.0,26,5-7 6-4 6-3,3,QF
+2026-0424,Dallas,20260209,A,Hard,296,210097,2,Ben Shelton,L,193.0,23,200175,,Miomir Kecmanovic,R,183.0,26,5-7 6-3 6-4,3,QF
+2026-0424,Dallas,20260209,A,Hard,297,126203,1,Taylor Fritz,R,196.0,28,200624,,Sebastian Korda,R,196.0,25,6(2)-7 6-4 7-6(5),3,QF
+2026-0424,Dallas,20260209,A,Hard,298,210097,2,Ben Shelton,L,193.0,23,133430,7,Denis Shapovalov,L,185.0,26,4-6 6-4 7-6(4),3,SF
+2026-0424,Dallas,20260209,A,Hard,299,126203,1,Taylor Fritz,R,196.0,28,105227,,Marin Cilic,R,198.0,37,7-6(5) 7-6(3),3,SF
+2026-0424,Dallas,20260209,A,Hard,300,210097,2,Ben Shelton,L,193.0,23,126203,1,Taylor Fritz,R,196.0,28,3-6 6-3 7-5,3,F
+2026-0506,Buenos Aires,20260209,A,Clay,274,117531,,Pedro Villena Martinez,U,,43,210297,,Lautaro Midon,R,180.0,21,6-4 6-1,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,275,200240,,Vit Kopriva,R,178.0,28,209875,,Alex Barrena,R,175.0,23,6-4 3-6 6-4,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,276,106198,,Hugo Dellien,R,180.0,32,106000,,Damir Dzumhur,R,175.0,33,6-4 6-1,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,277,144869,7,Tomas Martin Etcheverry,R,196.0,26,126504,,Andrea Pellegrino,R,185.0,28,6-3 6-4,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,278,126214,,Alejandro Tabilo,L,188.0,28,207680,,Facundo Diaz Acosta,L,183.0,25,7-6(5) 6-3,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,279,209860,,Ignacio Buse,R,185.0,21,208859,,Francesco Passaro,R,180.0,24,5-7 7-5 6-4,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,280,208882,,Roman Andres Burruchaga,R,183.0,23,111513,,Laslo Djere,R,188.0,30,6-2 6-4,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,281,144642,,Tomas Barrios Vera,R,191.0,28,205734,,Thiago Seyboth Wild,R,185.0,25,4-6 6-5,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,282,126610,8,Matteo Berrettini,R,196.0,29,105948,,Federico Coria,R,180.0,33,7-5 7-5,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,283,200116,6,Camilo Ugo Carabelli,R,185.0,26,207681,,Francisco Comesana,R,178.0,25,6-4 7-6(3),3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,284,207678,,Juan Manuel Cerundolo,L,183.0,24,127157,5,Daniel Altmaier,R,188.0,27,6-2 6-2,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,285,208363,,Mariano Navone,R,178.0,24,207182,,Emilio Nava,R,185.0,24,6-2 6-1,3,R32
+2026-0506,Buenos Aires,20260209,A,Clay,286,200240,,Vit Kopriva,R,178.0,28,126610,8,Matteo Berrettini,R,196.0,29,6-4 6-3,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,287,144869,7,Tomas Martin Etcheverry,R,196.0,26,208882,,Roman Andres Burruchaga,R,183.0,23,7-6(5) 6(3)-7 6-4,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,288,126214,,Alejandro Tabilo,L,188.0,28,211663,3,Joao Fonseca,R,185.0,19,6-3 3-6 7-5,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,289,202103,1,Francisco Cerundolo,R,185.0,27,106198,,Hugo Dellien,R,180.0,32,6-0 7-6(6),3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,290,117531,,Pedro Villena Martinez,U,,43,207678,,Juan Manuel Cerundolo,L,183.0,24,7-6(5) 6-4,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,291,200116,6,Camilo Ugo Carabelli,R,185.0,26,208363,,Mariano Navone,R,178.0,24,6-2 7-5,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,292,202104,4,Sebastian Baez,R,170.0,25,209860,,Ignacio Buse,R,185.0,21,6-4 6-3,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,293,209260,2,Luciano Darderi,R,183.0,23,144642,,Tomas Barrios Vera,R,191.0,28,6-1 6-3,3,R16
+2026-0506,Buenos Aires,20260209,A,Clay,294,144869,7,Tomas Martin Etcheverry,R,196.0,26,126214,,Alejandro Tabilo,L,188.0,28,1-6 6-3 6-4,3,QF
+2026-0506,Buenos Aires,20260209,A,Clay,295,202104,4,Sebastian Baez,R,170.0,25,200116,6,Camilo Ugo Carabelli,R,185.0,26,7-6(5) 6-2,3,QF
+2026-0506,Buenos Aires,20260209,A,Clay,296,209260,2,Luciano Darderi,R,183.0,23,117531,,Pedro Villena Martinez,U,,43,7-5 6-1,3,QF
+2026-0506,Buenos Aires,20260209,A,Clay,297,202103,1,Francisco Cerundolo,R,185.0,27,200240,,Vit Kopriva,R,178.0,28,6-4 6-3,3,QF
+2026-0506,Buenos Aires,20260209,A,Clay,298,209260,2,Luciano Darderi,R,183.0,23,202104,4,Sebastian Baez,R,170.0,25,7-6(2) 6-1,3,SF
+2026-0506,Buenos Aires,20260209,A,Clay,299,202103,1,Francisco Cerundolo,R,185.0,27,144869,7,Tomas Martin Etcheverry,R,196.0,26,6-3 7-5,3,SF
+2026-0506,Buenos Aires,20260209,A,Clay,300,202103,1,Francisco Cerundolo,R,185.0,27,209260,2,Luciano Darderi,R,183.0,23,6-4 6-2,3,F

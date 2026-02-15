@@ -1,0 +1,32 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+0407,Rotterdam,20260209,A,Hard,270,122298,,Botic Van De Zandschulp,R,191.0,30,202146,,Luka Pavlovic,R,196.0,25,7-6(5) 6-3,3,R32
+0407,Rotterdam,20260209,A,Hard,271,106331,,Christopher Oconnell,R,183.0,31,208316,,Valentin Royer,R,188.0,24,6-4 4-6 7-6(4),3,R32
+0407,Rotterdam,20260209,A,Hard,272,144719,,Jaume Munar,R,183.0,28,149282,,Nicolai Budkov Kjaer,R,188.0,19,6-1 6-3,3,R32
+0407,Rotterdam,20260209,A,Hard,273,111815,6,Cameron Norrie,L,188.0,30,105138,,Roberto Bautista Agut,R,183.0,37,7-6(3) 6-1,3,R32
+0407,Rotterdam,20260209,A,Hard,274,200005,,Ugo Humbert,L,188.0,27,106421,4,Daniil Medvedev,R,198.0,29,7-6(4) 3-6 6-3,3,R32
+0407,Rotterdam,20260209,A,Hard,275,105526,,Jan Lennard Struff,R,193.0,35,126409,,Hugo Grenier,R,196.0,29,6-0 6-4,3,R32
+0407,Rotterdam,20260209,A,Hard,276,209098,,Hamad Medjedovic,R,188.0,22,200267,,Zizou Bergs,R,185.0,26,7-6(5) 7-6(5),3,R32
+0407,Rotterdam,20260209,A,Hard,277,111460,,Quentin Halys,R,191.0,29,212219,,Mees Rottgering,L,180.0,18,3-6 6-1 6-1,3,R32
+0407,Rotterdam,20260209,A,Hard,278,134868,7,Tallon Griekspoor,R,188.0,29,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-4 6-4,3,R32
+0407,Rotterdam,20260209,A,Hard,279,200282,1,Alex De Minaur,R,183.0,26,209950,,Arthur Fils,R,185.0,21,7-6(3) 6-2,3,R32
+0407,Rotterdam,20260209,A,Hard,280,104527,,Stan Wawrinka,R,183.0,40,212275,,Thijs Boogaard,U,,,6-3 6-4,3,R32
+0407,Rotterdam,20260209,A,Hard,281,209911,,Guy Den Ouden,R,183.0,23,105916,,Marton Fucsovics,R,188.0,33,7-6(5) 6-1,3,R32
+0407,Rotterdam,20260209,A,Hard,282,126774,,Stefanos Tsitsipas,R,193.0,27,126239,8,Arthur Rinderknech,R,196.0,30,7-5 6-3,3,R32
+0407,Rotterdam,20260209,A,Hard,283,111575,5,Karen Khachanov,R,198.0,29,207411,,Jesper De Jong,R,180.0,25,3-6 6-4 7-5,3,R32
+0407,Rotterdam,20260209,A,Hard,284,122330,3,Alexander Bublik,R,196.0,28,128034,,Hubert Hurkacz,R,196.0,28,6(2)-7 7-6(1) 7-5,3,R32
+0407,Rotterdam,20260209,A,Hard,285,200000,2,Felix Auger Aliassime,R,193.0,25,200615,,Alexei Popyrin,R,196.0,26,7-5 6-3,3,R32
+0407,Rotterdam,20260209,A,Hard,286,134868,7,Tallon Griekspoor,R,188.0,29,111460,,Quentin Halys,R,191.0,29,7-5 7-6(11),3,R16
+0407,Rotterdam,20260209,A,Hard,287,106331,,Christopher Oconnell,R,183.0,31,111815,6,Cameron Norrie,L,188.0,30,7-6(9) 6-4,3,R16
+0407,Rotterdam,20260209,A,Hard,288,122298,,Botic Van De Zandschulp,R,191.0,30,126774,,Stefanos Tsitsipas,R,193.0,27,6-4 7-6(4),3,R16
+0407,Rotterdam,20260209,A,Hard,289,200005,,Ugo Humbert,L,188.0,27,209911,,Guy Den Ouden,R,183.0,23,6-4 6-3,3,R16
+0407,Rotterdam,20260209,A,Hard,290,144719,,Jaume Munar,R,183.0,28,111575,5,Karen Khachanov,R,198.0,29,7-6(8) 3-6 6-3,3,R16
+0407,Rotterdam,20260209,A,Hard,291,122330,3,Alexander Bublik,R,196.0,28,105526,,Jan Lennard Struff,R,193.0,35,7-6(2) 4-6 6-3,3,R16
+0407,Rotterdam,20260209,A,Hard,292,200000,2,Felix Auger Aliassime,R,193.0,25,209098,,Hamad Medjedovic,R,188.0,22,6-4 6-4,3,R16
+0407,Rotterdam,20260209,A,Hard,293,200282,1,Alex De Minaur,R,183.0,26,104527,,Stan Wawrinka,R,183.0,40,6-4 6-2,3,R16
+0407,Rotterdam,20260209,A,Hard,294,200005,,Ugo Humbert,L,188.0,27,106331,,Christopher Oconnell,R,183.0,31,6-4 6-1,3,QF
+0407,Rotterdam,20260209,A,Hard,295,122330,3,Alexander Bublik,R,196.0,28,144719,,Jaume Munar,R,183.0,28,6-4 6(4)-7 7-6(3),3,QF
+0407,Rotterdam,20260209,A,Hard,296,200000,2,Felix Auger Aliassime,R,193.0,25,134868,7,Tallon Griekspoor,R,188.0,29,7-6(2) 6-2,3,QF
+0407,Rotterdam,20260209,A,Hard,297,200282,1,Alex De Minaur,R,183.0,26,122298,,Botic Van De Zandschulp,R,191.0,30,3-6 7-6(4) 7-5,3,QF
+0407,Rotterdam,20260209,A,Hard,298,200000,2,Felix Auger Aliassime,R,193.0,25,122330,3,Alexander Bublik,R,196.0,28,6-1 6-2,3,SF
+0407,Rotterdam,20260209,A,Hard,299,200282,1,Alex De Minaur,R,183.0,26,200005,,Ugo Humbert,L,188.0,27,6-4 6-3,3,SF
+0407,Rotterdam,20260209,A,Hard,300,200282,1,Alex De Minaur,R,183.0,26,200000,2,Felix Auger Aliassime,R,193.0,25,6-3 6-2,3,F

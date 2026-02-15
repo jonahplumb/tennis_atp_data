@@ -1,0 +1,32 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+0424,Dallas,20260209,A,Hard,270,206909,,Brandon Nakashima,R,188.0,24,208233,,Mattia Bellucci,L,175.0,24,6-3 6-4,3,R32
+0424,Dallas,20260209,A,Hard,271,200624,,Sebastian Korda,R,196.0,25,210116,,Michael Zheng,R,188.0,21,6-3 6-4,3,R32
+0424,Dallas,20260209,A,Hard,272,126207,8,Frances Tiafoe,R,188.0,27,209279,,Terence Atmane,L,193.0,23,4-6 6-2 6-2,3,R32
+0424,Dallas,20260209,A,Hard,273,200221,3,Alejandro Davidovich Fokina,R,183.0,26,208260,,Zachary Svajda,R,175.0,23,6-4 7-6(1),3,R32
+0424,Dallas,20260209,A,Hard,274,210506,,Alex Michelsen,R,193.0,21,105777,,Grigor Dimitrov,R,191.0,34,5-7 6-4 6-4,3,R32
+0424,Dallas,20260209,A,Hard,275,206499,,Aleksandar Kovacevic,R,183.0,27,200516,,Patrick Kypson,R,188.0,26,6-4 7-6(1),3,R32
+0424,Dallas,20260209,A,Hard,276,200175,,Miomir Kecmanovic,R,183.0,26,200647,,Sho Shimabukuro,R,180.0,28,6(3)-7 6-3 7-6(3),3,R32
+0424,Dallas,20260209,A,Hard,277,133430,7,Denis Shapovalov,L,185.0,26,212588,,Rafael Jodar,U,,19,6-1 6-2,3,R32
+0424,Dallas,20260209,A,Hard,278,105227,,Marin Cilic,R,198.0,37,210530,6,Learner Tien,L,180.0,20,7-5 7-6(4),3,R32
+0424,Dallas,20260209,A,Hard,279,209957,,Jack Pinnington Jones,R,180.0,22,207925,4,Flavio Cobolli,R,183.0,23,6-2 6-2,3,R32
+0424,Dallas,20260209,A,Hard,280,210097,2,Ben Shelton,L,193.0,23,209113,,Gabriel Diallo,R,203.0,24,6-4 6-4,3,R32
+0424,Dallas,20260209,A,Hard,281,126203,1,Taylor Fritz,R,196.0,28,106218,,Marcos Giron,R,180.0,32,6-4 5-7 7-6(1),3,R32
+0424,Dallas,20260209,A,Hard,282,208118,,Eliot Spizzirri,R,183.0,24,105902,,James Duckworth,R,183.0,33,6-2 6-4,3,R32
+0424,Dallas,20260209,A,Hard,283,210319,,Ethan Quinn,R,191.0,21,212216,,Trevor Svajda,R,175.0,19,7-6(3) 7-5,3,R32
+0424,Dallas,20260209,A,Hard,284,105173,,Adrian Mannarino,L,180.0,37,200443,,Adam Walton,R,183.0,26,6-4 6-2,3,R32
+0424,Dallas,20260209,A,Hard,285,126205,5,Tommy Paul,R,185.0,28,202385,,Jenson Brooksby,R,188.0,25,4-6 6-4 7-6(4),3,R32
+0424,Dallas,20260209,A,Hard,286,200624,,Sebastian Korda,R,196.0,25,126207,8,Frances Tiafoe,R,188.0,27,7-5 6-1,3,R16
+0424,Dallas,20260209,A,Hard,287,200221,3,Alejandro Davidovich Fokina,R,183.0,26,210506,,Alex Michelsen,R,193.0,21,6-4 6-4,3,R16
+0424,Dallas,20260209,A,Hard,288,126203,1,Taylor Fritz,R,196.0,28,206909,,Brandon Nakashima,R,188.0,24,6-3 6-4,3,R16
+0424,Dallas,20260209,A,Hard,289,209957,,Jack Pinnington Jones,R,180.0,22,208118,,Eliot Spizzirri,R,183.0,24,7-6(5) 4-6 7-6(4),3,R16
+0424,Dallas,20260209,A,Hard,290,105227,,Marin Cilic,R,198.0,37,210319,,Ethan Quinn,R,191.0,21,7-6(4) 6-3,3,R16
+0424,Dallas,20260209,A,Hard,291,133430,7,Denis Shapovalov,L,185.0,26,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 6-4,3,R16
+0424,Dallas,20260209,A,Hard,292,200175,,Miomir Kecmanovic,R,183.0,26,126205,5,Tommy Paul,R,185.0,28,5-7 6-4 6-4,3,R16
+0424,Dallas,20260209,A,Hard,293,210097,2,Ben Shelton,L,193.0,23,105173,,Adrian Mannarino,L,180.0,37,7-6(2) 6(4)-7 6-3,3,R16
+0424,Dallas,20260209,A,Hard,294,105227,,Marin Cilic,R,198.0,37,209957,,Jack Pinnington Jones,R,180.0,22,6-1 6-4,3,QF
+0424,Dallas,20260209,A,Hard,295,133430,7,Denis Shapovalov,L,185.0,26,200221,3,Alejandro Davidovich Fokina,R,183.0,26,5-7 6-4 6-3,3,QF
+0424,Dallas,20260209,A,Hard,296,210097,2,Ben Shelton,L,193.0,23,200175,,Miomir Kecmanovic,R,183.0,26,5-7 6-3 6-4,3,QF
+0424,Dallas,20260209,A,Hard,297,126203,1,Taylor Fritz,R,196.0,28,200624,,Sebastian Korda,R,196.0,25,6(2)-7 6-4 7-6(5),3,QF
+0424,Dallas,20260209,A,Hard,298,210097,2,Ben Shelton,L,193.0,23,133430,7,Denis Shapovalov,L,185.0,26,4-6 6-4 7-6(4),3,SF
+0424,Dallas,20260209,A,Hard,299,126203,1,Taylor Fritz,R,196.0,28,105227,,Marin Cilic,R,198.0,37,7-6(5) 7-6(3),3,SF
+0424,Dallas,20260209,A,Hard,300,210097,2,Ben Shelton,L,193.0,23,126203,1,Taylor Fritz,R,196.0,28,3-6 6-3 7-5,3,F

@@ -1,0 +1,28 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+0506,Buenos Aires,20260209,A,Clay,274,117531,,Pedro Villena Martinez,U,,43,210297,,Lautaro Midon,R,180.0,21,6-4 6-1,3,R32
+0506,Buenos Aires,20260209,A,Clay,275,200240,,Vit Kopriva,R,178.0,28,209875,,Alex Barrena,R,175.0,23,6-4 3-6 6-4,3,R32
+0506,Buenos Aires,20260209,A,Clay,276,106198,,Hugo Dellien,R,180.0,32,106000,,Damir Dzumhur,R,175.0,33,6-4 6-1,3,R32
+0506,Buenos Aires,20260209,A,Clay,277,144869,7,Tomas Martin Etcheverry,R,196.0,26,126504,,Andrea Pellegrino,R,185.0,28,6-3 6-4,3,R32
+0506,Buenos Aires,20260209,A,Clay,278,126214,,Alejandro Tabilo,L,188.0,28,207680,,Facundo Diaz Acosta,L,183.0,25,7-6(5) 6-3,3,R32
+0506,Buenos Aires,20260209,A,Clay,279,209860,,Ignacio Buse,R,185.0,21,208859,,Francesco Passaro,R,180.0,24,5-7 7-5 6-4,3,R32
+0506,Buenos Aires,20260209,A,Clay,280,208882,,Roman Andres Burruchaga,R,183.0,23,111513,,Laslo Djere,R,188.0,30,6-2 6-4,3,R32
+0506,Buenos Aires,20260209,A,Clay,281,144642,,Tomas Barrios Vera,R,191.0,28,205734,,Thiago Seyboth Wild,R,185.0,25,4-6 6-5,3,R32
+0506,Buenos Aires,20260209,A,Clay,282,126610,8,Matteo Berrettini,R,196.0,29,105948,,Federico Coria,R,180.0,33,7-5 7-5,3,R32
+0506,Buenos Aires,20260209,A,Clay,283,200116,6,Camilo Ugo Carabelli,R,185.0,26,207681,,Francisco Comesana,R,178.0,25,6-4 7-6(3),3,R32
+0506,Buenos Aires,20260209,A,Clay,284,207678,,Juan Manuel Cerundolo,L,183.0,24,127157,5,Daniel Altmaier,R,188.0,27,6-2 6-2,3,R32
+0506,Buenos Aires,20260209,A,Clay,285,208363,,Mariano Navone,R,178.0,24,207182,,Emilio Nava,R,185.0,24,6-2 6-1,3,R32
+0506,Buenos Aires,20260209,A,Clay,286,200240,,Vit Kopriva,R,178.0,28,126610,8,Matteo Berrettini,R,196.0,29,6-4 6-3,3,R16
+0506,Buenos Aires,20260209,A,Clay,287,144869,7,Tomas Martin Etcheverry,R,196.0,26,208882,,Roman Andres Burruchaga,R,183.0,23,7-6(5) 6(3)-7 6-4,3,R16
+0506,Buenos Aires,20260209,A,Clay,288,126214,,Alejandro Tabilo,L,188.0,28,211663,3,Joao Fonseca,R,185.0,19,6-3 3-6 7-5,3,R16
+0506,Buenos Aires,20260209,A,Clay,289,202103,1,Francisco Cerundolo,R,185.0,27,106198,,Hugo Dellien,R,180.0,32,6-0 7-6(6),3,R16
+0506,Buenos Aires,20260209,A,Clay,290,117531,,Pedro Villena Martinez,U,,43,207678,,Juan Manuel Cerundolo,L,183.0,24,7-6(5) 6-4,3,R16
+0506,Buenos Aires,20260209,A,Clay,291,200116,6,Camilo Ugo Carabelli,R,185.0,26,208363,,Mariano Navone,R,178.0,24,6-2 7-5,3,R16
+0506,Buenos Aires,20260209,A,Clay,292,202104,4,Sebastian Baez,R,170.0,25,209860,,Ignacio Buse,R,185.0,21,6-4 6-3,3,R16
+0506,Buenos Aires,20260209,A,Clay,293,209260,2,Luciano Darderi,R,183.0,23,144642,,Tomas Barrios Vera,R,191.0,28,6-1 6-3,3,R16
+0506,Buenos Aires,20260209,A,Clay,294,144869,7,Tomas Martin Etcheverry,R,196.0,26,126214,,Alejandro Tabilo,L,188.0,28,1-6 6-3 6-4,3,QF
+0506,Buenos Aires,20260209,A,Clay,295,202104,4,Sebastian Baez,R,170.0,25,200116,6,Camilo Ugo Carabelli,R,185.0,26,7-6(5) 6-2,3,QF
+0506,Buenos Aires,20260209,A,Clay,296,209260,2,Luciano Darderi,R,183.0,23,117531,,Pedro Villena Martinez,U,,43,7-5 6-1,3,QF
+0506,Buenos Aires,20260209,A,Clay,297,202103,1,Francisco Cerundolo,R,185.0,27,200240,,Vit Kopriva,R,178.0,28,6-4 6-3,3,QF
+0506,Buenos Aires,20260209,A,Clay,298,209260,2,Luciano Darderi,R,183.0,23,202104,4,Sebastian Baez,R,170.0,25,7-6(2) 6-1,3,SF
+0506,Buenos Aires,20260209,A,Clay,299,202103,1,Francisco Cerundolo,R,185.0,27,144869,7,Tomas Martin Etcheverry,R,196.0,26,6-3 7-5,3,SF
+0506,Buenos Aires,20260209,A,Clay,300,202103,1,Francisco Cerundolo,R,185.0,27,209260,2,Luciano Darderi,R,183.0,23,6-4 6-2,3,F
