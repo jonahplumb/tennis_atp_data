@@ -1,0 +1,32 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-6932,Rio de Janeiro,20260216,A,Clay,270,202058,,Thiago Agustin Tirante,R,185.0,24,106426,,Cristian Garin,R,185.0,29,7-5 6-3,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,271,126214,,Alejandro Tabilo,L,188.0,28,207182,,Emilio Nava,R,185.0,24,6-3 6-3,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,272,200240,,Vit Kopriva,R,178.0,28,208361,,Gustavo Heide,R,191.0,23,6-2 7-6(5),3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,273,105870,,Yannick Hanfmann,R,193.0,34,206307,,Joao Lucas Reis Da Silva,R,178.0,25,7-6(3) 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,274,209860,,Ignacio Buse,R,185.0,21,127108,,Igor Ribeiro Marcondes,U,,28,4-6 7-5 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,275,105583,,Dusan Lajovic,R,183.0,35,127157,7,Daniel Altmaier,R,188.0,27,6-4 7-6(7),3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,276,208859,,Francesco Passaro,R,180.0,24,209976,,Dino Prizmic,R,188.0,20,6-3 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,277,209147,,Vilius Gaubas,R,178.0,21,213036,,Luis Guto Miguel,U,,16,6-3 2-6 6-2,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,278,106000,,Damir Dzumhur,R,175.0,33,117531,,Pedro Villena Martinez,U,,43,0-6 7-6(5) 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,279,126610,,Matteo Berrettini,R,196.0,29,144642,,Tomas Barrios Vera,R,191.0,28,7-6(1) 7-5,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,280,144869,8,Tomas Martin Etcheverry,R,196.0,26,207681,,Francisco Comesana,R,178.0,25,3-6 6-3 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,281,208882,,Roman Andres Burruchaga,R,183.0,23,200116,5,Camilo Ugo Carabelli,R,185.0,26,6-3 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,282,210262,,Jaime Faria,R,188.0,22,202104,4,Sebastian Baez,R,170.0,25,7-5 6-1,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,283,211663,3,Joao Fonseca,R,185.0,19,106329,,Thiago Monteiro,L,183.0,31,7-6(1) 6-1,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,284,207678,,Juan Manuel Cerundolo,L,183.0,24,209260,2,Luciano Darderi,R,183.0,23,6-1 3-6 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,285,202103,1,Francisco Cerundolo,R,185.0,27,208363,,Mariano Navone,R,178.0,24,6-3 6-4,3,R32
+2026-6932,Rio de Janeiro,20260216,A,Clay,286,126214,,Alejandro Tabilo,L,188.0,28,208859,,Francesco Passaro,R,180.0,24,4-6 7-6(0) 6-2,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,287,200240,,Vit Kopriva,R,178.0,28,208882,,Roman Andres Burruchaga,R,183.0,23,6-3 6-1,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,288,207678,,Juan Manuel Cerundolo,L,183.0,24,105870,,Yannick Hanfmann,R,193.0,34,6-4 6(1)-7 6-4,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,289,202058,,Thiago Agustin Tirante,R,185.0,24,202103,1,Francisco Cerundolo,R,185.0,27,6-2 3-1,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,290,210262,,Jaime Faria,R,188.0,22,106000,,Damir Dzumhur,R,175.0,33,7-6(1) 6-4,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,291,126610,,Matteo Berrettini,R,196.0,29,105583,,Dusan Lajovic,R,183.0,35,3-6 6-4 6-2,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,292,144869,8,Tomas Martin Etcheverry,R,196.0,26,209147,,Vilius Gaubas,R,178.0,21,7-6(1) 6-4,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,293,209860,,Ignacio Buse,R,185.0,21,211663,3,Joao Fonseca,R,185.0,19,5-7 6-3 6-4,3,R16
+2026-6932,Rio de Janeiro,20260216,A,Clay,294,126214,,Alejandro Tabilo,L,188.0,28,202058,,Thiago Agustin Tirante,R,185.0,24,7-6(2) 6(6)-7 6-1,3,QF
+2026-6932,Rio de Janeiro,20260216,A,Clay,295,200240,,Vit Kopriva,R,178.0,28,207678,,Juan Manuel Cerundolo,L,183.0,24,6-4 6-4,3,QF
+2026-6932,Rio de Janeiro,20260216,A,Clay,296,209860,,Ignacio Buse,R,185.0,21,126610,,Matteo Berrettini,R,196.0,29,6-3 2-6 6-3,3,QF
+2026-6932,Rio de Janeiro,20260216,A,Clay,297,144869,8,Tomas Martin Etcheverry,R,196.0,26,210262,,Jaime Faria,R,188.0,22,7-6(4) 6-4,3,QF
+2026-6932,Rio de Janeiro,20260216,A,Clay,298,126214,,Alejandro Tabilo,L,188.0,28,209860,,Ignacio Buse,R,185.0,21,6-3 6-3,3,SF
+2026-6932,Rio de Janeiro,20260216,A,Clay,299,144869,8,Tomas Martin Etcheverry,R,196.0,26,200240,,Vit Kopriva,R,178.0,28,4-6 7-6(2) 7-6(4),3,SF
+2026-6932,Rio de Janeiro,20260216,A,Clay,300,144869,8,Tomas Martin Etcheverry,R,196.0,26,126214,,Alejandro Tabilo,L,188.0,28,3-6 7-6(3) 6-4,3,F

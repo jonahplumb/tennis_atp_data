@@ -1,0 +1,32 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-0451,Doha,20260216,A,Hard,270,208316,,Valentin Royer,R,188.0,24,105732,,Pierre Hugues Herbert,R,188.0,34,6-0 6-3,3,R32
+2026-0451,Doha,20260216,A,Hard,271,200615,,Alexei Popyrin,R,196.0,26,122570,,Mubarak Shannan Zayid,R,,30,6-0 6-2,3,R32
+2026-0451,Doha,20260216,A,Hard,272,209950,,Arthur Fils,R,185.0,21,111794,,Kamil Majchrzak,R,180.0,29,6(5)-7 6-3 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,273,210084,6,Jakub Mensik,U,,20,123828,,Jan Choinski,R,196.0,29,6(6)-7 6-2 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,274,106421,4,Daniil Medvedev,R,198.0,29,209992,,Juncheng Shang,L,180.0,20,6-4 6-2,3,R32
+2026-0451,Doha,20260216,A,Hard,275,206173,2,Jannik Sinner,R,191.0,24,207830,,Tomas Machac,R,183.0,25,6-1 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,276,111190,,Zhizhen Zhang,R,193.0,29,106148,,Roberto Carballes Baena,R,183.0,32,6-4 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,277,126774,,Stefanos Tsitsipas,R,193.0,27,121411,,Moez Echargui,R,178.0,32,6-4 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,278,206681,,Fabian Marozsan,R,193.0,26,200005,,Ugo Humbert,L,188.0,27,6-3 6-1,3,R32
+2026-0451,Doha,20260216,A,Hard,279,111460,,Quentin Halys,R,191.0,29,105807,,Pablo Carreno Busta,R,188.0,34,4-6 7-5 6-3,3,R32
+2026-0451,Doha,20260216,A,Hard,280,105916,,Marton Fucsovics,R,188.0,33,200273,,Hady Habib,R,188.0,27,6-3 6-3,3,R32
+2026-0451,Doha,20260216,A,Hard,281,200267,,Zizou Bergs,R,185.0,26,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-3 6(5)-7 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,282,208103,8,Jiri Lehecka,R,185.0,24,202385,,Jenson Brooksby,R,188.0,25,6-3 6-3,3,R32
+2026-0451,Doha,20260216,A,Hard,283,111575,7,Karen Khachanov,R,198.0,29,208278,,Shintaro Mochizuki,R,175.0,22,6-1 3-6 6-4,3,R32
+2026-0451,Doha,20260216,A,Hard,284,126094,5,Andrey Rublev,R,188.0,28,207411,,Jesper De Jong,R,180.0,25,6-4 6-3,3,R32
+2026-0451,Doha,20260216,A,Hard,285,207989,1,Carlos Alcaraz,R,183.0,22,126239,,Arthur Rinderknech,R,196.0,30,6-4 7-6(5),3,R32
+2026-0451,Doha,20260216,A,Hard,286,209950,,Arthur Fils,R,185.0,21,111460,,Quentin Halys,R,191.0,29,6-1 7-6(7),3,R16
+2026-0451,Doha,20260216,A,Hard,287,208103,8,Jiri Lehecka,R,185.0,24,200267,,Zizou Bergs,R,185.0,26,6-2 6-1,3,R16
+2026-0451,Doha,20260216,A,Hard,288,111575,7,Karen Khachanov,R,198.0,29,105916,,Marton Fucsovics,R,188.0,33,6-2 4-6 6-4,3,R16
+2026-0451,Doha,20260216,A,Hard,289,210084,6,Jakub Mensik,U,,20,111190,,Zhizhen Zhang,R,193.0,29,6-3 6-2,3,R16
+2026-0451,Doha,20260216,A,Hard,290,126094,5,Andrey Rublev,R,188.0,28,206681,,Fabian Marozsan,R,193.0,26,6-2 6-4,3,R16
+2026-0451,Doha,20260216,A,Hard,291,126774,,Stefanos Tsitsipas,R,193.0,27,106421,4,Daniil Medvedev,R,198.0,29,6-3 6-4,3,R16
+2026-0451,Doha,20260216,A,Hard,292,206173,2,Jannik Sinner,R,191.0,24,200615,,Alexei Popyrin,R,196.0,26,6-3 7-5,3,R16
+2026-0451,Doha,20260216,A,Hard,293,207989,1,Carlos Alcaraz,R,183.0,22,208316,,Valentin Royer,R,188.0,24,6-2 7-5,3,R16
+2026-0451,Doha,20260216,A,Hard,294,209950,,Arthur Fils,R,185.0,21,208103,8,Jiri Lehecka,R,185.0,24,6-3 6-3,3,QF
+2026-0451,Doha,20260216,A,Hard,295,126094,5,Andrey Rublev,R,188.0,28,126774,,Stefanos Tsitsipas,R,193.0,27,6-3 7-6(2),3,QF
+2026-0451,Doha,20260216,A,Hard,296,210084,6,Jakub Mensik,U,,20,206173,2,Jannik Sinner,R,191.0,24,7-6(3) 2-6 6-3,3,QF
+2026-0451,Doha,20260216,A,Hard,297,207989,1,Carlos Alcaraz,R,183.0,22,111575,7,Karen Khachanov,R,198.0,29,6(3)-7 6-4 6-3,3,QF
+2026-0451,Doha,20260216,A,Hard,298,209950,,Arthur Fils,R,185.0,21,210084,6,Jakub Mensik,U,,20,6-4 7-6(4),3,SF
+2026-0451,Doha,20260216,A,Hard,299,207989,1,Carlos Alcaraz,R,183.0,22,126094,5,Andrey Rublev,R,188.0,28,7-6(3) 6-4,3,SF
+2026-0451,Doha,20260216,A,Hard,300,207989,1,Carlos Alcaraz,R,183.0,22,209950,,Arthur Fils,R,185.0,21,6-2 6-1,3,F
