@@ -1,0 +1,28 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-8996,Santiago,20260223,A,Clay,274,209976,,Dino Prizmic,R,188.0,20,111797,,Nicolas Jarry,R,201.0,30,6-3 5-7 6-2,3,R32
+2026-8996,Santiago,20260223,A,Clay,275,126504,,Andrea Pellegrino,R,185.0,28,209875,,Alex Barrena,R,175.0,23,6-2 2-6 6-1,3,R32
+2026-8996,Santiago,20260223,A,Clay,276,105870,,Yannick Hanfmann,R,193.0,34,105583,,Dusan Lajovic,R,183.0,35,6-0 6-3,3,R32
+2026-8996,Santiago,20260223,A,Clay,277,207681,7,Francisco Comesana,R,178.0,25,117531,,Pedro Villena Martinez,U,,43,6-4 2-6 7-6(4),3,R32
+2026-8996,Santiago,20260223,A,Clay,278,209226,,Adolfo Daniel Vallejo,R,183.0,21,208859,,Francesco Passaro,R,180.0,24,6-3 3-3,3,R32
+2026-8996,Santiago,20260223,A,Clay,279,202058,,Thiago Agustin Tirante,R,185.0,24,209860,,Ignacio Buse,R,185.0,21,2-6 7-6(0) 7-6(2),3,R32
+2026-8996,Santiago,20260223,A,Clay,280,208363,,Mariano Navone,R,178.0,24,200240,,Vit Kopriva,R,178.0,28,3-6 6-0 3-1,3,R32
+2026-8996,Santiago,20260223,A,Clay,281,209284,,Elmer Moller,R,183.0,22,208882,,Roman Andres Burruchaga,R,183.0,23,7-6(4) 0-6 6-4,3,R32
+2026-8996,Santiago,20260223,A,Clay,282,209147,,Vilius Gaubas,R,178.0,21,207130,,Matias Soto,R,170.0,26,6-2 6-3,3,R32
+2026-8996,Santiago,20260223,A,Clay,283,106426,,Cristian Garin,R,185.0,29,207678,,Juan Manuel Cerundolo,L,183.0,24,3-6 6-3 6-3,3,R32
+2026-8996,Santiago,20260223,A,Clay,284,126214,8,Alejandro Tabilo,L,188.0,28,144642,,Tomas Barrios Vera,R,191.0,28,7-5 6-3,3,R32
+2026-8996,Santiago,20260223,A,Clay,285,207182,,Emilio Nava,R,185.0,24,126610,6,Matteo Berrettini,R,196.0,29,6-3 6-4,3,R32
+2026-8996,Santiago,20260223,A,Clay,286,209147,,Vilius Gaubas,R,178.0,21,209976,,Dino Prizmic,R,188.0,20,5-7 7-5 6-3,3,R16
+2026-8996,Santiago,20260223,A,Clay,287,126504,,Andrea Pellegrino,R,185.0,28,207681,7,Francisco Comesana,R,178.0,25,7-6(3) 6(2)-7 6-3,3,R16
+2026-8996,Santiago,20260223,A,Clay,288,105870,,Yannick Hanfmann,R,193.0,34,200116,4,Camilo Ugo Carabelli,R,185.0,26,6-4 6-3,3,R16
+2026-8996,Santiago,20260223,A,Clay,289,209260,2,Luciano Darderi,R,183.0,23,208363,,Mariano Navone,R,178.0,24,6-3 3-6 6-4,3,R16
+2026-8996,Santiago,20260223,A,Clay,290,207182,,Emilio Nava,R,185.0,24,209226,,Adolfo Daniel Vallejo,R,183.0,21,7-5 6-3,3,R16
+2026-8996,Santiago,20260223,A,Clay,291,126214,8,Alejandro Tabilo,L,188.0,28,202058,,Thiago Agustin Tirante,R,185.0,24,4-6 6-3 6-3,3,R16
+2026-8996,Santiago,20260223,A,Clay,292,202104,3,Sebastian Baez,R,170.0,25,106426,,Cristian Garin,R,185.0,29,7-6(2) 1-6 7-5,3,R16
+2026-8996,Santiago,20260223,A,Clay,293,202103,1,Francisco Cerundolo,R,185.0,27,209284,,Elmer Moller,R,183.0,22,6-2 6-2,3,R16
+2026-8996,Santiago,20260223,A,Clay,294,105870,,Yannick Hanfmann,R,193.0,34,209147,,Vilius Gaubas,R,178.0,21,3-6 6-2 6-2,3,QF
+2026-8996,Santiago,20260223,A,Clay,295,202104,3,Sebastian Baez,R,170.0,25,126214,8,Alejandro Tabilo,L,188.0,28,7-6(2) 6-1,3,QF
+2026-8996,Santiago,20260223,A,Clay,296,209260,2,Luciano Darderi,R,183.0,23,126504,,Andrea Pellegrino,R,185.0,28,6-3 3-6 6-2,3,QF
+2026-8996,Santiago,20260223,A,Clay,297,202103,1,Francisco Cerundolo,R,185.0,27,207182,,Emilio Nava,R,185.0,24,6-1 6-1,3,QF
+2026-8996,Santiago,20260223,A,Clay,298,209260,2,Luciano Darderi,R,183.0,23,202104,3,Sebastian Baez,R,170.0,25,6-4 6-3,3,SF
+2026-8996,Santiago,20260223,A,Clay,299,105870,,Yannick Hanfmann,R,193.0,34,202103,1,Francisco Cerundolo,R,185.0,27,6-3 6-4,3,SF
+2026-8996,Santiago,20260223,A,Clay,300,209260,2,Luciano Darderi,R,183.0,23,105870,,Yannick Hanfmann,R,193.0,34,7-6(6) 7-5,3,F
