@@ -14901,3 +14901,98 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2026-0495,Dubai,20260223,A,Hard,298,134868,,Tallon Griekspoor,R,188.0,29,126094,5,Andrey Rublev,R,188.0,28,7-5 7-6(6),3,SF
 2026-0495,Dubai,20260223,A,Hard,299,106421,3,Daniil Medvedev,R,198.0,29,200000,1,Felix Auger Aliassime,R,193.0,25,6-4 6-2,3,SF
 2026-0495,Dubai,20260223,A,Hard,300,106421,3,Daniil Medvedev,R,198.0,29,134868,,Tallon Griekspoor,R,188.0,29,,3,F
+2026-0404,Indian Wells Masters,20260304,M,Hard,206,200443,,Adam Walton,R,183.0,26,111460,,Quentin Halys,R,191.0,29,6-3 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,207,200116,,Camilo Ugo Carabelli,R,185.0,26,102093,,Martin Damm,L,203.0,22,7-6(5) 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,208,207494,,Dalibor Svrcina,R,178.0,23,105902,,James Duckworth,R,183.0,33,6-2 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,209,208260,,Zachary Svajda,R,175.0,23,105227,,Marin Cilic,R,198.0,37,7-6(5) 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,210,133430,,Denis Shapovalov,L,185.0,26,126774,,Stefanos Tsitsipas,R,193.0,27,6-2 3-6 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,211,209976,,Dino Prizmic,R,188.0,20,209262,,Tristan Schoolkate,R,183.0,24,7-6(5) 3-6 7-5,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,212,124187,,Reilly Opelka,R,211.0,28,210319,,Ethan Quinn,R,191.0,21,7-5 7-6(3),3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,213,104792,,Gael Monfils,R,193.0,39,200008,,Alexis Galarneau,R,180.0,26,6-3 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,214,200175,,Miomir Kecmanovic,R,183.0,26,127157,,Daniel Altmaier,R,188.0,27,6-3 1-0,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,215,106218,,Marcos Giron,R,180.0,32,208363,,Mariano Navone,R,178.0,24,4-6 7-5 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,216,105916,,Marton Fucsovics,R,188.0,33,106331,,Christopher Oconnell,R,183.0,31,7-5 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,217,211663,,Joao Fonseca,R,185.0,19,209920,,Raphael Collignon,R,191.0,23,7-6(2) 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,218,209113,,Gabriel Diallo,R,203.0,24,208233,,Mattia Bellucci,L,175.0,24,7-6(5) 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,219,202385,,Jenson Brooksby,R,188.0,25,200615,,Alexei Popyrin,R,196.0,26,6-3 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,220,126610,,Matteo Berrettini,R,196.0,29,105173,,Adrian Mannarino,L,180.0,37,4-6 7-5 7-5,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,221,200267,,Zizou Bergs,R,185.0,26,105526,,Jan Lennard Struff,R,193.0,35,6-3 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,222,126214,,Alejandro Tabilo,L,188.0,28,212588,,Rafael Jodar,U,,19,6-1 6-2,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,223,207686,,Alexander Shevchenko,R,185.0,25,200647,,Sho Shimabukuro,R,180.0,28,6-4 3-6 6-2,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,224,210506,,Alex Michelsen,R,193.0,21,138758,,Daniel Mora,U,,29,6-3 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,225,111456,,Mackenzie Mcdonald,R,178.0,30,208286,,Matteo Arnaldi,R,185.0,24,6-0 6-1,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,226,111794,,Kamil Majchrzak,R,180.0,29,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-3 1-6 7-5,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,227,206499,,Aleksandar Kovacevic,R,183.0,27,128034,,Hubert Hurkacz,R,196.0,28,7-6(6) 7-6(4),3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,228,200624,,Sebastian Korda,R,196.0,25,207681,,Francisco Comesana,R,178.0,25,7-5 6-0,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,229,200240,,Vit Kopriva,R,178.0,28,210116,,Michael Zheng,R,188.0,21,7-6(1) 7-5,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,230,208014,,Rinky Hijikata,R,178.0,24,208353,,Francesco Maestrelli,R,196.0,23,7-6(5) 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,231,207985,,Jacob Fearnley,R,183.0,24,106000,,Damir Dzumhur,R,175.0,33,6-3 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,232,105777,,Grigor Dimitrov,R,191.0,34,209279,,Terence Atmane,L,193.0,23,6-4 5-7 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,233,207678,,Juan Manuel Cerundolo,L,183.0,24,122298,,Botic Van De Zandschulp,R,191.0,30,7-6(3) 6(5)-7 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,234,132686,,Nuno Borges,R,185.0,28,207182,,Emilio Nava,R,185.0,24,7-6(9) 7-5,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,235,126127,,Benjamin Bonzi,R,183.0,29,208316,,Valentin Royer,R,188.0,24,6-4 6-3,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,236,105138,,Roberto Bautista Agut,R,183.0,37,206681,,Fabian Marozsan,R,193.0,26,6-4 6(2)-7 6-4,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,237,202104,,Sebastian Baez,R,170.0,25,202358,,Chun Hsin Tseng,R,175.0,24,6-3 6-2,3,R128
+2026-0404,Indian Wells Masters,20260304,M,Hard,238,209950,30,Arthur Fils,R,185.0,21,209976,,Dino Prizmic,R,188.0,20,6-2 3-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,239,133430,,Denis Shapovalov,L,185.0,26,144869,29,Tomas Martin Etcheverry,R,196.0,26,6-3 2-6 7-6(5),3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,240,206909,28,Brandon Nakashima,R,188.0,24,200116,,Camilo Ugo Carabelli,R,185.0,26,6-3 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,241,210530,25,Learner Tien,L,180.0,20,200443,,Adam Walton,R,183.0,26,7-6(3) 7-6(8),3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,242,126205,23,Tommy Paul,R,185.0,28,200267,,Zizou Bergs,R,185.0,26,6-1 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,243,126207,21,Frances Tiafoe,R,188.0,27,202385,,Jenson Brooksby,R,188.0,25,6-4 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,244,200221,18,Alejandro Davidovich Fokina,R,183.0,26,208260,,Zachary Svajda,R,175.0,23,7-6(0) 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,245,207925,15,Flavio Cobolli,R,183.0,23,200175,,Miomir Kecmanovic,R,183.0,26,3-6 6-3 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,246,210084,12,Jakub Mensik,U,,20,106218,,Marcos Giron,R,180.0,32,7-5 7-6(4),3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,247,200000,9,Felix Auger Aliassime,R,193.0,25,104792,,Gael Monfils,R,193.0,39,6(5)-7 6-3 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,248,210097,8,Ben Shelton,L,193.0,23,124187,,Reilly Opelka,R,211.0,28,6(3)-7 7-6(4) 6-3,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,249,105916,,Marton Fucsovics,R,188.0,33,207518,5,Lorenzo Musetti,R,185.0,23,7-5 6-1,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,250,100644,4,Alexander Zverev,R,198.0,28,126610,,Matteo Berrettini,R,196.0,29,6-3 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,251,206173,2,Jannik Sinner,R,191.0,24,207494,,Dalibor Svrcina,R,178.0,23,6-1 6-1,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,252,210506,,Alex Michelsen,R,193.0,21,200005,32,Ugo Humbert,L,188.0,27,7-5 6(5)-7 7-6(6),3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,253,206499,,Aleksandar Kovacevic,R,183.0,27,144895,31,Corentin Moutet,L,180.0,26,6-1 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,254,111815,27,Cameron Norrie,L,188.0,30,111456,,Mackenzie Mcdonald,R,178.0,30,6-2 6-3,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,255,126239,26,Arthur Rinderknech,R,196.0,30,207678,,Juan Manuel Cerundolo,L,183.0,24,,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,256,200473,24,Valentin Vacherot,R,193.0,27,132686,,Nuno Borges,R,185.0,28,7-5 7-5,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,257,202104,,Sebastian Baez,R,170.0,25,208103,22,Jiri Lehecka,R,185.0,24,6-4 6-1,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,258,208014,,Rinky Hijikata,R,178.0,24,209260,20,Luciano Darderi,R,183.0,23,4-6 6-2 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,259,202103,19,Francisco Cerundolo,R,185.0,27,126127,,Benjamin Bonzi,R,183.0,29,6-4 5-7 7-6(5),3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,260,209113,,Gabriel Diallo,R,203.0,24,126094,17,Andrey Rublev,R,188.0,28,6(4)-7 7-6(1) 6-3,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,261,211663,,Joao Fonseca,R,185.0,19,111575,16,Karen Khachanov,R,198.0,29,4-6 7-6(7) 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,262,207733,14,Jack Draper,L,193.0,24,105138,,Roberto Bautista Agut,R,183.0,37,3-6 6-3 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,263,134770,13,Casper Ruud,R,183.0,27,207686,,Alexander Shevchenko,R,185.0,25,6-1 7-6(4),3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,264,106421,11,Daniil Medvedev,R,198.0,29,126214,,Alejandro Tabilo,L,188.0,28,6-4 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,265,122330,10,Alexander Bublik,R,196.0,28,200240,,Vit Kopriva,R,178.0,28,3-6 7-6(3) 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,266,126203,7,Taylor Fritz,R,196.0,28,207985,,Jacob Fearnley,R,183.0,24,6-3 6(8)-7 6-1,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,267,200282,6,Alex De Minaur,R,183.0,26,200624,,Sebastian Korda,R,196.0,25,4-6 6-4 6-4,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,268,104925,3,Novak Djokovic,R,188.0,38,111794,,Kamil Majchrzak,R,180.0,29,4-6 6-1 6-2,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,269,207989,1,Carlos Alcaraz,R,183.0,22,105777,,Grigor Dimitrov,R,191.0,34,6-2 6-3,3,R64
+2026-0404,Indian Wells Masters,20260304,M,Hard,270,209950,30,Arthur Fils,R,185.0,21,105916,,Marton Fucsovics,R,188.0,33,6-3 7-5,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,271,211663,,Joao Fonseca,R,185.0,19,126205,23,Tommy Paul,R,185.0,28,6-2 6-3,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,272,126207,21,Frances Tiafoe,R,188.0,27,207925,15,Flavio Cobolli,R,183.0,23,6-1 6-2,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,273,200221,18,Alejandro Davidovich Fokina,R,183.0,26,210084,12,Jakub Mensik,U,,20,6-2 4-6 6-2,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,274,200000,9,Felix Auger Aliassime,R,193.0,25,209113,,Gabriel Diallo,R,203.0,24,6(5)-7 6-3 6-3,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,275,210530,25,Learner Tien,L,180.0,20,210097,8,Ben Shelton,L,193.0,23,7-6(3) 4-6 6-3,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,276,100644,4,Alexander Zverev,R,198.0,28,206909,28,Brandon Nakashima,R,188.0,24,7-6(2) 5-7 6-4,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,277,206173,2,Jannik Sinner,R,191.0,24,133430,,Denis Shapovalov,L,185.0,26,6-3 6-2,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,278,207733,14,Jack Draper,L,193.0,24,202103,19,Francisco Cerundolo,R,185.0,27,6-1 7-5,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,279,134770,13,Casper Ruud,R,183.0,27,200473,24,Valentin Vacherot,R,193.0,27,3-6 6-3 6-4,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,280,106421,11,Daniil Medvedev,R,198.0,29,202104,,Sebastian Baez,R,170.0,25,6-4 6-0,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,281,208014,,Rinky Hijikata,R,178.0,24,122330,10,Alexander Bublik,R,196.0,28,6(3)-7 7-6(3) 6-3,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,282,210506,,Alex Michelsen,R,193.0,21,126203,7,Taylor Fritz,R,196.0,28,6-4 7-6(6),3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,283,111815,27,Cameron Norrie,L,188.0,30,200282,6,Alex De Minaur,R,183.0,26,6-4 6-4,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,284,104925,3,Novak Djokovic,R,188.0,38,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 1-6 6-4,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,285,207989,1,Carlos Alcaraz,R,183.0,22,126239,26,Arthur Rinderknech,R,196.0,30,6(6)-7 6-3 6-2,3,R32
+2026-0404,Indian Wells Masters,20260304,M,Hard,286,210530,25,Learner Tien,L,180.0,20,200221,18,Alejandro Davidovich Fokina,R,183.0,26,4-6 6-1 7-6(4),3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,287,209950,30,Arthur Fils,R,185.0,21,200000,9,Felix Auger Aliassime,R,193.0,25,6-3 7-6(9),3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,288,100644,4,Alexander Zverev,R,198.0,28,126207,21,Frances Tiafoe,R,188.0,27,6-3 6-4,3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,289,206173,2,Jannik Sinner,R,191.0,24,211663,,Joao Fonseca,R,185.0,19,7-6(6) 7-6(4),3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,290,111815,27,Cameron Norrie,L,188.0,30,208014,,Rinky Hijikata,R,178.0,24,6-4 6-2,3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,291,106421,11,Daniil Medvedev,R,198.0,29,210506,,Alex Michelsen,R,193.0,21,6-2 6-4,3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,292,207733,14,Jack Draper,L,193.0,24,104925,3,Novak Djokovic,R,188.0,38,4-6 6-4 7-6(5),3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,293,207989,1,Carlos Alcaraz,R,183.0,22,134770,13,Casper Ruud,R,183.0,27,6-1 7-6(2),3,R16
+2026-0404,Indian Wells Masters,20260304,M,Hard,294,106421,11,Daniil Medvedev,R,198.0,29,207733,14,Jack Draper,L,193.0,24,6-1 7-5,3,QF
+2026-0404,Indian Wells Masters,20260304,M,Hard,295,100644,4,Alexander Zverev,R,198.0,28,209950,30,Arthur Fils,R,185.0,21,6-2 6-3,3,QF
+2026-0404,Indian Wells Masters,20260304,M,Hard,296,206173,2,Jannik Sinner,R,191.0,24,210530,25,Learner Tien,L,180.0,20,6-1 6-2,3,QF
+2026-0404,Indian Wells Masters,20260304,M,Hard,297,207989,1,Carlos Alcaraz,R,183.0,22,111815,27,Cameron Norrie,L,188.0,30,6-3 6-4,3,QF
+2026-0404,Indian Wells Masters,20260304,M,Hard,298,206173,2,Jannik Sinner,R,191.0,24,100644,4,Alexander Zverev,R,198.0,28,6-2 6-4,3,SF
+2026-0404,Indian Wells Masters,20260304,M,Hard,299,106421,11,Daniil Medvedev,R,198.0,29,207989,1,Carlos Alcaraz,R,183.0,22,6-3 7-6(3),3,SF
+2026-0404,Indian Wells Masters,20260304,M,Hard,300,206173,2,Jannik Sinner,R,191.0,24,106421,11,Daniil Medvedev,R,198.0,29,7-6(6) 7-6(4),3,F
