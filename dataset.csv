@@ -15169,3 +15169,120 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2026-4462,Bucharest,20260330,A,Clay,298,206681,3,Fabian Marozsan,R,193.0,26,127157,6,Daniel Altmaier,R,188.0,27,6-2 7-6(5),3,QF
 2026-4462,Bucharest,20260330,A,Clay,299,208363,7,Mariano Navone,R,178.0,24,122298,8,Botic Van De Zandschulp,R,191.0,30,5-7 7-6(3) 7-5,3,SF
 2026-4462,Bucharest,20260330,A,Clay,300,138758,,Daniel Mora,U,,29,206681,3,Fabian Marozsan,R,193.0,26,6(4)-7 6-3 6-1,3,SF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,246,126214,,Alejandro Tabilo,L,188.0,28,105916,,Marton Fucsovics,R,188.0,33,6-4 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,247,111815,,Cameron Norrie,L,188.0,30,200175,,Miomir Kecmanovic,R,183.0,26,6-2 4-6 7-6(0),3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,248,104792,,Gael Monfils,R,193.0,39,134868,,Tallon Griekspoor,R,188.0,29,6(7)-7 6-1 6-4,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,249,200005,,Ugo Humbert,L,188.0,27,213608,,Moise Kouame,R,,16,6-3 7-5,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,250,200473,,Valentin Vacherot,R,193.0,27,207678,,Juan Manuel Cerundolo,L,183.0,24,5-7 6-2 6-1,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,251,207830,,Tomas Machac,R,183.0,25,127157,,Daniel Altmaier,R,188.0,27,6-4 1-6 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,252,106426,,Cristian Garin,R,185.0,29,208286,,Matteo Arnaldi,R,185.0,24,6-2 6-4,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,253,211663,,Joao Fonseca,R,185.0,19,209113,,Gabriel Diallo,R,203.0,24,6-2 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,254,210696,,Alexander Blockx,R,191.0,20,133430,,Denis Shapovalov,L,185.0,26,6-4 4-6 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,255,200267,,Zizou Bergs,R,185.0,26,105173,,Adrian Mannarino,L,180.0,37,6-4 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,256,202104,,Sebastian Baez,R,170.0,25,104527,,Stan Wawrinka,R,183.0,40,7-5 7-5,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,257,202103,16,Francisco Cerundolo,R,185.0,27,126774,,Stefanos Tsitsipas,R,193.0,27,7-5 6-4,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,258,126094,13,Andrey Rublev,R,188.0,28,132686,,Nuno Borges,R,185.0,28,6-4 1-6 6-1,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,259,126239,,Arthur Rinderknech,R,196.0,30,111575,12,Karen Khachanov,R,198.0,29,7-5 6-2,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,260,208103,11,Jiri Lehecka,R,185.0,24,207182,,Emilio Nava,R,185.0,24,7-6(1) 6(8)-7 6-2,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,261,207925,10,Flavio Cobolli,R,183.0,23,207681,,Francisco Comesana,R,178.0,25,7-5 2-6 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,262,144895,,Corentin Moutet,L,180.0,26,124186,,Alexandre Muller,R,183.0,28,6-4 6-1,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,263,206681,,Fabian Marozsan,R,193.0,26,106000,,Damir Dzumhur,R,175.0,33,6-2 6-1,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,264,144869,,Tomas Martin Etcheverry,R,196.0,26,105777,,Grigor Dimitrov,R,191.0,34,6-4 2-6 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,265,105227,,Marin Cilic,R,198.0,37,207686,,Alexander Shevchenko,R,185.0,25,6-1 6-3,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,266,126610,,Matteo Berrettini,R,196.0,29,105138,,Roberto Bautista Agut,R,183.0,37,4-0,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,267,209279,,Terence Atmane,L,193.0,23,210319,,Ethan Quinn,R,191.0,21,6-1 6-4,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,268,128034,,Hubert Hurkacz,R,196.0,28,209260,15,Luciano Darderi,R,183.0,23,7-6(4) 5-7 6-1,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,269,134770,9,Casper Ruud,R,183.0,27,200615,,Alexei Popyrin,R,196.0,26,6-3 6-4,3,R64
+2026-0410,Monte Carlo Masters,20260505,M,Clay,270,122330,8,Alexander Bublik,R,196.0,28,104792,,Gael Monfils,R,193.0,39,6-4 6-4,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,271,200282,5,Alex De Minaur,R,183.0,26,111815,,Cameron Norrie,L,188.0,30,7-6(5) 2-6 6-2,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,272,206173,2,Jannik Sinner,R,191.0,24,200005,,Ugo Humbert,L,188.0,27,6-3 6-0,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,273,207989,1,Carlos Alcaraz,R,183.0,22,202104,,Sebastian Baez,R,170.0,25,6-1 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,274,128034,,Hubert Hurkacz,R,196.0,28,206681,,Fabian Marozsan,R,193.0,26,6-2 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,275,211663,,Joao Fonseca,R,185.0,19,126239,,Arthur Rinderknech,R,196.0,30,7-5 4-6 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,276,144869,,Tomas Martin Etcheverry,R,196.0,26,209279,,Terence Atmane,L,193.0,23,3-6 6-3 6-2,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,277,207830,,Tomas Machac,R,183.0,25,202103,16,Francisco Cerundolo,R,185.0,27,7-6(2) 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,278,200267,,Zizou Bergs,R,185.0,26,126094,13,Andrey Rublev,R,188.0,28,6-4 6-1,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,279,208103,11,Jiri Lehecka,R,185.0,24,126214,,Alejandro Tabilo,L,188.0,28,4-6 7-6(4) 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,280,210696,,Alexander Blockx,R,191.0,20,207925,10,Flavio Cobolli,R,183.0,23,6-3 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,281,134770,9,Casper Ruud,R,183.0,27,144895,,Corentin Moutet,L,180.0,26,7-5 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,282,126610,,Matteo Berrettini,R,196.0,29,106421,7,Daniil Medvedev,R,198.0,29,6-0 6-0,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,283,200000,6,Felix Auger Aliassime,R,193.0,25,105227,,Marin Cilic,R,198.0,37,7-6(4) 6-3,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,284,200473,,Valentin Vacherot,R,193.0,27,207518,4,Lorenzo Musetti,R,185.0,23,7-6(6) 7-5,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,285,100644,3,Alexander Zverev,R,198.0,28,106426,,Cristian Garin,R,185.0,29,4-6 6-4 7-5,3,R32
+2026-0410,Monte Carlo Masters,20260505,M,Clay,286,200473,,Valentin Vacherot,R,193.0,27,128034,,Hubert Hurkacz,R,196.0,28,6(4)-7 6-3 6-4,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,287,211663,,Joao Fonseca,R,185.0,19,126610,,Matteo Berrettini,R,196.0,29,6-3 6-2,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,288,122330,8,Alexander Bublik,R,196.0,28,208103,11,Jiri Lehecka,R,185.0,24,6-2 7-5,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,289,200000,6,Felix Auger Aliassime,R,193.0,25,134770,9,Casper Ruud,R,183.0,27,7-5 2-2,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,290,200282,5,Alex De Minaur,R,183.0,26,210696,,Alexander Blockx,R,191.0,20,7-5 7-6(4),3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,291,100644,3,Alexander Zverev,R,198.0,28,200267,,Zizou Bergs,R,185.0,26,6-2 7-5,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,292,206173,2,Jannik Sinner,R,191.0,24,207830,,Tomas Machac,R,183.0,25,6-1 6(3)-7 6-3,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,293,207989,1,Carlos Alcaraz,R,183.0,22,144869,,Tomas Martin Etcheverry,R,196.0,26,6-1 4-6 6-3,3,R16
+2026-0410,Monte Carlo Masters,20260505,M,Clay,294,200473,,Valentin Vacherot,R,193.0,27,200282,5,Alex De Minaur,R,183.0,26,6-4 3-6 6-3,3,QF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,295,100644,3,Alexander Zverev,R,198.0,28,211663,,Joao Fonseca,R,185.0,19,7-5 6(3)-7 6-3,3,QF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,296,206173,2,Jannik Sinner,R,191.0,24,200000,6,Felix Auger Aliassime,R,193.0,25,6-3 6-4,3,QF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,297,207989,1,Carlos Alcaraz,R,183.0,22,122330,8,Alexander Bublik,R,196.0,28,6-3 6-0,3,QF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,298,206173,2,Jannik Sinner,R,191.0,24,100644,3,Alexander Zverev,R,198.0,28,6-1 6-4,3,SF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,299,207989,1,Carlos Alcaraz,R,183.0,22,200473,,Valentin Vacherot,R,193.0,27,6-4 6-4,3,SF
+2026-0410,Monte Carlo Masters,20260505,M,Clay,300,206173,2,Jannik Sinner,R,191.0,24,207989,1,Carlos Alcaraz,R,183.0,22,7-6(5) 6-3,3,F
+2026-0425,Barcelona,20260513,A,Clay,270,210319,,Ethan Quinn,R,191.0,21,124187,,Reilly Opelka,R,211.0,28,7-5 7-6(7),3,R32
+2026-0425,Barcelona,20260513,A,Clay,271,144895,,Corentin Moutet,L,180.0,26,209860,,Ignacio Buse,R,185.0,21,6-4 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,272,209098,,Hamad Medjedovic,R,188.0,22,105477,,Marco Trungelliti,R,178.0,35,7-5 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,273,212588,,Rafael Jodar,U,,19,144719,,Jaume Munar,R,183.0,28,6-1 6-2,3,R32
+2026-0425,Barcelona,20260513,A,Clay,274,132686,,Nuno Borges,R,185.0,28,105173,,Adrian Mannarino,L,180.0,37,6-3 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,275,144869,,Tomas Martin Etcheverry,R,196.0,26,207733,8,Jack Draper,L,193.0,24,3-6 6-3 4-1,3,R32
+2026-0425,Barcelona,20260513,A,Clay,276,111815,7,Cameron Norrie,L,188.0,30,104527,,Stan Wawrinka,R,183.0,40,6-4 6(5)-7 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,277,132283,,Lorenzo Sonego,R,191.0,30,117531,,Pedro Villena Martinez,U,,43,6-2 2-6 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,278,206909,,Brandon Nakashima,R,188.0,24,207678,,Juan Manuel Cerundolo,L,183.0,24,6-3 7-5,3,R32
+2026-0425,Barcelona,20260513,A,Clay,279,207830,,Tomas Machac,R,183.0,25,202104,,Sebastian Baez,R,170.0,25,2-6 6-4 6-1,3,R32
+2026-0425,Barcelona,20260513,A,Clay,280,209950,9,Arthur Fils,R,185.0,21,209279,,Terence Atmane,L,193.0,23,4-6 6-4 7-6(7),3,R32
+2026-0425,Barcelona,20260513,A,Clay,281,126094,5,Andrey Rublev,R,188.0,28,208363,,Mariano Navone,R,178.0,24,6-4 7-5,3,R32
+2026-0425,Barcelona,20260513,A,Clay,282,200116,,Camilo Ugo Carabelli,R,185.0,26,111575,4,Karen Khachanov,R,198.0,29,6-3 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,283,200282,3,Alex De Minaur,R,183.0,26,124116,,Sebastian Ofner,R,191.0,29,7-6(7) 6-4,3,R32
+2026-0425,Barcelona,20260513,A,Clay,284,207518,2,Lorenzo Musetti,R,185.0,23,211776,,Martin Landaluce,R,191.0,19,7-5 6-2,3,R32
+2026-0425,Barcelona,20260513,A,Clay,285,207989,1,Carlos Alcaraz,R,183.0,22,202261,,Otto Virtanen,R,193.0,24,6-4 6-2,3,R32
+2026-0425,Barcelona,20260513,A,Clay,286,207830,,Tomas Machac,R,183.0,25,207989,,Carlos Alcaraz,R,183.0,22,,3,R16
+2026-0425,Barcelona,20260513,A,Clay,287,212588,,Rafael Jodar,U,,19,200116,,Camilo Ugo Carabelli,R,185.0,26,6-3 6-3,3,R16
+2026-0425,Barcelona,20260513,A,Clay,288,132686,,Nuno Borges,R,185.0,28,144869,,Tomas Martin Etcheverry,R,196.0,26,6-3 7-6(4),3,R16
+2026-0425,Barcelona,20260513,A,Clay,289,111815,7,Cameron Norrie,L,188.0,30,210319,,Ethan Quinn,R,191.0,21,6-3 4-6 6-4,3,R16
+2026-0425,Barcelona,20260513,A,Clay,290,209098,,Hamad Medjedovic,R,188.0,22,200282,3,Alex De Minaur,R,183.0,26,6-3 6-4,3,R16
+2026-0425,Barcelona,20260513,A,Clay,291,209950,9,Arthur Fils,R,185.0,21,206909,,Brandon Nakashima,R,188.0,24,6-2 6-3,3,R16
+2026-0425,Barcelona,20260513,A,Clay,292,126094,5,Andrey Rublev,R,188.0,28,132283,,Lorenzo Sonego,R,191.0,30,6-2 6-3,3,R16
+2026-0425,Barcelona,20260513,A,Clay,293,207518,2,Lorenzo Musetti,R,185.0,23,144895,,Corentin Moutet,L,180.0,26,6-3 6-4,3,R16
+2026-0425,Barcelona,20260513,A,Clay,294,209098,,Hamad Medjedovic,R,188.0,22,132686,,Nuno Borges,R,185.0,28,7-6(6) 6-2,3,QF
+2026-0425,Barcelona,20260513,A,Clay,295,212588,,Rafael Jodar,U,,19,111815,7,Cameron Norrie,L,188.0,30,6-3 6-2,3,QF
+2026-0425,Barcelona,20260513,A,Clay,296,126094,5,Andrey Rublev,R,188.0,28,207830,,Tomas Machac,R,183.0,25,6-4 6-3,3,QF
+2026-0425,Barcelona,20260513,A,Clay,297,209950,9,Arthur Fils,R,185.0,21,207518,2,Lorenzo Musetti,R,185.0,23,6-3 6-4,3,QF
+2026-0425,Barcelona,20260513,A,Clay,298,209950,9,Arthur Fils,R,185.0,21,212588,,Rafael Jodar,U,,19,3-6 6-3 6-2,3,SF
+2026-0425,Barcelona,20260513,A,Clay,299,126094,5,Andrey Rublev,R,188.0,28,209098,,Hamad Medjedovic,R,188.0,22,3-6 6-2 6-2,3,SF
+2026-0425,Barcelona,20260513,A,Clay,300,209950,9,Arthur Fils,R,185.0,21,126094,5,Andrey Rublev,R,188.0,28,6-2 7-6(2),3,F
+2026-0308,Munich,20260513,A,Clay,270,122298,,Botic Van De Zandschulp,R,191.0,30,144817,,Marc Andrea Huesler,L,196.0,29,7-6(7) 6-3,3,R32
+2026-0308,Munich,20260513,A,Clay,271,209113,,Gabriel Diallo,R,203.0,24,126964,,Vitaliy Sachko,R,188.0,28,6-1 6-2,3,R32
+2026-0308,Munich,20260513,A,Clay,272,210696,,Alexander Blockx,R,191.0,20,105870,,Yannick Hanfmann,R,193.0,34,7-6(2) 6-2,3,R32
+2026-0308,Munich,20260513,A,Clay,273,126239,7,Arthur Rinderknech,R,196.0,30,210506,,Alex Michelsen,R,193.0,21,6-3 6-3,3,R32
+2026-0308,Munich,20260513,A,Clay,274,202103,5,Francisco Cerundolo,R,185.0,27,111576,,Sumit Nagal,R,178.0,28,6-2 6-2,3,R32
+2026-0308,Munich,20260513,A,Clay,275,210097,2,Ben Shelton,L,193.0,23,207182,,Emilio Nava,R,185.0,24,7-6(4) 3-6 6-3,3,R32
+2026-0308,Munich,20260513,A,Clay,276,206681,,Fabian Marozsan,R,193.0,26,126774,,Stefanos Tsitsipas,R,193.0,27,3-6 7-6(5) 6-4,3,R32
+2026-0308,Munich,20260513,A,Clay,277,200240,,Vit Kopriva,R,178.0,28,211514,,Justin Engel,U,,18,6-3 5-7 6-2,3,R32
+2026-0308,Munich,20260513,A,Clay,278,211663,,Joao Fonseca,R,185.0,19,126214,,Alejandro Tabilo,L,188.0,28,7-6(1) 6-3,3,R32
+2026-0308,Munich,20260513,A,Clay,279,200267,,Zizou Bergs,R,185.0,26,209916,,Marko Topo,R,185.0,22,6-1 6-4,3,R32
+2026-0308,Munich,20260513,A,Clay,280,127157,,Daniel Altmaier,R,188.0,27,105227,,Marin Cilic,R,198.0,37,6-2 6-3,3,R32
+2026-0308,Munich,20260513,A,Clay,281,133430,,Denis Shapovalov,L,185.0,26,134868,8,Tallon Griekspoor,R,188.0,29,6-4 3-6 6-2,3,R32
+2026-0308,Munich,20260513,A,Clay,282,209260,6,Luciano Darderi,R,183.0,23,111190,,Zhizhen Zhang,R,193.0,29,7-6(5) 3-6 6-1,3,R32
+2026-0308,Munich,20260513,A,Clay,283,207925,4,Flavio Cobolli,R,183.0,23,209294,,Diego Duran,U,,,6-4 7-5,3,R32
+2026-0308,Munich,20260513,A,Clay,284,144684,,Alex Molcan,L,178.0,28,122330,3,Alexander Bublik,R,196.0,28,6-4 6-2,3,R32
+2026-0308,Munich,20260513,A,Clay,285,100644,1,Alexander Zverev,R,198.0,28,200175,,Miomir Kecmanovic,R,183.0,26,6-3 3-6 7-6(2),3,R32
+2026-0308,Munich,20260513,A,Clay,286,211663,,Joao Fonseca,R,185.0,19,126239,7,Arthur Rinderknech,R,196.0,30,6-3 6-2,3,R16
+2026-0308,Munich,20260513,A,Clay,287,200240,,Vit Kopriva,R,178.0,28,209260,6,Luciano Darderi,R,183.0,23,2-6 6-4 6-1,3,R16
+2026-0308,Munich,20260513,A,Clay,288,207925,4,Flavio Cobolli,R,183.0,23,200267,,Zizou Bergs,R,185.0,26,6-2 6-3,3,R16
+2026-0308,Munich,20260513,A,Clay,289,210097,2,Ben Shelton,L,193.0,23,210696,,Alexander Blockx,R,191.0,20,6-4 7-6(8),3,R16
+2026-0308,Munich,20260513,A,Clay,290,133430,,Denis Shapovalov,L,185.0,26,206681,,Fabian Marozsan,R,193.0,26,7-6(4) 6-2,3,R16
+2026-0308,Munich,20260513,A,Clay,291,144684,,Alex Molcan,L,178.0,28,127157,,Daniel Altmaier,R,188.0,27,6-4 7-6(10),3,R16
+2026-0308,Munich,20260513,A,Clay,292,202103,5,Francisco Cerundolo,R,185.0,27,122298,,Botic Van De Zandschulp,R,191.0,30,6-3 6-0,3,R16
+2026-0308,Munich,20260513,A,Clay,293,100644,1,Alexander Zverev,R,198.0,28,209113,,Gabriel Diallo,R,203.0,24,6-1 6-2,3,R16
+2026-0308,Munich,20260513,A,Clay,294,144684,,Alex Molcan,L,178.0,28,133430,,Denis Shapovalov,L,185.0,26,6-4 6-4,3,QF
+2026-0308,Munich,20260513,A,Clay,295,207925,4,Flavio Cobolli,R,183.0,23,200240,,Vit Kopriva,R,178.0,28,6-3 6-2,3,QF
+2026-0308,Munich,20260513,A,Clay,296,210097,2,Ben Shelton,L,193.0,23,211663,,Joao Fonseca,R,185.0,19,6-3 3-6 6-3,3,QF
+2026-0308,Munich,20260513,A,Clay,297,100644,1,Alexander Zverev,R,198.0,28,202103,5,Francisco Cerundolo,R,185.0,27,5-7 6-0 6-2,3,QF
+2026-0308,Munich,20260513,A,Clay,298,210097,2,Ben Shelton,L,193.0,23,144684,,Alex Molcan,L,178.0,28,6-3 6-4,3,SF
+2026-0308,Munich,20260513,A,Clay,299,207925,4,Flavio Cobolli,R,183.0,23,100644,1,Alexander Zverev,R,198.0,28,6-3 6-3,3,SF
+2026-0308,Munich,20260513,A,Clay,300,210097,2,Ben Shelton,L,193.0,23,207925,4,Flavio Cobolli,R,183.0,23,6-2 7-5,3,F
