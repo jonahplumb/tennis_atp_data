@@ -1,0 +1,27 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-4462,Bucharest,20260330,A,Clay,275,207686,,Alexander Shevchenko,R,185.0,25,212886,,Radu David Turcanu,L,,19,6-2 6-4,3,R32
+2026-4462,Bucharest,20260330,A,Clay,276,208852,,Stefanos Sakellaridis,R,196.0,21,123828,,Jan Choinski,R,196.0,29,6-3 6-4,3,R32
+2026-4462,Bucharest,20260330,A,Clay,277,209976,,Dino Prizmic,R,188.0,20,105932,,Nikoloz Basilashvili,R,185.0,33,6-4 6-2,3,R32
+2026-4462,Bucharest,20260330,A,Clay,278,209284,,Elmer Moller,R,183.0,22,103847,,Adrian Bohane,L,,44,6-3 7-5,3,R32
+2026-4462,Bucharest,20260330,A,Clay,279,144684,,Alex Molcan,L,178.0,28,208286,,Matteo Arnaldi,R,185.0,24,6-3 6-1,3,R32
+2026-4462,Bucharest,20260330,A,Clay,280,138758,,Daniel Mora,U,,29,202261,,Otto Virtanen,R,193.0,24,7-6(4) 5-7 7-5,3,R32
+2026-4462,Bucharest,20260330,A,Clay,281,106000,,Damir Dzumhur,R,175.0,33,202262,,Filip Cristian Jianu,R,180.0,24,6-3 4-6 7-6(4),3,R32
+2026-4462,Bucharest,20260330,A,Clay,282,208169,,Titouan Droguet,R,191.0,24,105138,,Roberto Bautista Agut,R,183.0,37,6-1 1-6 6-1,3,R32
+2026-4462,Bucharest,20260330,A,Clay,283,122298,8,Botic Van De Zandschulp,R,191.0,30,208353,,Francesco Maestrelli,R,196.0,23,6-3 6-2,3,R32
+2026-4462,Bucharest,20260330,A,Clay,284,208363,7,Mariano Navone,R,178.0,24,106331,,Christopher Oconnell,R,183.0,31,6-4 7-6(8),3,R32
+2026-4462,Bucharest,20260330,A,Clay,285,127157,6,Daniel Altmaier,R,188.0,27,117531,,Pedro Villena Martinez,U,,43,6-1 6-4,3,R32
+2026-4462,Bucharest,20260330,A,Clay,286,202104,5,Sebastian Baez,R,170.0,25,209147,,Vilius Gaubas,R,178.0,21,6-3 6-1,3,R32
+2026-4462,Bucharest,20260330,A,Clay,287,122298,8,Botic Van De Zandschulp,R,191.0,30,207686,,Alexander Shevchenko,R,185.0,25,7-5 6-1,3,R16
+2026-4462,Bucharest,20260330,A,Clay,288,208363,7,Mariano Navone,R,178.0,24,209284,,Elmer Moller,R,183.0,22,6-2 6-1,3,R16
+2026-4462,Bucharest,20260330,A,Clay,289,106000,,Damir Dzumhur,R,175.0,33,132686,4,Nuno Borges,R,185.0,28,7-6(1) 6-4,3,R16
+2026-4462,Bucharest,20260330,A,Clay,290,144684,,Alex Molcan,L,178.0,28,209113,1,Gabriel Diallo,R,203.0,24,6-2 6-2,3,R16
+2026-4462,Bucharest,20260330,A,Clay,291,127157,6,Daniel Altmaier,R,188.0,27,209976,,Dino Prizmic,R,188.0,20,3-6 7-6(1) 7-6(7),3,R16
+2026-4462,Bucharest,20260330,A,Clay,292,206681,3,Fabian Marozsan,R,193.0,26,208852,,Stefanos Sakellaridis,R,196.0,21,7-6(3) 7-5,3,R16
+2026-4462,Bucharest,20260330,A,Clay,293,208169,,Titouan Droguet,R,191.0,24,202104,5,Sebastian Baez,R,170.0,25,6-4 6-4,3,R16
+2026-4462,Bucharest,20260330,A,Clay,294,138758,,Daniel Mora,U,,29,105173,2,Adrian Mannarino,L,180.0,37,4-6 6-2 6-2,3,R16
+2026-4462,Bucharest,20260330,A,Clay,295,138758,,Daniel Mora,U,,29,208169,,Titouan Droguet,R,191.0,24,4-6 7-6(7) 3-1,3,QF
+2026-4462,Bucharest,20260330,A,Clay,296,122298,8,Botic Van De Zandschulp,R,191.0,30,106000,,Damir Dzumhur,R,175.0,33,6-3 6-3,3,QF
+2026-4462,Bucharest,20260330,A,Clay,297,208363,7,Mariano Navone,R,178.0,24,144684,,Alex Molcan,L,178.0,28,3-6 6-2 6-3,3,QF
+2026-4462,Bucharest,20260330,A,Clay,298,206681,3,Fabian Marozsan,R,193.0,26,127157,6,Daniel Altmaier,R,188.0,27,6-2 7-6(5),3,QF
+2026-4462,Bucharest,20260330,A,Clay,299,208363,7,Mariano Navone,R,178.0,24,122298,8,Botic Van De Zandschulp,R,191.0,30,5-7 7-6(3) 7-5,3,SF
+2026-4462,Bucharest,20260330,A,Clay,300,138758,,Daniel Mora,U,,29,206681,3,Fabian Marozsan,R,193.0,26,6(4)-7 6-3 6-1,3,SF

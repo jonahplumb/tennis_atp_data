@@ -1,0 +1,27 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-0717,Houston,20260330,A,Clay,275,111190,,Zhizhen Zhang,R,193.0,29,209957,,Jack Pinnington Jones,R,180.0,22,6-1 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,276,209226,,Adolfo Daniel Vallejo,R,183.0,21,208260,,Zachary Svajda,R,175.0,23,6-1 6-4,3,R32
+2026-0717,Houston,20260330,A,Clay,277,202058,,Thiago Agustin Tirante,R,185.0,24,212256,,Colton Smith,U,,22,6-0 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,278,106109,,Alex Bolt,L,183.0,32,200059,,Yibing Wu,R,183.0,26,7-6(6) 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,279,111456,,Mackenzie Mcdonald,R,178.0,30,202385,8,Jenson Brooksby,R,188.0,25,6-4 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,280,200615,,Alexei Popyrin,R,196.0,26,200516,,Patrick Kypson,R,188.0,26,4-6 6-4 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,281,208014,,Rinky Hijikata,R,178.0,24,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,282,210460,,Nishesh Basavareddy,R,180.0,20,208119,,Liam Draxl,R,185.0,24,6-3 2-6 6-4,3,R32
+2026-0717,Houston,20260330,A,Clay,283,210506,7,Alex Michelsen,R,193.0,21,209409,,Coleman Wong,R,191.0,21,6-4 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,284,144869,6,Tomas Martin Etcheverry,R,196.0,26,144870,,Federico Agustin Gomez,R,191.0,29,1-6 6-1 6-4,3,R32
+2026-0717,Houston,20260330,A,Clay,285,206909,5,Brandon Nakashima,R,188.0,24,102093,,Martin Damm,L,203.0,22,7-6(0) 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,286,208882,,Roman Andres Burruchaga,R,183.0,23,200443,,Adam Walton,R,183.0,26,6-2 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,287,202058,,Thiago Agustin Tirante,R,185.0,24,111456,,Mackenzie Mcdonald,R,178.0,30,6-2 6-0,3,R16
+2026-0717,Houston,20260330,A,Clay,288,144869,6,Tomas Martin Etcheverry,R,196.0,26,106109,,Alex Bolt,L,183.0,32,6(5)-7 6-0 6-3,3,R16
+2026-0717,Houston,20260330,A,Clay,289,126205,4,Tommy Paul,R,185.0,28,209226,,Adolfo Daniel Vallejo,R,183.0,21,3-6 6-4 6-4,3,R16
+2026-0717,Houston,20260330,A,Clay,290,210097,1,Ben Shelton,L,193.0,23,111190,,Zhizhen Zhang,R,193.0,29,7-6(5) 7-6(3),3,R16
+2026-0717,Houston,20260330,A,Clay,291,200615,,Alexei Popyrin,R,196.0,26,210506,7,Alex Michelsen,R,193.0,21,6-0 4-6 6-1,3,R16
+2026-0717,Houston,20260330,A,Clay,292,208882,,Roman Andres Burruchaga,R,183.0,23,206909,5,Brandon Nakashima,R,188.0,24,6-4 2-6 6-4,3,R16
+2026-0717,Houston,20260330,A,Clay,293,210530,3,Learner Tien,L,180.0,20,210460,,Nishesh Basavareddy,R,180.0,20,6-3 3-6 6-1,3,R16
+2026-0717,Houston,20260330,A,Clay,294,126207,2,Frances Tiafoe,R,188.0,27,208014,,Rinky Hijikata,R,178.0,24,6-4 3-6 6-2,3,R16
+2026-0717,Houston,20260330,A,Clay,295,126205,4,Tommy Paul,R,185.0,28,144869,6,Tomas Martin Etcheverry,R,196.0,26,6-4 6-2,3,QF
+2026-0717,Houston,20260330,A,Clay,296,208882,,Roman Andres Burruchaga,R,183.0,23,210530,3,Learner Tien,L,180.0,20,7-5 6-4,3,QF
+2026-0717,Houston,20260330,A,Clay,297,126207,2,Frances Tiafoe,R,188.0,27,200615,,Alexei Popyrin,R,196.0,26,3-6 6-4 7-6(6),3,QF
+2026-0717,Houston,20260330,A,Clay,298,202058,,Thiago Agustin Tirante,R,185.0,24,210097,1,Ben Shelton,L,193.0,23,6(5)-7 6-3 6-4,3,QF
+2026-0717,Houston,20260330,A,Clay,299,208882,,Roman Andres Burruchaga,R,183.0,23,202058,,Thiago Agustin Tirante,R,185.0,24,6-1 6-1,3,SF
+2026-0717,Houston,20260330,A,Clay,300,126205,4,Tommy Paul,R,185.0,28,126207,2,Frances Tiafoe,R,188.0,27,7-5 4-6 7-6(7),3,SF

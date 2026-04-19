@@ -1,0 +1,27 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-0360,Marrakech,20260330,A,Clay,275,211558,,Karim Bennani,U,,18,111460,,Quentin Halys,R,191.0,29,6-4 6(5)-7 6-2,3,R32
+2026-0360,Marrakech,20260330,A,Clay,276,207220,,Taha Baadi,R,183.0,24,126846,,Aleksandar Vukic,R,188.0,29,6-2 3-6 6-1,3,R32
+2026-0360,Marrakech,20260330,A,Clay,277,105870,8,Yannick Hanfmann,R,193.0,34,207411,,Jesper De Jong,R,180.0,25,7-6(6) 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,278,209414,,Luca Van Assche,R,178.0,21,200384,,Hugo Gaston,L,173.0,25,6-4 7-6(5),3,R32
+2026-0360,Marrakech,20260330,A,Clay,279,200116,,Camilo Ugo Carabelli,R,185.0,26,207608,,Timofey Skatov,R,175.0,24,6(2)-7 6-3 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,280,105477,,Marco Trungelliti,R,178.0,35,210012,,Henrique Rocha,R,180.0,21,7-6(5) 6-2,3,R32
+2026-0360,Marrakech,20260330,A,Clay,281,124186,,Alexandre Muller,R,183.0,28,210748,,Federico Cina,R,183.0,18,6-2 6-3,3,R32
+2026-0360,Marrakech,20260330,A,Clay,282,212588,,Rafael Jodar,U,,19,105583,,Dusan Lajovic,R,183.0,35,6-3 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,283,208233,,Mattia Bellucci,L,175.0,24,210730,,Reda Bennani,R,,18,6-3 3-6 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,284,209860,7,Ignacio Buse,R,185.0,21,126610,,Matteo Berrettini,R,196.0,29,7-6(5) 6(2)-7 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,285,111794,5,Kamil Majchrzak,R,180.0,29,207678,,Juan Manuel Cerundolo,L,183.0,24,7-6(3) 3-6 6-3,3,R32
+2026-0360,Marrakech,20260330,A,Clay,286,200240,6,Vit Kopriva,R,178.0,28,209098,,Hamad Medjedovic,R,188.0,22,6(4)-7 7-5 6-2,3,R32
+2026-0360,Marrakech,20260330,A,Clay,287,105870,8,Yannick Hanfmann,R,193.0,34,211558,,Karim Bennani,U,,18,6-4 6(3)-7 6-2,3,R16
+2026-0360,Marrakech,20260330,A,Clay,288,105477,,Marco Trungelliti,R,178.0,35,111794,5,Kamil Majchrzak,R,180.0,29,7-6(4) 6-3,3,R16
+2026-0360,Marrakech,20260330,A,Clay,289,144895,3,Corentin Moutet,L,180.0,26,207220,,Taha Baadi,R,183.0,24,6-0 6-2,3,R16
+2026-0360,Marrakech,20260330,A,Clay,290,209260,1,Luciano Darderi,R,183.0,23,208233,,Mattia Bellucci,L,175.0,24,6-4 6-2,3,R16
+2026-0360,Marrakech,20260330,A,Clay,291,200116,,Camilo Ugo Carabelli,R,185.0,26,209860,7,Ignacio Buse,R,185.0,21,6-3 3-6 7-5,3,R16
+2026-0360,Marrakech,20260330,A,Clay,292,124186,,Alexandre Muller,R,183.0,28,200240,6,Vit Kopriva,R,178.0,28,6-3 7-6(3),3,R16
+2026-0360,Marrakech,20260330,A,Clay,293,212588,,Rafael Jodar,U,,19,207830,4,Tomas Machac,R,183.0,25,6-4 4-6 6-3,3,R16
+2026-0360,Marrakech,20260330,A,Clay,294,209414,,Luca Van Assche,R,178.0,21,134868,2,Tallon Griekspoor,R,188.0,29,6-4 1-6 6-3,3,R16
+2026-0360,Marrakech,20260330,A,Clay,295,209260,,Luciano Darderi,R,183.0,23,105870,,Yannick Hanfmann,R,193.0,34,,3,QF
+2026-0360,Marrakech,20260330,A,Clay,296,200116,,Camilo Ugo Carabelli,R,185.0,26,209414,,Luca Van Assche,R,178.0,21,0-6 6-3 6-2,3,QF
+2026-0360,Marrakech,20260330,A,Clay,297,212588,,Rafael Jodar,U,,19,124186,,Alexandre Muller,R,183.0,28,6-2 2-0,3,QF
+2026-0360,Marrakech,20260330,A,Clay,298,105477,,Marco Trungelliti,R,178.0,35,144895,3,Corentin Moutet,L,180.0,26,4-6 6-3 6-4,3,QF
+2026-0360,Marrakech,20260330,A,Clay,299,212588,,Rafael Jodar,U,,19,200116,,Camilo Ugo Carabelli,R,185.0,26,6-2 6-1,3,SF
+2026-0360,Marrakech,20260330,A,Clay,300,105477,,Marco Trungelliti,R,178.0,35,209260,1,Luciano Darderi,R,183.0,23,6-4 7-6(2),3,SF

@@ -14996,3 +14996,176 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2026-0404,Indian Wells Masters,20260304,M,Hard,298,206173,2,Jannik Sinner,R,191.0,24,100644,4,Alexander Zverev,R,198.0,28,6-2 6-4,3,SF
 2026-0404,Indian Wells Masters,20260304,M,Hard,299,106421,11,Daniil Medvedev,R,198.0,29,207989,1,Carlos Alcaraz,R,183.0,22,6-3 7-6(3),3,SF
 2026-0404,Indian Wells Masters,20260304,M,Hard,300,206173,2,Jannik Sinner,R,191.0,24,106421,11,Daniil Medvedev,R,198.0,29,7-6(6) 7-6(4),3,F
+2026-0403,Miami Masters,20260318,M,Hard,206,122298,,Botic Van De Zandschulp,R,191.0,30,133430,,Denis Shapovalov,L,185.0,26,7-5 6-3,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,207,200116,,Camilo Ugo Carabelli,R,185.0,26,208659,,Giovanni Mpetshi Perricard,R,203.0,22,2-6 6-3 7-6(3),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,208,126774,,Stefanos Tsitsipas,R,193.0,27,209259,,Arthur Fery,R,175.0,23,6-1 7-6(4),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,209,126214,,Alejandro Tabilo,L,188.0,28,207681,,Francisco Comesana,R,178.0,25,6-4 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,210,210319,,Ethan Quinn,R,191.0,21,128034,,Hubert Hurkacz,R,196.0,28,6-2 6-4,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,211,124187,,Reilly Opelka,R,211.0,28,132686,,Nuno Borges,R,185.0,28,6(6)-7 6-2 7-6(5),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,212,208363,,Mariano Navone,R,178.0,24,105932,,Nikoloz Basilashvili,R,185.0,33,7-6(7) 6-3,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,213,210506,,Alex Michelsen,R,193.0,21,208233,,Mattia Bellucci,L,175.0,24,6-2 6-1,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,214,105173,,Adrian Mannarino,L,180.0,37,111190,,Zhizhen Zhang,R,193.0,29,6-3 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,215,111794,,Kamil Majchrzak,R,180.0,29,200175,,Miomir Kecmanovic,R,183.0,26,4-6 6-3 6-1,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,216,207830,,Tomas Machac,R,183.0,25,207182,,Emilio Nava,R,185.0,24,2-6 6-4 6-1,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,217,211776,,Martin Landaluce,R,191.0,19,106218,,Marcos Giron,R,180.0,32,6-3 7-6(6),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,218,213608,,Moise Kouame,R,,16,208260,,Zachary Svajda,R,175.0,23,5-7 6-4 6-4,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,219,212588,,Rafael Jodar,U,,19,105870,,Yannick Hanfmann,R,193.0,34,6-4 4-6 6-1,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,220,111460,,Quentin Halys,R,191.0,29,208119,,Liam Draxl,R,185.0,24,6(4)-7 6-1 6-1,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,221,211663,,Joao Fonseca,R,185.0,19,206681,,Fabian Marozsan,R,193.0,26,6-4 3-6 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,222,106000,,Damir Dzumhur,R,175.0,33,209860,,Ignacio Buse,R,185.0,21,6(6)-7 7-6(6) 6-1,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,223,102093,,Martin Damm,L,203.0,22,207985,,Jacob Fearnley,R,183.0,24,6-0,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,224,209920,,Raphael Collignon,R,191.0,23,105777,,Grigor Dimitrov,R,191.0,34,7-6(3) 4-6 7-6(6),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,225,105227,,Marin Cilic,R,198.0,37,200615,,Alexei Popyrin,R,196.0,26,6-4 6-4,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,226,210464,,Darwin Blanch,L,185.0,18,105526,,Jan Lennard Struff,R,193.0,35,6-3 3-6 6-3,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,227,126610,,Matteo Berrettini,R,196.0,29,124186,,Alexandre Muller,R,183.0,28,6-4 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,228,200267,,Zizou Bergs,R,185.0,26,202385,,Jenson Brooksby,R,188.0,25,7-5 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,229,105138,,Roberto Bautista Agut,R,183.0,37,105902,,James Duckworth,R,183.0,33,7-6(3) 7-6(4),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,230,200443,,Adam Walton,R,183.0,26,202104,,Sebastian Baez,R,170.0,25,6-2 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,231,202058,,Thiago Agustin Tirante,R,185.0,24,208316,,Valentin Royer,R,188.0,24,7-5 6(9)-7 7-6(5),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,232,207686,,Alexander Shevchenko,R,185.0,25,208286,,Matteo Arnaldi,R,185.0,24,7-6(5) 6(5)-7 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,233,210536,,Rei Sakamoto,R,193.0,19,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 3-6 7-6(7),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,234,105916,,Marton Fucsovics,R,188.0,33,106331,,Christopher Oconnell,R,183.0,31,7-6(6) 6-3,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,235,209113,,Gabriel Diallo,R,203.0,24,200059,,Yibing Wu,R,183.0,26,6-2 7-6(3),3,R128
+2026-0403,Miami Masters,20260318,M,Hard,236,209070,,Arthur Cazaux,R,183.0,23,144642,,Tomas Barrios Vera,R,191.0,28,7-5 6-4,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,237,209279,,Terence Atmane,L,193.0,23,127157,,Daniel Altmaier,R,188.0,27,6-4 6-2,3,R128
+2026-0403,Miami Masters,20260318,M,Hard,238,200624,32,Sebastian Korda,R,196.0,25,200116,,Camilo Ugo Carabelli,R,185.0,26,6-0 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,239,209950,28,Arthur Fils,R,185.0,21,210464,,Darwin Blanch,L,185.0,18,6-2 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,240,124187,,Reilly Opelka,R,211.0,28,207733,25,Jack Draper,L,193.0,24,7-6(3) 7-6(0),3,R64
+2026-0403,Miami Masters,20260318,M,Hard,241,200473,24,Valentin Vacherot,R,193.0,27,208363,,Mariano Navone,R,178.0,24,6-3 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,242,126205,22,Tommy Paul,R,185.0,28,105173,,Adrian Mannarino,L,180.0,37,6-2 2-6 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,243,208103,21,Jiri Lehecka,R,185.0,24,213608,,Moise Kouame,R,,16,6-2 7-5,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,244,211776,,Martin Landaluce,R,191.0,19,209260,17,Luciano Darderi,R,183.0,23,6-3 6(4)-7 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,245,111575,14,Karen Khachanov,R,198.0,29,105138,,Roberto Bautista Agut,R,183.0,37,6-3 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,246,209920,,Raphael Collignon,R,191.0,23,207925,13,Flavio Cobolli,R,183.0,23,7-5 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,247,210319,,Ethan Quinn,R,191.0,21,134770,11,Casper Ruud,R,183.0,27,6-4 7-6(7),3,R64
+2026-0403,Miami Masters,20260318,M,Hard,248,126610,,Matteo Berrettini,R,196.0,29,122330,10,Alexander Bublik,R,196.0,28,6-4 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,249,126203,6,Taylor Fritz,R,196.0,28,122298,,Botic Van De Zandschulp,R,191.0,30,6-3 6(2)-7 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,250,126774,,Stefanos Tsitsipas,R,193.0,27,200282,5,Alex De Minaur,R,183.0,26,6-3 7-6(3),3,R64
+2026-0403,Miami Masters,20260318,M,Hard,251,207989,1,Carlos Alcaraz,R,183.0,22,211663,,Joao Fonseca,R,185.0,19,6-4 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,252,212588,,Rafael Jodar,U,,19,126846,,Aleksandar Vukic,R,188.0,29,6-1 6-2,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,253,200005,31,Ugo Humbert,L,188.0,27,209113,,Gabriel Diallo,R,203.0,24,6-1 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,254,144895,30,Corentin Moutet,L,180.0,26,207830,,Tomas Machac,R,183.0,25,6-0 1-6 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,255,144869,29,Tomas Martin Etcheverry,R,196.0,26,200267,,Zizou Bergs,R,185.0,26,7-6(5) 7-6(3),3,R64
+2026-0403,Miami Masters,20260318,M,Hard,256,105227,,Marin Cilic,R,198.0,37,206909,27,Brandon Nakashima,R,188.0,24,2-6 6-4 7-6(7),3,R64
+2026-0403,Miami Masters,20260318,M,Hard,257,209279,,Terence Atmane,L,193.0,23,126239,26,Arthur Rinderknech,R,196.0,30,7-6(4) 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,258,210506,,Alex Michelsen,R,193.0,21,111815,23,Cameron Norrie,L,188.0,30,7-5 6(4)-7 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,259,111794,,Kamil Majchrzak,R,180.0,29,210530,20,Learner Tien,L,180.0,20,6-2 4-6 6-2,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,260,126207,19,Frances Tiafoe,R,188.0,27,209070,,Arthur Cazaux,R,183.0,23,7-6(1) 6-1,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,261,202103,18,Francisco Cerundolo,R,185.0,27,202058,,Thiago Agustin Tirante,R,185.0,24,6-4 6-2,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,262,111460,,Quentin Halys,R,191.0,29,200221,16,Alejandro Davidovich Fokina,R,183.0,26,7-6(8) 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,263,126214,,Alejandro Tabilo,L,188.0,28,126094,15,Andrey Rublev,R,188.0,28,6(5)-7 6-2 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,264,210084,12,Jakub Mensik,U,,20,200443,,Adam Walton,R,183.0,26,3-6 6-2 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,265,106421,9,Daniil Medvedev,R,198.0,29,210536,,Rei Sakamoto,R,193.0,19,6(10)-7 6-3 6-1,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,266,207686,,Alexander Shevchenko,R,185.0,25,210097,8,Ben Shelton,L,193.0,23,6(3)-7 7-6(3) 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,267,200000,7,Felix Auger Aliassime,R,193.0,25,105916,,Marton Fucsovics,R,188.0,33,7-6(3) 7-5,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,268,100644,3,Alexander Zverev,R,198.0,28,102093,,Martin Damm,L,203.0,22,6-2 6-4,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,269,206173,2,Jannik Sinner,R,191.0,24,106000,,Damir Dzumhur,R,175.0,33,6-3 6-3,3,R64
+2026-0403,Miami Masters,20260318,M,Hard,270,144869,29,Tomas Martin Etcheverry,R,196.0,26,212588,,Rafael Jodar,U,,19,7-5 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,271,209950,28,Arthur Fils,R,185.0,21,126774,,Stefanos Tsitsipas,R,193.0,27,6-0 6-1,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,272,200473,24,Valentin Vacherot,R,193.0,27,126610,,Matteo Berrettini,R,196.0,29,7-6(5) 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,273,126205,22,Tommy Paul,R,185.0,28,209920,,Raphael Collignon,R,191.0,23,6-2 3-6 7-6(5),3,R32
+2026-0403,Miami Masters,20260318,M,Hard,274,208103,21,Jiri Lehecka,R,185.0,24,210319,,Ethan Quinn,R,191.0,21,6-3 7-6(6),3,R32
+2026-0403,Miami Masters,20260318,M,Hard,275,211776,,Martin Landaluce,R,191.0,19,111575,14,Karen Khachanov,R,198.0,29,6-3 7-6(2),3,R32
+2026-0403,Miami Masters,20260318,M,Hard,276,126203,6,Taylor Fritz,R,196.0,28,124187,,Reilly Opelka,R,211.0,28,6-3 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,277,200624,32,Sebastian Korda,R,196.0,25,207989,1,Carlos Alcaraz,R,183.0,22,6-3 5-7 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,278,210506,,Alex Michelsen,R,193.0,21,126214,,Alejandro Tabilo,L,188.0,28,3-6 6-3 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,279,111460,,Quentin Halys,R,191.0,29,111794,,Kamil Majchrzak,R,180.0,29,7-6(4) 6-1,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,280,200005,31,Ugo Humbert,L,188.0,27,207686,,Alexander Shevchenko,R,185.0,25,6-4 7-6(2),3,R32
+2026-0403,Miami Masters,20260318,M,Hard,281,126207,19,Frances Tiafoe,R,188.0,27,210084,12,Jakub Mensik,U,,20,7-6(4) 4-6 7-6(11),3,R32
+2026-0403,Miami Masters,20260318,M,Hard,282,202103,18,Francisco Cerundolo,R,185.0,27,106421,9,Daniil Medvedev,R,198.0,29,6-0 4-6 7-5,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,283,209279,,Terence Atmane,L,193.0,23,200000,7,Felix Auger Aliassime,R,193.0,25,6-3 1-6 6-3,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,284,100644,3,Alexander Zverev,R,198.0,28,105227,,Marin Cilic,R,198.0,37,6-2 5-7 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,285,206173,2,Jannik Sinner,R,191.0,24,144895,30,Corentin Moutet,L,180.0,26,6-1 6-4,3,R32
+2026-0403,Miami Masters,20260318,M,Hard,286,211776,,Martin Landaluce,R,191.0,19,200624,32,Sebastian Korda,R,196.0,25,2-6 7-6(6) 6-4,3,R16
+2026-0403,Miami Masters,20260318,M,Hard,287,209950,28,Arthur Fils,R,185.0,21,200473,24,Valentin Vacherot,R,193.0,27,6-4 6(4)-7 6-4,3,R16
+2026-0403,Miami Masters,20260318,M,Hard,288,126205,22,Tommy Paul,R,185.0,28,144869,29,Tomas Martin Etcheverry,R,196.0,26,6-1 6-3,3,R16
+2026-0403,Miami Masters,20260318,M,Hard,289,126207,19,Frances Tiafoe,R,188.0,27,209279,,Terence Atmane,L,193.0,23,6-4 1-6 6-4,3,R16
+2026-0403,Miami Masters,20260318,M,Hard,290,202103,18,Francisco Cerundolo,R,185.0,27,200005,31,Ugo Humbert,L,188.0,27,6-4 6-3,3,R16
+2026-0403,Miami Masters,20260318,M,Hard,291,208103,21,Jiri Lehecka,R,185.0,24,126203,6,Taylor Fritz,R,196.0,28,6-4 6(4)-7 6-2,3,R16
+2026-0403,Miami Masters,20260318,M,Hard,292,100644,3,Alexander Zverev,R,198.0,28,111460,,Quentin Halys,R,191.0,29,7-6(4) 7-6(1),3,R16
+2026-0403,Miami Masters,20260318,M,Hard,293,206173,2,Jannik Sinner,R,191.0,24,210506,,Alex Michelsen,R,193.0,21,7-5 7-6(4),3,R16
+2026-0403,Miami Masters,20260318,M,Hard,294,209950,28,Arthur Fils,R,185.0,21,126205,22,Tommy Paul,R,185.0,28,6(3)-7 7-6(4) 7-6(6),3,QF
+2026-0403,Miami Masters,20260318,M,Hard,295,208103,21,Jiri Lehecka,R,185.0,24,211776,,Martin Landaluce,R,191.0,19,7-6(1) 7-5,3,QF
+2026-0403,Miami Masters,20260318,M,Hard,296,100644,3,Alexander Zverev,R,198.0,28,202103,18,Francisco Cerundolo,R,185.0,27,6-1 6-2,3,QF
+2026-0403,Miami Masters,20260318,M,Hard,297,206173,2,Jannik Sinner,R,191.0,24,126207,19,Frances Tiafoe,R,188.0,27,6-2 6-2,3,QF
+2026-0403,Miami Masters,20260318,M,Hard,298,208103,21,Jiri Lehecka,R,185.0,24,209950,28,Arthur Fils,R,185.0,21,6-2 6-2,3,SF
+2026-0403,Miami Masters,20260318,M,Hard,299,206173,2,Jannik Sinner,R,191.0,24,100644,3,Alexander Zverev,R,198.0,28,6-3 7-6(4),3,SF
+2026-0403,Miami Masters,20260318,M,Hard,300,206173,2,Jannik Sinner,R,191.0,24,208103,21,Jiri Lehecka,R,185.0,24,6-4 6-4,3,F
+2026-0717,Houston,20260330,A,Clay,275,111190,,Zhizhen Zhang,R,193.0,29,209957,,Jack Pinnington Jones,R,180.0,22,6-1 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,276,209226,,Adolfo Daniel Vallejo,R,183.0,21,208260,,Zachary Svajda,R,175.0,23,6-1 6-4,3,R32
+2026-0717,Houston,20260330,A,Clay,277,202058,,Thiago Agustin Tirante,R,185.0,24,212256,,Colton Smith,U,,22,6-0 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,278,106109,,Alex Bolt,L,183.0,32,200059,,Yibing Wu,R,183.0,26,7-6(6) 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,279,111456,,Mackenzie Mcdonald,R,178.0,30,202385,8,Jenson Brooksby,R,188.0,25,6-4 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,280,200615,,Alexei Popyrin,R,196.0,26,200516,,Patrick Kypson,R,188.0,26,4-6 6-4 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,281,208014,,Rinky Hijikata,R,178.0,24,206499,,Aleksandar Kovacevic,R,183.0,27,6-4 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,282,210460,,Nishesh Basavareddy,R,180.0,20,208119,,Liam Draxl,R,185.0,24,6-3 2-6 6-4,3,R32
+2026-0717,Houston,20260330,A,Clay,283,210506,7,Alex Michelsen,R,193.0,21,209409,,Coleman Wong,R,191.0,21,6-4 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,284,144869,6,Tomas Martin Etcheverry,R,196.0,26,144870,,Federico Agustin Gomez,R,191.0,29,1-6 6-1 6-4,3,R32
+2026-0717,Houston,20260330,A,Clay,285,206909,5,Brandon Nakashima,R,188.0,24,102093,,Martin Damm,L,203.0,22,7-6(0) 6-2,3,R32
+2026-0717,Houston,20260330,A,Clay,286,208882,,Roman Andres Burruchaga,R,183.0,23,200443,,Adam Walton,R,183.0,26,6-2 6-3,3,R32
+2026-0717,Houston,20260330,A,Clay,287,202058,,Thiago Agustin Tirante,R,185.0,24,111456,,Mackenzie Mcdonald,R,178.0,30,6-2 6-0,3,R16
+2026-0717,Houston,20260330,A,Clay,288,144869,6,Tomas Martin Etcheverry,R,196.0,26,106109,,Alex Bolt,L,183.0,32,6(5)-7 6-0 6-3,3,R16
+2026-0717,Houston,20260330,A,Clay,289,126205,4,Tommy Paul,R,185.0,28,209226,,Adolfo Daniel Vallejo,R,183.0,21,3-6 6-4 6-4,3,R16
+2026-0717,Houston,20260330,A,Clay,290,210097,1,Ben Shelton,L,193.0,23,111190,,Zhizhen Zhang,R,193.0,29,7-6(5) 7-6(3),3,R16
+2026-0717,Houston,20260330,A,Clay,291,200615,,Alexei Popyrin,R,196.0,26,210506,7,Alex Michelsen,R,193.0,21,6-0 4-6 6-1,3,R16
+2026-0717,Houston,20260330,A,Clay,292,208882,,Roman Andres Burruchaga,R,183.0,23,206909,5,Brandon Nakashima,R,188.0,24,6-4 2-6 6-4,3,R16
+2026-0717,Houston,20260330,A,Clay,293,210530,3,Learner Tien,L,180.0,20,210460,,Nishesh Basavareddy,R,180.0,20,6-3 3-6 6-1,3,R16
+2026-0717,Houston,20260330,A,Clay,294,126207,2,Frances Tiafoe,R,188.0,27,208014,,Rinky Hijikata,R,178.0,24,6-4 3-6 6-2,3,R16
+2026-0717,Houston,20260330,A,Clay,295,126205,4,Tommy Paul,R,185.0,28,144869,6,Tomas Martin Etcheverry,R,196.0,26,6-4 6-2,3,QF
+2026-0717,Houston,20260330,A,Clay,296,208882,,Roman Andres Burruchaga,R,183.0,23,210530,3,Learner Tien,L,180.0,20,7-5 6-4,3,QF
+2026-0717,Houston,20260330,A,Clay,297,126207,2,Frances Tiafoe,R,188.0,27,200615,,Alexei Popyrin,R,196.0,26,3-6 6-4 7-6(6),3,QF
+2026-0717,Houston,20260330,A,Clay,298,202058,,Thiago Agustin Tirante,R,185.0,24,210097,1,Ben Shelton,L,193.0,23,6(5)-7 6-3 6-4,3,QF
+2026-0717,Houston,20260330,A,Clay,299,208882,,Roman Andres Burruchaga,R,183.0,23,202058,,Thiago Agustin Tirante,R,185.0,24,6-1 6-1,3,SF
+2026-0717,Houston,20260330,A,Clay,300,126205,4,Tommy Paul,R,185.0,28,126207,2,Frances Tiafoe,R,188.0,27,7-5 4-6 7-6(7),3,SF
+2026-0360,Marrakech,20260330,A,Clay,275,211558,,Karim Bennani,U,,18,111460,,Quentin Halys,R,191.0,29,6-4 6(5)-7 6-2,3,R32
+2026-0360,Marrakech,20260330,A,Clay,276,207220,,Taha Baadi,R,183.0,24,126846,,Aleksandar Vukic,R,188.0,29,6-2 3-6 6-1,3,R32
+2026-0360,Marrakech,20260330,A,Clay,277,105870,8,Yannick Hanfmann,R,193.0,34,207411,,Jesper De Jong,R,180.0,25,7-6(6) 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,278,209414,,Luca Van Assche,R,178.0,21,200384,,Hugo Gaston,L,173.0,25,6-4 7-6(5),3,R32
+2026-0360,Marrakech,20260330,A,Clay,279,200116,,Camilo Ugo Carabelli,R,185.0,26,207608,,Timofey Skatov,R,175.0,24,6(2)-7 6-3 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,280,105477,,Marco Trungelliti,R,178.0,35,210012,,Henrique Rocha,R,180.0,21,7-6(5) 6-2,3,R32
+2026-0360,Marrakech,20260330,A,Clay,281,124186,,Alexandre Muller,R,183.0,28,210748,,Federico Cina,R,183.0,18,6-2 6-3,3,R32
+2026-0360,Marrakech,20260330,A,Clay,282,212588,,Rafael Jodar,U,,19,105583,,Dusan Lajovic,R,183.0,35,6-3 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,283,208233,,Mattia Bellucci,L,175.0,24,210730,,Reda Bennani,R,,18,6-3 3-6 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,284,209860,7,Ignacio Buse,R,185.0,21,126610,,Matteo Berrettini,R,196.0,29,7-6(5) 6(2)-7 6-4,3,R32
+2026-0360,Marrakech,20260330,A,Clay,285,111794,5,Kamil Majchrzak,R,180.0,29,207678,,Juan Manuel Cerundolo,L,183.0,24,7-6(3) 3-6 6-3,3,R32
+2026-0360,Marrakech,20260330,A,Clay,286,200240,6,Vit Kopriva,R,178.0,28,209098,,Hamad Medjedovic,R,188.0,22,6(4)-7 7-5 6-2,3,R32
+2026-0360,Marrakech,20260330,A,Clay,287,105870,8,Yannick Hanfmann,R,193.0,34,211558,,Karim Bennani,U,,18,6-4 6(3)-7 6-2,3,R16
+2026-0360,Marrakech,20260330,A,Clay,288,105477,,Marco Trungelliti,R,178.0,35,111794,5,Kamil Majchrzak,R,180.0,29,7-6(4) 6-3,3,R16
+2026-0360,Marrakech,20260330,A,Clay,289,144895,3,Corentin Moutet,L,180.0,26,207220,,Taha Baadi,R,183.0,24,6-0 6-2,3,R16
+2026-0360,Marrakech,20260330,A,Clay,290,209260,1,Luciano Darderi,R,183.0,23,208233,,Mattia Bellucci,L,175.0,24,6-4 6-2,3,R16
+2026-0360,Marrakech,20260330,A,Clay,291,200116,,Camilo Ugo Carabelli,R,185.0,26,209860,7,Ignacio Buse,R,185.0,21,6-3 3-6 7-5,3,R16
+2026-0360,Marrakech,20260330,A,Clay,292,124186,,Alexandre Muller,R,183.0,28,200240,6,Vit Kopriva,R,178.0,28,6-3 7-6(3),3,R16
+2026-0360,Marrakech,20260330,A,Clay,293,212588,,Rafael Jodar,U,,19,207830,4,Tomas Machac,R,183.0,25,6-4 4-6 6-3,3,R16
+2026-0360,Marrakech,20260330,A,Clay,294,209414,,Luca Van Assche,R,178.0,21,134868,2,Tallon Griekspoor,R,188.0,29,6-4 1-6 6-3,3,R16
+2026-0360,Marrakech,20260330,A,Clay,295,209260,,Luciano Darderi,R,183.0,23,105870,,Yannick Hanfmann,R,193.0,34,,3,QF
+2026-0360,Marrakech,20260330,A,Clay,296,200116,,Camilo Ugo Carabelli,R,185.0,26,209414,,Luca Van Assche,R,178.0,21,0-6 6-3 6-2,3,QF
+2026-0360,Marrakech,20260330,A,Clay,297,212588,,Rafael Jodar,U,,19,124186,,Alexandre Muller,R,183.0,28,6-2 2-0,3,QF
+2026-0360,Marrakech,20260330,A,Clay,298,105477,,Marco Trungelliti,R,178.0,35,144895,3,Corentin Moutet,L,180.0,26,4-6 6-3 6-4,3,QF
+2026-0360,Marrakech,20260330,A,Clay,299,212588,,Rafael Jodar,U,,19,200116,,Camilo Ugo Carabelli,R,185.0,26,6-2 6-1,3,SF
+2026-0360,Marrakech,20260330,A,Clay,300,105477,,Marco Trungelliti,R,178.0,35,209260,1,Luciano Darderi,R,183.0,23,6-4 7-6(2),3,SF
+2026-4462,Bucharest,20260330,A,Clay,275,207686,,Alexander Shevchenko,R,185.0,25,212886,,Radu David Turcanu,L,,19,6-2 6-4,3,R32
+2026-4462,Bucharest,20260330,A,Clay,276,208852,,Stefanos Sakellaridis,R,196.0,21,123828,,Jan Choinski,R,196.0,29,6-3 6-4,3,R32
+2026-4462,Bucharest,20260330,A,Clay,277,209976,,Dino Prizmic,R,188.0,20,105932,,Nikoloz Basilashvili,R,185.0,33,6-4 6-2,3,R32
+2026-4462,Bucharest,20260330,A,Clay,278,209284,,Elmer Moller,R,183.0,22,103847,,Adrian Bohane,L,,44,6-3 7-5,3,R32
+2026-4462,Bucharest,20260330,A,Clay,279,144684,,Alex Molcan,L,178.0,28,208286,,Matteo Arnaldi,R,185.0,24,6-3 6-1,3,R32
+2026-4462,Bucharest,20260330,A,Clay,280,138758,,Daniel Mora,U,,29,202261,,Otto Virtanen,R,193.0,24,7-6(4) 5-7 7-5,3,R32
+2026-4462,Bucharest,20260330,A,Clay,281,106000,,Damir Dzumhur,R,175.0,33,202262,,Filip Cristian Jianu,R,180.0,24,6-3 4-6 7-6(4),3,R32
+2026-4462,Bucharest,20260330,A,Clay,282,208169,,Titouan Droguet,R,191.0,24,105138,,Roberto Bautista Agut,R,183.0,37,6-1 1-6 6-1,3,R32
+2026-4462,Bucharest,20260330,A,Clay,283,122298,8,Botic Van De Zandschulp,R,191.0,30,208353,,Francesco Maestrelli,R,196.0,23,6-3 6-2,3,R32
+2026-4462,Bucharest,20260330,A,Clay,284,208363,7,Mariano Navone,R,178.0,24,106331,,Christopher Oconnell,R,183.0,31,6-4 7-6(8),3,R32
+2026-4462,Bucharest,20260330,A,Clay,285,127157,6,Daniel Altmaier,R,188.0,27,117531,,Pedro Villena Martinez,U,,43,6-1 6-4,3,R32
+2026-4462,Bucharest,20260330,A,Clay,286,202104,5,Sebastian Baez,R,170.0,25,209147,,Vilius Gaubas,R,178.0,21,6-3 6-1,3,R32
+2026-4462,Bucharest,20260330,A,Clay,287,122298,8,Botic Van De Zandschulp,R,191.0,30,207686,,Alexander Shevchenko,R,185.0,25,7-5 6-1,3,R16
+2026-4462,Bucharest,20260330,A,Clay,288,208363,7,Mariano Navone,R,178.0,24,209284,,Elmer Moller,R,183.0,22,6-2 6-1,3,R16
+2026-4462,Bucharest,20260330,A,Clay,289,106000,,Damir Dzumhur,R,175.0,33,132686,4,Nuno Borges,R,185.0,28,7-6(1) 6-4,3,R16
+2026-4462,Bucharest,20260330,A,Clay,290,144684,,Alex Molcan,L,178.0,28,209113,1,Gabriel Diallo,R,203.0,24,6-2 6-2,3,R16
+2026-4462,Bucharest,20260330,A,Clay,291,127157,6,Daniel Altmaier,R,188.0,27,209976,,Dino Prizmic,R,188.0,20,3-6 7-6(1) 7-6(7),3,R16
+2026-4462,Bucharest,20260330,A,Clay,292,206681,3,Fabian Marozsan,R,193.0,26,208852,,Stefanos Sakellaridis,R,196.0,21,7-6(3) 7-5,3,R16
+2026-4462,Bucharest,20260330,A,Clay,293,208169,,Titouan Droguet,R,191.0,24,202104,5,Sebastian Baez,R,170.0,25,6-4 6-4,3,R16
+2026-4462,Bucharest,20260330,A,Clay,294,138758,,Daniel Mora,U,,29,105173,2,Adrian Mannarino,L,180.0,37,4-6 6-2 6-2,3,R16
+2026-4462,Bucharest,20260330,A,Clay,295,138758,,Daniel Mora,U,,29,208169,,Titouan Droguet,R,191.0,24,4-6 7-6(7) 3-1,3,QF
+2026-4462,Bucharest,20260330,A,Clay,296,122298,8,Botic Van De Zandschulp,R,191.0,30,106000,,Damir Dzumhur,R,175.0,33,6-3 6-3,3,QF
+2026-4462,Bucharest,20260330,A,Clay,297,208363,7,Mariano Navone,R,178.0,24,144684,,Alex Molcan,L,178.0,28,3-6 6-2 6-3,3,QF
+2026-4462,Bucharest,20260330,A,Clay,298,206681,3,Fabian Marozsan,R,193.0,26,127157,6,Daniel Altmaier,R,188.0,27,6-2 7-6(5),3,QF
+2026-4462,Bucharest,20260330,A,Clay,299,208363,7,Mariano Navone,R,178.0,24,122298,8,Botic Van De Zandschulp,R,191.0,30,5-7 7-6(3) 7-5,3,SF
+2026-4462,Bucharest,20260330,A,Clay,300,138758,,Daniel Mora,U,,29,206681,3,Fabian Marozsan,R,193.0,26,6(4)-7 6-3 6-1,3,SF
