@@ -15286,7 +15286,6 @@ tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,w
 2026-0308,Munich,20260513,A,Clay,298,210097,2,Ben Shelton,L,193.0,23,144684,,Alex Molcan,L,178.0,28,6-3 6-4,3,SF
 2026-0308,Munich,20260513,A,Clay,299,207925,4,Flavio Cobolli,R,183.0,23,100644,1,Alexander Zverev,R,198.0,28,6-3 6-3,3,SF
 2026-0308,Munich,20260513,A,Clay,300,210097,2,Ben Shelton,L,193.0,23,207925,4,Flavio Cobolli,R,183.0,23,6-2 7-5,3,F
-tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
 2026-1536,Madrid Masters,20260514,M,Clay,206,202058,,Thiago Agustin Tirante,R,185.0,24,105138,,Roberto Bautista Agut,R,183.0,37,6-2 6-4,3,R128
 2026-1536,Madrid Masters,20260514,M,Clay,207,126214,,Alejandro Tabilo,L,188.0,28,208316,,Valentin Royer,R,188.0,24,6-2 6-4,3,R128
 2026-1536,Madrid Masters,20260514,M,Clay,208,105526,,Jan Lennard Struff,R,193.0,35,124186,,Alexandre Muller,R,183.0,28,7-6(3) 6-0,3,R128
