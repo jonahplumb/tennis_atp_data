@@ -1,96 +1,96 @@
 tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
-2026-1536,Madrid Masters,20260422,M,Clay,206,202058,,Thiago Agustin Tirante,R,185.0,24,105138,,Roberto Bautista Agut,R,183.0,37,6-2 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,207,126214,,Alejandro Tabilo,L,188.0,28,208316,,Valentin Royer,R,188.0,24,6-2 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,208,105526,,Jan Lennard Struff,R,193.0,35,124186,,Alexandre Muller,R,183.0,28,7-6(3) 6-0,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,209,209976,,Dino Prizmic,R,188.0,20,126610,,Matteo Berrettini,R,196.0,29,6-3 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,210,124116,,Sebastian Ofner,R,191.0,29,105932,,Nikoloz Basilashvili,R,185.0,33,7-6(5) 7-6(0),3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,211,207182,,Emilio Nava,R,185.0,24,202385,,Jenson Brooksby,R,188.0,25,6-3 7-5,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,212,209284,,Elmer Moller,R,183.0,22,210748,,Federico Cina,R,183.0,18,6-4 7-6(4),3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,213,207830,,Tomas Machac,R,183.0,25,207681,,Francisco Comesana,R,178.0,25,3-6 7-6(3) 6-3,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,214,105583,,Dusan Lajovic,R,183.0,35,132283,,Lorenzo Sonego,R,191.0,30,6-3 7-6(1),3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,215,200240,,Vit Kopriva,R,178.0,28,111190,,Zhizhen Zhang,R,193.0,29,6-2 6-0,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,216,212588,,Rafael Jodar,U,,19,207411,,Jesper De Jong,R,180.0,25,2-6 7-5 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,217,128034,,Hubert Hurkacz,R,196.0,28,210262,,Jaime Faria,R,188.0,22,6-3 6-3,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,218,106000,,Damir Dzumhur,R,175.0,33,208233,,Mattia Bellucci,L,175.0,24,6-2 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,219,105227,,Marin Cilic,R,198.0,37,200267,,Zizou Bergs,R,185.0,26,4-6 6-3 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,220,209860,,Ignacio Buse,R,185.0,21,105173,,Adrian Mannarino,L,180.0,37,6-4 6-2,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,221,126127,,Benjamin Bonzi,R,183.0,29,208169,,Titouan Droguet,R,191.0,24,6(4)-7 7-6(4) 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,222,200443,,Adam Walton,R,183.0,26,211776,,Martin Landaluce,R,191.0,19,6-2 6-3,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,223,209226,,Adolfo Daniel Vallejo,R,183.0,21,105777,,Grigor Dimitrov,R,191.0,34,6-4 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,224,200116,,Camilo Ugo Carabelli,R,185.0,26,104792,,Gael Monfils,R,193.0,39,6-3 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,225,126774,,Stefanos Tsitsipas,R,193.0,27,200516,,Patrick Kypson,R,188.0,26,3-6 7-6(6) 7-6(4),3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,226,208363,,Mariano Navone,R,178.0,24,132686,,Nuno Borges,R,185.0,28,6-3 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,227,144719,,Jaume Munar,R,183.0,28,207686,,Alexander Shevchenko,R,185.0,25,6-4 6-1,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,228,138758,,Daniel Mora,U,,29,105477,,Marco Trungelliti,R,178.0,35,6-4 1-6 7-6(6),3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,229,206681,,Fabian Marozsan,R,193.0,26,210319,,Ethan Quinn,R,191.0,21,7-6(5) 7-6(6),3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,230,105870,,Yannick Hanfmann,R,193.0,34,106218,,Marcos Giron,R,180.0,32,6-4 6(3)-7 7-5,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,231,209147,,Vilius Gaubas,R,178.0,21,202104,,Sebastian Baez,R,170.0,25,7-5 6-1,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,232,102093,,Martin Damm,L,203.0,22,200615,,Alexei Popyrin,R,196.0,26,7-6(7) 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,233,207678,,Juan Manuel Cerundolo,L,183.0,24,127157,,Daniel Altmaier,R,188.0,27,6-4 6-4,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,234,105807,,Pablo Carreno Busta,R,188.0,34,105916,,Marton Fucsovics,R,188.0,33,4-6 7-6(5) 6-2,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,235,149282,,Nicolai Budkov Kjaer,R,188.0,19,124187,,Reilly Opelka,R,211.0,28,5-3,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,236,210696,,Alexander Blockx,R,191.0,20,106426,,Cristian Garin,R,185.0,29,4-6 7-5 7-5,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,237,209279,,Terence Atmane,L,193.0,23,200175,,Miomir Kecmanovic,R,183.0,26,6-4 7-5,3,R128
-2026-1536,Madrid Masters,20260422,M,Clay,238,210506,,Alex Michelsen,R,193.0,21,105526,,Jan Lennard Struff,R,193.0,35,6-2 6-1,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,239,209284,,Elmer Moller,R,183.0,22,209113,32,Gabriel Diallo,R,203.0,24,7-5 3-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,240,134868,29,Tallon Griekspoor,R,188.0,29,106000,,Damir Dzumhur,R,175.0,33,6-3 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,241,211663,27,Joao Fonseca,R,185.0,19,105227,,Marin Cilic,R,198.0,37,,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,242,144869,25,Tomas Martin Etcheverry,R,196.0,26,124116,,Sebastian Ofner,R,191.0,29,6-4 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,243,126239,22,Arthur Rinderknech,R,196.0,30,105583,,Dusan Lajovic,R,183.0,35,6-3 6-2,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,244,209950,21,Arthur Fils,R,185.0,21,209860,,Ignacio Buse,R,185.0,21,6(4)-7 7-6(3) 7-5,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,245,111815,19,Cameron Norrie,L,188.0,30,207830,,Tomas Machac,R,183.0,25,6-2 6(6)-7 7-6(5),3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,246,202058,,Thiago Agustin Tirante,R,185.0,24,126205,15,Tommy Paul,R,185.0,28,7-5 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,247,207182,,Emilio Nava,R,185.0,24,200473,14,Valentin Vacherot,R,193.0,27,6(5)-7 7-6(1) 6-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,248,208103,11,Jiri Lehecka,R,185.0,24,126214,,Alejandro Tabilo,L,188.0,28,3-6 7-6(3) 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,249,200240,,Vit Kopriva,R,178.0,28,126094,9,Andrey Rublev,R,188.0,28,6-3 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,250,207518,6,Lorenzo Musetti,R,185.0,23,128034,,Hubert Hurkacz,R,196.0,28,6-4 7-6(4),3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,251,212588,,Rafael Jodar,U,,19,200282,5,Alex De Minaur,R,183.0,26,6-3 6-1,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,252,209976,,Dino Prizmic,R,188.0,20,210097,4,Ben Shelton,L,193.0,23,6-4 6(4)-7 7-6(5),3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,253,206173,1,Jannik Sinner,R,191.0,24,126127,,Benjamin Bonzi,R,183.0,29,6(6)-7 6-1 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,254,149282,,Nicolai Budkov Kjaer,R,188.0,19,133430,31,Denis Shapovalov,L,185.0,26,6-2 6-1,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,255,209279,,Terence Atmane,L,193.0,23,200005,30,Ugo Humbert,L,188.0,27,7-6(3) 7-6(5),3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,256,210696,,Alexander Blockx,R,191.0,20,206909,28,Brandon Nakashima,R,188.0,24,3-6 6-3 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,257,138758,,Daniel Mora,U,,29,144895,26,Corentin Moutet,L,180.0,26,6-3 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,258,210084,23,Jakub Mensik,U,,20,102093,,Martin Damm,L,203.0,22,6-3 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,259,200221,20,Alejandro Davidovich Fokina,R,183.0,26,105807,,Pablo Carreno Busta,R,188.0,34,6-3 6-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,260,209260,18,Luciano Darderi,R,183.0,23,207678,,Juan Manuel Cerundolo,L,183.0,24,6-1 6-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,261,209226,,Adolfo Daniel Vallejo,R,183.0,21,210530,17,Learner Tien,L,180.0,20,6-4 6-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,262,202103,16,Francisco Cerundolo,R,185.0,27,105870,,Yannick Hanfmann,R,193.0,34,6-1 7-5,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,263,111575,13,Karen Khachanov,R,198.0,29,200443,,Adam Walton,R,183.0,26,6-2 6-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,264,134770,12,Casper Ruud,R,183.0,27,144719,,Jaume Munar,R,183.0,28,6-0 6-1,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,265,207925,10,Flavio Cobolli,R,183.0,23,200116,,Camilo Ugo Carabelli,R,185.0,26,6(7)-7 6-1 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,266,126774,,Stefanos Tsitsipas,R,193.0,27,122330,8,Alexander Bublik,R,196.0,28,6-2 7-5,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,267,106421,7,Daniil Medvedev,R,198.0,29,206681,,Fabian Marozsan,R,193.0,26,6-2 6(3)-7 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,268,200000,3,Felix Auger Aliassime,R,193.0,25,209147,,Vilius Gaubas,R,178.0,21,6-3 6-4,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,269,100644,2,Alexander Zverev,R,198.0,28,208363,,Mariano Navone,R,178.0,24,6-1 3-6 6-3,3,R64
-2026-1536,Madrid Masters,20260422,M,Clay,270,212588,,Rafael Jodar,U,,19,211663,27,Joao Fonseca,R,185.0,19,7-6(4) 4-6 6-1,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,271,144869,25,Tomas Martin Etcheverry,R,196.0,26,209976,,Dino Prizmic,R,188.0,20,2-6 6-4 6-3,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,272,200240,,Vit Kopriva,R,178.0,28,126239,22,Arthur Rinderknech,R,196.0,30,6-4 3-6,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,273,209950,21,Arthur Fils,R,185.0,21,207182,,Emilio Nava,R,185.0,24,7-6(2) 6-3,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,274,111815,19,Cameron Norrie,L,188.0,30,202058,,Thiago Agustin Tirante,R,185.0,24,7-5 7-6(5),3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,275,208103,11,Jiri Lehecka,R,185.0,24,210506,,Alex Michelsen,R,193.0,21,6-4 6-2,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,276,207518,6,Lorenzo Musetti,R,185.0,23,134868,29,Tallon Griekspoor,R,188.0,29,6-4 7-5,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,277,206173,1,Jannik Sinner,R,191.0,24,209284,,Elmer Moller,R,183.0,22,6-2 6-3,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,278,126774,,Stefanos Tsitsipas,R,193.0,27,138758,,Daniel Mora,U,,29,6-4 6-2,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,279,202103,16,Francisco Cerundolo,R,185.0,27,209260,18,Luciano Darderi,R,183.0,23,6-2 6-3,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,280,210084,23,Jakub Mensik,U,,20,111575,13,Karen Khachanov,R,198.0,29,6-4 7-6(11),3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,281,134770,12,Casper Ruud,R,183.0,27,200221,20,Alejandro Davidovich Fokina,R,183.0,26,6-3 6-1,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,282,207925,10,Flavio Cobolli,R,183.0,23,209226,,Adolfo Daniel Vallejo,R,183.0,21,6-3 6-2,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,283,106421,7,Daniil Medvedev,R,198.0,29,149282,,Nicolai Budkov Kjaer,R,188.0,19,6-3 6-2,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,284,210696,,Alexander Blockx,R,191.0,20,200000,3,Felix Auger Aliassime,R,193.0,25,7-6(3) 6-3,3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,285,100644,2,Alexander Zverev,R,198.0,28,209279,,Terence Atmane,L,193.0,23,6-3 7-6(2),3,R32
-2026-1536,Madrid Masters,20260422,M,Clay,286,212588,,Rafael Jodar,U,,19,200240,,Vit Kopriva,R,178.0,28,7-5 6-0,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,287,209950,21,Arthur Fils,R,185.0,21,144869,25,Tomas Martin Etcheverry,R,196.0,26,6-3 6-4,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,288,210696,,Alexander Blockx,R,191.0,20,202103,16,Francisco Cerundolo,R,185.0,27,7-6(8) 6-2,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,289,134770,12,Casper Ruud,R,183.0,27,126774,,Stefanos Tsitsipas,R,193.0,27,6(4)-7 7-6(2) 7-6(3),3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,290,207925,10,Flavio Cobolli,R,183.0,23,106421,7,Daniil Medvedev,R,198.0,29,6-3 5-7 6-4,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,291,208103,11,Jiri Lehecka,R,185.0,24,207518,6,Lorenzo Musetti,R,185.0,23,6-3 6-3,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,292,100644,2,Alexander Zverev,R,198.0,28,210084,23,Jakub Mensik,U,,20,6-4 6(4)-7 6-3,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,293,206173,1,Jannik Sinner,R,191.0,24,111815,19,Cameron Norrie,L,188.0,30,6-2 7-5,3,R16
-2026-1536,Madrid Masters,20260422,M,Clay,294,209950,21,Arthur Fils,R,185.0,21,208103,11,Jiri Lehecka,R,185.0,24,6-3 6-4,3,QF
-2026-1536,Madrid Masters,20260422,M,Clay,295,206173,1,Jannik Sinner,R,191.0,24,212588,,Rafael Jodar,U,,19,6-2 7-6(0),3,QF
-2026-1536,Madrid Masters,20260422,M,Clay,296,210696,,Alexander Blockx,R,191.0,20,134770,12,Casper Ruud,R,183.0,27,6-4 6-4,3,QF
-2026-1536,Madrid Masters,20260422,M,Clay,297,100644,2,Alexander Zverev,R,198.0,28,207925,10,Flavio Cobolli,R,183.0,23,6-1 6-4,3,QF
-2026-1536,Madrid Masters,20260422,M,Clay,298,100644,2,Alexander Zverev,R,198.0,28,210696,,Alexander Blockx,R,191.0,20,6-2 7-5,3,SF
-2026-1536,Madrid Masters,20260422,M,Clay,299,206173,1,Jannik Sinner,R,191.0,24,209950,21,Arthur Fils,R,185.0,21,6-2 6-4,3,SF
-2026-1536,Madrid Masters,20260422,M,Clay,300,206173,1,Jannik Sinner,R,191.0,24,100644,2,Alexander Zverev,R,198.0,28,6-1 6-2,3,F
+2026-1536,Madrid Masters,20260514,M,Clay,206,202058,,Thiago Agustin Tirante,R,185.0,24,105138,,Roberto Bautista Agut,R,183.0,37,6-2 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,207,126214,,Alejandro Tabilo,L,188.0,28,208316,,Valentin Royer,R,188.0,24,6-2 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,208,105526,,Jan Lennard Struff,R,193.0,35,124186,,Alexandre Muller,R,183.0,28,7-6(3) 6-0,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,209,209976,,Dino Prizmic,R,188.0,20,126610,,Matteo Berrettini,R,196.0,29,6-3 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,210,124116,,Sebastian Ofner,R,191.0,29,105932,,Nikoloz Basilashvili,R,185.0,33,7-6(5) 7-6(0),3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,211,207182,,Emilio Nava,R,185.0,24,202385,,Jenson Brooksby,R,188.0,25,6-3 7-5,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,212,209284,,Elmer Moller,R,183.0,22,210748,,Federico Cina,R,183.0,18,6-4 7-6(4),3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,213,207830,,Tomas Machac,R,183.0,25,207681,,Francisco Comesana,R,178.0,25,3-6 7-6(3) 6-3,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,214,105583,,Dusan Lajovic,R,183.0,35,132283,,Lorenzo Sonego,R,191.0,30,6-3 7-6(1),3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,215,200240,,Vit Kopriva,R,178.0,28,111190,,Zhizhen Zhang,R,193.0,29,6-2 6-0,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,216,212588,,Rafael Jodar,U,,19,207411,,Jesper De Jong,R,180.0,25,2-6 7-5 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,217,128034,,Hubert Hurkacz,R,196.0,28,210262,,Jaime Faria,R,188.0,22,6-3 6-3,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,218,106000,,Damir Dzumhur,R,175.0,33,208233,,Mattia Bellucci,L,175.0,24,6-2 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,219,105227,,Marin Cilic,R,198.0,37,200267,,Zizou Bergs,R,185.0,26,4-6 6-3 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,220,209860,,Ignacio Buse,R,185.0,21,105173,,Adrian Mannarino,L,180.0,37,6-4 6-2,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,221,126127,,Benjamin Bonzi,R,183.0,29,208169,,Titouan Droguet,R,191.0,24,6(4)-7 7-6(4) 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,222,200443,,Adam Walton,R,183.0,26,211776,,Martin Landaluce,R,191.0,19,6-2 6-3,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,223,209226,,Adolfo Daniel Vallejo,R,183.0,21,105777,,Grigor Dimitrov,R,191.0,34,6-4 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,224,200116,,Camilo Ugo Carabelli,R,185.0,26,104792,,Gael Monfils,R,193.0,39,6-3 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,225,126774,,Stefanos Tsitsipas,R,193.0,27,200516,,Patrick Kypson,R,188.0,26,3-6 7-6(6) 7-6(4),3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,226,208363,,Mariano Navone,R,178.0,24,132686,,Nuno Borges,R,185.0,28,6-3 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,227,144719,,Jaume Munar,R,183.0,28,207686,,Alexander Shevchenko,R,185.0,25,6-4 6-1,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,228,138758,,Daniel Mora,U,,29,105477,,Marco Trungelliti,R,178.0,35,6-4 1-6 7-6(6),3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,229,206681,,Fabian Marozsan,R,193.0,26,210319,,Ethan Quinn,R,191.0,21,7-6(5) 7-6(6),3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,230,105870,,Yannick Hanfmann,R,193.0,34,106218,,Marcos Giron,R,180.0,32,6-4 6(3)-7 7-5,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,231,209147,,Vilius Gaubas,R,178.0,21,202104,,Sebastian Baez,R,170.0,25,7-5 6-1,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,232,102093,,Martin Damm,L,203.0,22,200615,,Alexei Popyrin,R,196.0,26,7-6(7) 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,233,207678,,Juan Manuel Cerundolo,L,183.0,24,127157,,Daniel Altmaier,R,188.0,27,6-4 6-4,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,234,105807,,Pablo Carreno Busta,R,188.0,34,105916,,Marton Fucsovics,R,188.0,33,4-6 7-6(5) 6-2,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,235,149282,,Nicolai Budkov Kjaer,R,188.0,19,124187,,Reilly Opelka,R,211.0,28,5-3,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,236,210696,,Alexander Blockx,R,191.0,20,106426,,Cristian Garin,R,185.0,29,4-6 7-5 7-5,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,237,209279,,Terence Atmane,L,193.0,23,200175,,Miomir Kecmanovic,R,183.0,26,6-4 7-5,3,R128
+2026-1536,Madrid Masters,20260514,M,Clay,238,210506,,Alex Michelsen,R,193.0,21,105526,,Jan Lennard Struff,R,193.0,35,6-2 6-1,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,239,209284,,Elmer Moller,R,183.0,22,209113,32,Gabriel Diallo,R,203.0,24,7-5 3-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,240,134868,29,Tallon Griekspoor,R,188.0,29,106000,,Damir Dzumhur,R,175.0,33,6-3 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,241,211663,27,Joao Fonseca,R,185.0,19,105227,,Marin Cilic,R,198.0,37,,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,242,144869,25,Tomas Martin Etcheverry,R,196.0,26,124116,,Sebastian Ofner,R,191.0,29,6-4 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,243,126239,22,Arthur Rinderknech,R,196.0,30,105583,,Dusan Lajovic,R,183.0,35,6-3 6-2,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,244,209950,21,Arthur Fils,R,185.0,21,209860,,Ignacio Buse,R,185.0,21,6(4)-7 7-6(3) 7-5,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,245,111815,19,Cameron Norrie,L,188.0,30,207830,,Tomas Machac,R,183.0,25,6-2 6(6)-7 7-6(5),3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,246,202058,,Thiago Agustin Tirante,R,185.0,24,126205,15,Tommy Paul,R,185.0,28,7-5 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,247,207182,,Emilio Nava,R,185.0,24,200473,14,Valentin Vacherot,R,193.0,27,6(5)-7 7-6(1) 6-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,248,208103,11,Jiri Lehecka,R,185.0,24,126214,,Alejandro Tabilo,L,188.0,28,3-6 7-6(3) 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,249,200240,,Vit Kopriva,R,178.0,28,126094,9,Andrey Rublev,R,188.0,28,6-3 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,250,207518,6,Lorenzo Musetti,R,185.0,23,128034,,Hubert Hurkacz,R,196.0,28,6-4 7-6(4),3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,251,212588,,Rafael Jodar,U,,19,200282,5,Alex De Minaur,R,183.0,26,6-3 6-1,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,252,209976,,Dino Prizmic,R,188.0,20,210097,4,Ben Shelton,L,193.0,23,6-4 6(4)-7 7-6(5),3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,253,206173,1,Jannik Sinner,R,191.0,24,126127,,Benjamin Bonzi,R,183.0,29,6(6)-7 6-1 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,254,149282,,Nicolai Budkov Kjaer,R,188.0,19,133430,31,Denis Shapovalov,L,185.0,26,6-2 6-1,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,255,209279,,Terence Atmane,L,193.0,23,200005,30,Ugo Humbert,L,188.0,27,7-6(3) 7-6(5),3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,256,210696,,Alexander Blockx,R,191.0,20,206909,28,Brandon Nakashima,R,188.0,24,3-6 6-3 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,257,138758,,Daniel Mora,U,,29,144895,26,Corentin Moutet,L,180.0,26,6-3 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,258,210084,23,Jakub Mensik,U,,20,102093,,Martin Damm,L,203.0,22,6-3 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,259,200221,20,Alejandro Davidovich Fokina,R,183.0,26,105807,,Pablo Carreno Busta,R,188.0,34,6-3 6-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,260,209260,18,Luciano Darderi,R,183.0,23,207678,,Juan Manuel Cerundolo,L,183.0,24,6-1 6-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,261,209226,,Adolfo Daniel Vallejo,R,183.0,21,210530,17,Learner Tien,L,180.0,20,6-4 6-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,262,202103,16,Francisco Cerundolo,R,185.0,27,105870,,Yannick Hanfmann,R,193.0,34,6-1 7-5,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,263,111575,13,Karen Khachanov,R,198.0,29,200443,,Adam Walton,R,183.0,26,6-2 6-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,264,134770,12,Casper Ruud,R,183.0,27,144719,,Jaume Munar,R,183.0,28,6-0 6-1,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,265,207925,10,Flavio Cobolli,R,183.0,23,200116,,Camilo Ugo Carabelli,R,185.0,26,6(7)-7 6-1 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,266,126774,,Stefanos Tsitsipas,R,193.0,27,122330,8,Alexander Bublik,R,196.0,28,6-2 7-5,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,267,106421,7,Daniil Medvedev,R,198.0,29,206681,,Fabian Marozsan,R,193.0,26,6-2 6(3)-7 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,268,200000,3,Felix Auger Aliassime,R,193.0,25,209147,,Vilius Gaubas,R,178.0,21,6-3 6-4,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,269,100644,2,Alexander Zverev,R,198.0,28,208363,,Mariano Navone,R,178.0,24,6-1 3-6 6-3,3,R64
+2026-1536,Madrid Masters,20260514,M,Clay,270,212588,,Rafael Jodar,U,,19,211663,27,Joao Fonseca,R,185.0,19,7-6(4) 4-6 6-1,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,271,144869,25,Tomas Martin Etcheverry,R,196.0,26,209976,,Dino Prizmic,R,188.0,20,2-6 6-4 6-3,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,272,200240,,Vit Kopriva,R,178.0,28,126239,22,Arthur Rinderknech,R,196.0,30,6-4 3-6,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,273,209950,21,Arthur Fils,R,185.0,21,207182,,Emilio Nava,R,185.0,24,7-6(2) 6-3,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,274,111815,19,Cameron Norrie,L,188.0,30,202058,,Thiago Agustin Tirante,R,185.0,24,7-5 7-6(5),3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,275,208103,11,Jiri Lehecka,R,185.0,24,210506,,Alex Michelsen,R,193.0,21,6-4 6-2,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,276,207518,6,Lorenzo Musetti,R,185.0,23,134868,29,Tallon Griekspoor,R,188.0,29,6-4 7-5,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,277,206173,1,Jannik Sinner,R,191.0,24,209284,,Elmer Moller,R,183.0,22,6-2 6-3,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,278,126774,,Stefanos Tsitsipas,R,193.0,27,138758,,Daniel Mora,U,,29,6-4 6-2,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,279,202103,16,Francisco Cerundolo,R,185.0,27,209260,18,Luciano Darderi,R,183.0,23,6-2 6-3,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,280,210084,23,Jakub Mensik,U,,20,111575,13,Karen Khachanov,R,198.0,29,6-4 7-6(11),3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,281,134770,12,Casper Ruud,R,183.0,27,200221,20,Alejandro Davidovich Fokina,R,183.0,26,6-3 6-1,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,282,207925,10,Flavio Cobolli,R,183.0,23,209226,,Adolfo Daniel Vallejo,R,183.0,21,6-3 6-2,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,283,106421,7,Daniil Medvedev,R,198.0,29,149282,,Nicolai Budkov Kjaer,R,188.0,19,6-3 6-2,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,284,210696,,Alexander Blockx,R,191.0,20,200000,3,Felix Auger Aliassime,R,193.0,25,7-6(3) 6-3,3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,285,100644,2,Alexander Zverev,R,198.0,28,209279,,Terence Atmane,L,193.0,23,6-3 7-6(2),3,R32
+2026-1536,Madrid Masters,20260514,M,Clay,286,212588,,Rafael Jodar,U,,19,200240,,Vit Kopriva,R,178.0,28,7-5 6-0,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,287,209950,21,Arthur Fils,R,185.0,21,144869,25,Tomas Martin Etcheverry,R,196.0,26,6-3 6-4,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,288,210696,,Alexander Blockx,R,191.0,20,202103,16,Francisco Cerundolo,R,185.0,27,7-6(8) 6-2,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,289,134770,12,Casper Ruud,R,183.0,27,126774,,Stefanos Tsitsipas,R,193.0,27,6(4)-7 7-6(2) 7-6(3),3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,290,207925,10,Flavio Cobolli,R,183.0,23,106421,7,Daniil Medvedev,R,198.0,29,6-3 5-7 6-4,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,291,208103,11,Jiri Lehecka,R,185.0,24,207518,6,Lorenzo Musetti,R,185.0,23,6-3 6-3,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,292,100644,2,Alexander Zverev,R,198.0,28,210084,23,Jakub Mensik,U,,20,6-4 6(4)-7 6-3,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,293,206173,1,Jannik Sinner,R,191.0,24,111815,19,Cameron Norrie,L,188.0,30,6-2 7-5,3,R16
+2026-1536,Madrid Masters,20260514,M,Clay,294,209950,21,Arthur Fils,R,185.0,21,208103,11,Jiri Lehecka,R,185.0,24,6-3 6-4,3,QF
+2026-1536,Madrid Masters,20260514,M,Clay,295,206173,1,Jannik Sinner,R,191.0,24,212588,,Rafael Jodar,U,,19,6-2 7-6(0),3,QF
+2026-1536,Madrid Masters,20260514,M,Clay,296,210696,,Alexander Blockx,R,191.0,20,134770,12,Casper Ruud,R,183.0,27,6-4 6-4,3,QF
+2026-1536,Madrid Masters,20260514,M,Clay,297,100644,2,Alexander Zverev,R,198.0,28,207925,10,Flavio Cobolli,R,183.0,23,6-1 6-4,3,QF
+2026-1536,Madrid Masters,20260514,M,Clay,298,100644,2,Alexander Zverev,R,198.0,28,210696,,Alexander Blockx,R,191.0,20,6-2 7-5,3,SF
+2026-1536,Madrid Masters,20260514,M,Clay,299,206173,1,Jannik Sinner,R,191.0,24,209950,21,Arthur Fils,R,185.0,21,6-2 6-4,3,SF
+2026-1536,Madrid Masters,20260514,M,Clay,300,206173,1,Jannik Sinner,R,191.0,24,100644,2,Alexander Zverev,R,198.0,28,6-1 6-2,3,F
