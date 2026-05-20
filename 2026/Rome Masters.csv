@@ -1,0 +1,96 @@
+tourney_id,tourney_name,tourney_date,tourney_level,surface,match_num,winner_id,winner_seed,winner_name,winner_hand,winner_ht,winner_age,loser_id,loser_seed,loser_name,loser_hand,loser_ht,loser_age,score,best_of,round
+2026-0416,Rome Masters,20260506,M,Clay,206,126846,,Aleksandar Vukic,R,188.0,29,200516,,Patrick Kypson,R,188.0,26,6-3 5-7 6-0,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,207,122298,,Botic Van De Zandschulp,R,191.0,30,124186,,Alexandre Muller,R,183.0,28,7-5 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,208,126214,,Alejandro Tabilo,L,188.0,28,105807,,Pablo Carreno Busta,R,188.0,34,6-2 6-1,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,209,208260,,Zachary Svajda,R,175.0,23,105477,,Marco Trungelliti,R,178.0,35,0-6 6-4 7-6(4),3,R128
+2026-0416,Rome Masters,20260506,M,Clay,210,105526,,Jan Lennard Struff,R,193.0,35,207681,,Francisco Comesana,R,178.0,25,6-2 6-4,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,211,207686,,Alexander Shevchenko,R,185.0,25,200116,,Camilo Ugo Carabelli,R,185.0,26,6-3 4-6 7-6(5),3,R128
+2026-0416,Rome Masters,20260506,M,Clay,212,209976,,Dino Prizmic,R,188.0,20,105916,,Marton Fucsovics,R,188.0,33,6-4 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,213,208659,,Giovanni Mpetshi Perricard,R,203.0,22,207985,,Jacob Fearnley,R,183.0,24,7-6(6) 4-6 6-2,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,214,200240,,Vit Kopriva,R,178.0,28,206681,,Fabian Marozsan,R,193.0,26,6-3 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,215,105870,,Yannick Hanfmann,R,193.0,34,128034,,Hubert Hurkacz,R,196.0,28,6(3)-7 7-6(2) 6-2,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,216,106000,,Damir Dzumhur,R,175.0,33,105173,,Adrian Mannarino,L,180.0,37,6-4 6-0,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,217,132686,,Nuno Borges,R,185.0,28,207411,,Jesper De Jong,R,180.0,25,6-3 6-0,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,218,202104,,Sebastian Baez,R,170.0,25,202385,,Jenson Brooksby,R,188.0,25,6-3 7-6(8),3,R128
+2026-0416,Rome Masters,20260506,M,Clay,219,208286,,Matteo Arnaldi,R,185.0,24,144719,,Jaume Munar,R,183.0,28,6-3 3-6 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,220,127157,,Daniel Altmaier,R,188.0,27,111190,,Zhizhen Zhang,R,193.0,29,4-6 7-6(3) 6-4,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,221,202058,,Thiago Agustin Tirante,R,185.0,24,211533,,Gianluca Cadenasso,R,178.0,21,6(5)-7 6-4 6-0,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,222,200615,,Alexei Popyrin,R,196.0,26,126610,,Matteo Berrettini,R,196.0,29,6-2 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,223,126504,,Andrea Pellegrino,R,185.0,28,208134,,Luca Nardi,R,185.0,22,4-6 6-3 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,224,124116,,Sebastian Ofner,R,191.0,29,210506,,Alex Michelsen,R,193.0,21,6-3 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,225,208363,,Mariano Navone,R,178.0,24,133430,,Denis Shapovalov,L,185.0,26,6-4 6-2,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,226,209098,,Hamad Medjedovic,R,188.0,22,208316,,Valentin Royer,R,188.0,24,6-4 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,227,207830,,Tomas Machac,R,183.0,25,126774,,Stefanos Tsitsipas,R,193.0,27,6-4 7-6(4),3,R128
+2026-0416,Rome Masters,20260506,M,Clay,228,208010,,Pablo Llamas Ruiz,R,188.0,23,210319,,Ethan Quinn,R,191.0,21,6-3 5-7 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,229,200175,,Miomir Kecmanovic,R,183.0,26,207494,,Dalibor Svrcina,R,178.0,23,6-2 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,230,106426,,Cristian Garin,R,185.0,29,207678,,Juan Manuel Cerundolo,L,183.0,24,7-6(2) 7-5,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,231,105227,,Marin Cilic,R,198.0,37,106218,,Marcos Giron,R,180.0,32,7-5 6-4,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,232,209860,,Ignacio Buse,R,185.0,21,132283,,Lorenzo Sonego,R,191.0,30,6-3 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,233,210696,,Alexander Blockx,R,191.0,20,210748,,Federico Cina,R,183.0,18,4-6 6-1 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,234,208233,,Mattia Bellucci,L,175.0,24,208882,,Roman Andres Burruchaga,R,183.0,23,6-4 6-4,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,235,105138,,Roberto Bautista Agut,R,183.0,37,208353,,Francesco Maestrelli,R,196.0,23,6-3 7-6(2),3,R128
+2026-0416,Rome Masters,20260506,M,Clay,236,105932,,Nikoloz Basilashvili,R,185.0,33,138758,,Daniel Mora,U,,29,6-4 2-6 6-3,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,237,209279,,Terence Atmane,L,193.0,23,200267,,Zizou Bergs,R,185.0,26,6-3 6-4,3,R128
+2026-0416,Rome Masters,20260506,M,Clay,238,122298,,Botic Van De Zandschulp,R,191.0,30,206499,,Aleksandar Kovacevic,R,183.0,27,2-6 6-2 7-6(5),3,R64
+2026-0416,Rome Masters,20260506,M,Clay,239,212588,32,Rafael Jodar,U,,19,132686,,Nuno Borges,R,185.0,28,7-6(4) 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,240,200005,31,Ugo Humbert,L,188.0,27,200240,,Vit Kopriva,R,178.0,28,6-3 6-2,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,241,210696,,Alexander Blockx,R,191.0,20,134868,29,Tallon Griekspoor,R,188.0,29,6(5)-7 6-3 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,242,202103,25,Francisco Cerundolo,R,185.0,27,126214,,Alejandro Tabilo,L,188.0,28,6-0 6-2,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,243,134770,23,Casper Ruud,R,183.0,27,208260,,Zachary Svajda,R,175.0,23,6-1 6-3,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,244,210530,19,Learner Tien,L,180.0,20,106000,,Damir Dzumhur,R,175.0,33,6-2 6-1,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,245,209260,18,Luciano Darderi,R,183.0,23,105870,,Yannick Hanfmann,R,193.0,34,6-4 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,246,126205,16,Tommy Paul,R,185.0,28,126846,,Aleksandar Vukic,R,188.0,29,6-4 6-2,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,247,111575,13,Karen Khachanov,R,198.0,29,207686,,Alexander Shevchenko,R,185.0,25,6-4 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,248,208103,11,Jiri Lehecka,R,185.0,24,105526,,Jan Lennard Struff,R,193.0,35,7-6(4) 6-3,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,249,122330,9,Alexander Bublik,R,196.0,28,202104,,Sebastian Baez,R,170.0,25,6-1 6-2,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,250,207518,8,Lorenzo Musetti,R,185.0,23,208659,,Giovanni Mpetshi Perricard,R,203.0,22,6-4 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,251,208286,,Matteo Arnaldi,R,185.0,24,200282,6,Alex De Minaur,R,183.0,26,4-6 7-6(5) 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,252,209976,,Dino Prizmic,R,188.0,20,104925,3,Novak Djokovic,R,188.0,38,2-6 6-2 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,253,100644,2,Alexander Zverev,R,198.0,28,127157,,Daniel Altmaier,R,188.0,27,7-5 6-3,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,254,211776,,Martin Landaluce,R,191.0,19,105227,,Marin Cilic,R,198.0,37,6-4 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,255,206909,30,Brandon Nakashima,R,188.0,24,105138,,Roberto Bautista Agut,R,183.0,37,6-4 6-0,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,256,208010,,Pablo Llamas Ruiz,R,188.0,23,144895,28,Corentin Moutet,L,180.0,26,6-4 3-6 7-6(4),3,R64
+2026-0416,Rome Masters,20260506,M,Clay,257,209098,,Hamad Medjedovic,R,188.0,22,211663,27,Joao Fonseca,R,185.0,19,3-6 6-3 7-6(1),3,R64
+2026-0416,Rome Masters,20260506,M,Clay,258,200615,,Alexei Popyrin,R,196.0,26,210084,26,Jakub Mensik,U,,20,6-3 2-6 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,259,208233,,Mattia Bellucci,L,175.0,24,144869,24,Tomas Martin Etcheverry,R,196.0,26,5-7 6-2 6-3,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,260,200221,21,Alejandro Davidovich Fokina,R,183.0,26,106426,,Cristian Garin,R,185.0,29,7-6(2) 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,261,126207,20,Frances Tiafoe,R,188.0,27,209860,,Ignacio Buse,R,185.0,21,6(5)-7 6-3 6-2,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,262,202058,,Thiago Agustin Tirante,R,185.0,24,111815,17,Cameron Norrie,L,188.0,30,6-3 7-5,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,263,126504,,Andrea Pellegrino,R,185.0,28,209950,15,Arthur Fils,R,185.0,21,4-0,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,264,126094,12,Andrey Rublev,R,188.0,28,200175,,Miomir Kecmanovic,R,183.0,26,6-4 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,265,207925,10,Flavio Cobolli,R,183.0,23,209279,,Terence Atmane,L,193.0,23,7-6(1) 6-3,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,266,106421,7,Daniil Medvedev,R,198.0,29,207830,,Tomas Machac,R,183.0,25,,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,267,105932,,Nikoloz Basilashvili,R,185.0,33,210097,5,Ben Shelton,L,193.0,23,6-4 6(5)-7 6-3,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,268,208363,,Mariano Navone,R,178.0,24,200000,4,Felix Auger Aliassime,R,193.0,25,7-6(4) 7-6(5),3,R64
+2026-0416,Rome Masters,20260506,M,Clay,269,206173,1,Jannik Sinner,R,191.0,24,124116,,Sebastian Ofner,R,191.0,29,6-3 6-4,3,R64
+2026-0416,Rome Masters,20260506,M,Clay,270,212588,32,Rafael Jodar,U,,19,208286,,Matteo Arnaldi,R,185.0,24,6-1 4-6 6-3,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,271,209976,,Dino Prizmic,R,188.0,20,200005,31,Ugo Humbert,L,188.0,27,6-1 7-5,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,272,209260,18,Luciano Darderi,R,183.0,23,126205,16,Tommy Paul,R,185.0,28,3-6 6-3 6-2,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,273,111575,13,Karen Khachanov,R,198.0,29,122298,,Botic Van De Zandschulp,R,191.0,30,5-7 6-4 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,274,134770,23,Casper Ruud,R,183.0,27,208103,11,Jiri Lehecka,R,185.0,24,6-3 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,275,210530,19,Learner Tien,L,180.0,20,122330,9,Alexander Bublik,R,196.0,28,4-6 6-3 7-5,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,276,207518,8,Lorenzo Musetti,R,185.0,23,202103,25,Francisco Cerundolo,R,185.0,27,7-6(7) 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,277,100644,2,Alexander Zverev,R,198.0,28,210696,,Alexander Blockx,R,191.0,20,6-1 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,278,209098,,Hamad Medjedovic,R,188.0,22,208363,,Mariano Navone,R,178.0,24,4-6 6-3 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,279,211776,,Martin Landaluce,R,191.0,19,208233,,Mattia Bellucci,L,175.0,24,6-4 6-3,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,280,105932,,Nikoloz Basilashvili,R,185.0,33,206909,30,Brandon Nakashima,R,188.0,24,7-6(5) 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,281,126504,,Andrea Pellegrino,R,185.0,28,126207,20,Frances Tiafoe,R,188.0,27,7-6(8) 6-1,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,282,126094,12,Andrey Rublev,R,188.0,28,200221,21,Alejandro Davidovich Fokina,R,183.0,26,6-4 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,283,202058,,Thiago Agustin Tirante,R,185.0,24,207925,10,Flavio Cobolli,R,183.0,23,6-3 6-4,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,284,106421,7,Daniil Medvedev,R,198.0,29,208010,,Pablo Llamas Ruiz,R,188.0,23,3-6 6-4 6-2,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,285,206173,1,Jannik Sinner,R,191.0,24,200615,,Alexei Popyrin,R,196.0,26,6-2 6-0,3,R32
+2026-0416,Rome Masters,20260506,M,Clay,286,211776,,Martin Landaluce,R,191.0,19,209098,,Hamad Medjedovic,R,188.0,22,7-5 6-4,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,287,212588,32,Rafael Jodar,U,,19,210530,19,Learner Tien,L,180.0,20,6-1 6-4,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,288,111575,13,Karen Khachanov,R,198.0,29,209976,,Dino Prizmic,R,188.0,20,6-1 7-6(2),3,R16
+2026-0416,Rome Masters,20260506,M,Clay,289,126094,12,Andrey Rublev,R,188.0,28,105932,,Nikoloz Basilashvili,R,185.0,33,3-6 7-6(5) 6-2,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,290,134770,23,Casper Ruud,R,183.0,27,207518,8,Lorenzo Musetti,R,185.0,23,6-3 6-1,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,291,106421,7,Daniil Medvedev,R,198.0,29,202058,,Thiago Agustin Tirante,R,185.0,24,6-3 6-2,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,292,209260,18,Luciano Darderi,R,183.0,23,100644,2,Alexander Zverev,R,198.0,28,1-6 7-6(10) 6-0,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,293,206173,1,Jannik Sinner,R,191.0,24,126504,,Andrea Pellegrino,R,185.0,28,6-2 6-3,3,R16
+2026-0416,Rome Masters,20260506,M,Clay,294,209260,18,Luciano Darderi,R,183.0,23,212588,32,Rafael Jodar,U,,19,7-6(5) 5-7 6-0,3,QF
+2026-0416,Rome Masters,20260506,M,Clay,295,134770,23,Casper Ruud,R,183.0,27,111575,13,Karen Khachanov,R,198.0,29,6-1 1-6 6-2,3,QF
+2026-0416,Rome Masters,20260506,M,Clay,296,106421,7,Daniil Medvedev,R,198.0,29,211776,,Martin Landaluce,R,191.0,19,1-6 6-4 7-5,3,QF
+2026-0416,Rome Masters,20260506,M,Clay,297,206173,1,Jannik Sinner,R,191.0,24,126094,12,Andrey Rublev,R,188.0,28,6-2 6-4,3,QF
+2026-0416,Rome Masters,20260506,M,Clay,298,134770,23,Casper Ruud,R,183.0,27,209260,18,Luciano Darderi,R,183.0,23,6-1 6-1,3,SF
+2026-0416,Rome Masters,20260506,M,Clay,299,206173,1,Jannik Sinner,R,191.0,24,106421,7,Daniil Medvedev,R,198.0,29,6-2 5-7 6-4,3,SF
+2026-0416,Rome Masters,20260506,M,Clay,300,206173,1,Jannik Sinner,R,191.0,24,134770,23,Casper Ruud,R,183.0,27,6-4 6-4,3,F
